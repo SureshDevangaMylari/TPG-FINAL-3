@@ -1,0 +1,18 @@
+{
+  "patientName" : "Jennifer Traynor",
+  "bc" : "B",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT005",
+  "Effective Date" : "07-07-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "07-22-25",
+  "effectDate" : null,
+  "Member ID" : "543132357",
+  "Patient ID" : "0145579",
+  "details" : "Not_Approved"
+}

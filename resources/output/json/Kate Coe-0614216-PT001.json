@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kate Coe",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-19-26",
+  "NAC" : "1/16/26 - please check Tricare portal for auth jgs Automatically created pen",
+  "Case" : "PT001",
+  "Effective Date" : "01-16-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "241772806",
+  "Patient ID" : "0614216",
+  "Auth#" : "",
+  "details" : "Approved"
+}

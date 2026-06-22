@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Wendy Samila",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-19-24",
+  "NAC" : "08.13 last auth visit sched 08.12 waiting for sign off -jv",
+  "Case" : "PT001",
+  "Effective Date" : "08-12-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "-1",
+  "Next Visit" : "",
+  "Last Visit" : "08-12-24",
+  "R.Task" : "",
+  "Member ID" : "93796474F",
+  "Patient ID" : "0298174",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

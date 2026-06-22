@@ -1,0 +1,20 @@
+{
+  "patientName" : "Carlton Domler",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-24-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT003",
+  "Effective Date" : "11-21-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00032421400",
+  "Patient ID" : "0200215",
+  "ICD codes" : "M17.0",
+  "Auth#" : "0008805927",
+  "details" : "completed"
+}

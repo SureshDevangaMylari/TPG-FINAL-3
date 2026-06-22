@@ -1,0 +1,19 @@
+{
+  "patientName" : "Elena Diaz",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "06-13-25",
+  "NAC" : "06-12-25 - F/U 2x2 (By TIFO) - Initial content: Automatically created pendin",
+  "Case" : "PT002",
+  "Effective Date" : "06-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "06-21-25",
+  "Member ID" : "550448467",
+  "Patient ID" : "0329845",
+  "ICD codes" : "[M25.522, M79.602, R53.1, M77.12, BursitisContusionEpicondylitisFractureInstability/DislocationL1L2L3L4OsteoarthritisPainSprain]",
+  "details" : "Completed.."
+}

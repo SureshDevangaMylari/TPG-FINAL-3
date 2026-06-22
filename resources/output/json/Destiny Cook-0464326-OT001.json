@@ -1,0 +1,19 @@
+{
+  "patientName" : "Destiny Cook",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "02-20-25",
+  "NAC" : "F/U 2X3",
+  "Case" : "OT001",
+  "Effective Date" : "02-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-18-25",
+  "Member ID" : "F6E2127",
+  "Patient ID" : "0464326",
+  "ICD codes" : "[M79.641, S60.221A]",
+  "details" : "Completed.."
+}

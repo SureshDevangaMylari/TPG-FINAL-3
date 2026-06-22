@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michael McGraw",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-09-25",
+  "NAC" : "- f/u 4X12 (By JAWU) - Eval 3/21/25 (By TIFO) - Initial content: Automa",
+  "Case" : "PT001",
+  "Effective Date" : "04-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "04-25-25",
+  "effectDate" : "04-11-25",
+  "Member ID" : "00003011838",
+  "Patient ID" : "0486044",
+  "Auth#" : "45250990272",
+  "details" : "Submit"
+}

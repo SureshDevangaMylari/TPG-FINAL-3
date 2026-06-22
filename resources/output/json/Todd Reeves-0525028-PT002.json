@@ -1,0 +1,19 @@
+{
+  "patientName" : "Todd Reeves",
+  "bc" : "A",
+  "payor" : "Bardavon wc",
+  "NAD" : "08-27-25",
+  "NAC" : "f/u 1x5 pn on 08/26",
+  "Case" : "PT002",
+  "Effective Date" : "08-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "09-02-25",
+  "effectDate" : "08-19-25",
+  "Member ID" : "74WC398715",
+  "Patient ID" : "0525028",
+  "ICD codes" : "[M25.551, ]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Raquel Montejano",
+  "bc" : "A",
+  "payor" : "Physnet",
+  "NAD" : "03-03-25",
+  "NAC" : "03-03-25 07:24a (asolorzano) Please review the auth received. update auth reco",
+  "Case" : "PT002",
+  "Effective Date" : "03-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "03-03-25",
+  "Member ID" : "Clm#2022025856",
+  "Patient ID" : "0315565",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

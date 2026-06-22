@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rodney Tate",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "09-11-25",
+  "NAC" : "09-09-25 - f/u 2X6 (By JAWU) - Initial content: SIGNED RFA IN DOC (By _____)",
+  "Case" : "PT003",
+  "Effective Date" : "09-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "09-18-25",
+  "effectDate" : "09-02-25",
+  "Member ID" : "W238240-2437",
+  "Patient ID" : "0388126",
+  "ICD codes" : "[M25.512, R53.1, M25.511, L1]",
+  "details" : "Completed.."
+}

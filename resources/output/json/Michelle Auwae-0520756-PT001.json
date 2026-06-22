@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michelle Auwae",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-14-25",
+  "NAC" : "07-15-25 - f/u 2X10 (By JAWU) 07-11-25 - f/u 2x6w (By FRES) - Initial con",
+  "Case" : "PT001",
+  "Effective Date" : "05-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-22-25",
+  "Member ID" : "00003270886",
+  "Patient ID" : "0520756",
+  "Auth#" : "45251970237",
+  "details" : "Submit"
+}

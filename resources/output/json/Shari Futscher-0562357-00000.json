@@ -1,0 +1,20 @@
+{
+  "patientName" : "Shari Futscher",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "09-24-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-02-25",
+  "effectDate" : null,
+  "Member ID" : "XEP904843318",
+  "Patient ID" : "0562357",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

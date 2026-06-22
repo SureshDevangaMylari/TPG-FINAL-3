@@ -1,0 +1,19 @@
+{
+  "patientName" : "Margaret Hafer",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "07-08-25",
+  "NAC" : "- F/U 3x6 (By JAHE5) - Initial content: 07.02.25 Auth expires on 7/7 (By _",
+  "Case" : "PT004",
+  "Effective Date" : "07-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "07-09-25",
+  "effectDate" : "07-02-25",
+  "Member ID" : "00000040364",
+  "Patient ID" : "0288015",
+  "Auth#" : "45251890118",
+  "details" : "Submit"
+}

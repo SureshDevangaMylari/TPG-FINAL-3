@@ -1,0 +1,20 @@
+{
+  "patientName" : "Paul Vercellone",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-20-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "04-18-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00026001800",
+  "Patient ID" : "0653232",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no records found after entering npi number"
+}

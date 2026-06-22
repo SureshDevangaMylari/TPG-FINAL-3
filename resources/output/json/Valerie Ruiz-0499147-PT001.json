@@ -1,0 +1,18 @@
+{
+  "patientName" : "Valerie Ruiz",
+  "bc" : "A",
+  "payor" : "Set Comprehensive Care",
+  "NAD" : "07-15-25",
+  "NAC" : "07-14-25 - f/u 1X12 (By JAWU) 07-14-25 - need RFA doc. (By JAHE5) 07-11-25",
+  "Case" : "PT001",
+  "Effective Date" : "07-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-03-25",
+  "Member ID" : "0308436-WCMPRO",
+  "Patient ID" : "0499147",
+  "ICD codes" : "[M25.512, ]"
+}

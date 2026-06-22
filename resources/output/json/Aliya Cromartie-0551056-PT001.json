@@ -1,0 +1,19 @@
+{
+  "patientName" : "Aliya Cromartie",
+  "bc" : "A",
+  "payor" : "North Bay Schools Ins. Authority-WC",
+  "NAD" : "09-29-25",
+  "NAC" : "09-26-25 - F/U 2x3 (By JAHE5) - Initial content: pn on 09/25 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-18-25",
+  "Member ID" : "260089101",
+  "Patient ID" : "0551056",
+  "ICD codes" : "[M76.822, M72.2, R53.1, R26.9, ]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jannie Maynard",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-23-25",
+  "NAC" : "09-23-25 - f/u 2X6 (By JAWU) 09-23-25 - Eval note has been completed. (By CAV",
+  "Case" : "PT001",
+  "Effective Date" : "09-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "09-24-25",
+  "effectDate" : "09-02-25",
+  "Member ID" : "00002833841",
+  "Patient ID" : "0558469",
+  "Auth#" : "45252660160",
+  "details" : "Submit"
+}

@@ -1,0 +1,7 @@
+target/
+*.class
+*.jar
+logs/
+.idea/
+
+resources/output/Coding-To be coded/*.jar

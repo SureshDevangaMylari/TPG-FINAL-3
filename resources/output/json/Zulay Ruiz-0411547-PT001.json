@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Zulay Ruiz",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-15-24",
+  "NAC" : "08.08 submit once sched -jv",
+  "Case" : "PT001",
+  "Effective Date" : "08-08-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "96490758A",
+  "Patient ID" : "0411547",
+  "ICD codes" : "G56.00",
+  "Auth#" : "OP0019469401",
+  "details" : "completed"
+}

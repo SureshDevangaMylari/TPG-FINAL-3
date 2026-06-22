@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ryan Wilde",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-26-26",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "05-25-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "017049319",
+  "Patient ID" : "0669004",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DBN is a 11-digit number and the DODID is a 10-digit number"
+}

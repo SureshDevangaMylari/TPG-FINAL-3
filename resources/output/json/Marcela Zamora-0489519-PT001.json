@@ -1,0 +1,19 @@
+{
+  "patientName" : "Marcela Zamora",
+  "bc" : "A",
+  "payor" : "ESIS WC",
+  "NAD" : "06-24-25",
+  "NAC" : "06-20-25 - sent Task to see how many visits more: n/a on PN (By JEAR2) 06-17-",
+  "Case" : "PT001",
+  "Effective Date" : "06-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-11-25",
+  "Member ID" : "1E01E015999708",
+  "Patient ID" : "0489519",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ya Kenworthy",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-15-25",
+  "NAC" : "04-14-25 - F/U 2x10 (By TIFO) - Eval 4/14/25 (By TIFO) - Initial content",
+  "Case" : "PT006",
+  "Effective Date" : "04-14-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-8",
+  "NextVisit" : "04-21-25",
+  "effectDate" : "04-14-25",
+  "Member ID" : "00001442320",
+  "Patient ID" : "0192843",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

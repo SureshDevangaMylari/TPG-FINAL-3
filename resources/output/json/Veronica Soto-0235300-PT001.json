@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Veronica Soto",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-01-24",
+  "NAC" : "7.2 last visit 7/30",
+  "Case" : "PT001",
+  "Effective Date" : "07-30-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "07-30-24",
+  "R.Task" : "",
+  "Member ID" : "92303985E",
+  "Patient ID" : "0235300",
+  "ICD codes" : "S42.402A",
+  "Authorisation number" : "OP0019329597",
+  "details" : "completed"
+}

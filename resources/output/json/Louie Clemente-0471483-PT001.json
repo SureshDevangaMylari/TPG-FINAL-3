@@ -1,0 +1,19 @@
+{
+  "patientName" : "Louie Clemente",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "02-28-25",
+  "NAC" : "Last visit 2/27",
+  "Case" : "PT001",
+  "Effective Date" : "02-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "02-27-25",
+  "effectDate" : "02-20-25",
+  "Member ID" : "4A2401L1YR20001",
+  "Patient ID" : "0471483",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

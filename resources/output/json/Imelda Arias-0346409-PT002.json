@@ -1,0 +1,19 @@
+{
+  "patientName" : "Imelda Arias",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "09-16-25",
+  "NAC" : "F/U 2x6 - RR",
+  "Case" : "PT002",
+  "Effective Date" : "09-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-15-25",
+  "Member ID" : "FQX4524",
+  "Patient ID" : "0346409",
+  "ICD codes" : "[M54.16, G89.21, ]",
+  "details" : "Completed.."
+}

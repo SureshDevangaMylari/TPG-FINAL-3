@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Louise Brands",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-15-24",
+  "NAC" : "07.10 pt sched 08.22 =jv 07.03 SUBMIT ONCE SCHED -JV",
+  "Case" : "PT001",
+  "Effective Date" : "08-22-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "95312635E",
+  "Patient ID" : "0397245",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

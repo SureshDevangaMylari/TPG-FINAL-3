@@ -1,0 +1,20 @@
+{
+  "patientName" : "Shannon Poage",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-23-26",
+  "NAC" : "submit",
+  "Case" : "PT002",
+  "Effective Date" : "02-18-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01584738801",
+  "Patient ID" : "0628219",
+  "ICD codes" : "M25.531",
+  "Auth#" : "0009873398",
+  "details" : "completed"
+}

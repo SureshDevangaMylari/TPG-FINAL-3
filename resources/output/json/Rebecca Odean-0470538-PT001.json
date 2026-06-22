@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rebecca Odean",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-20-25",
+  "NAC" : "05-19-25 - f/u 2X10 (By JAWU) 05-15-25 - Auth Request: f/u 2/6 (By RODO1)",
+  "Case" : "PT001",
+  "Effective Date" : "05-14-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-14-25",
+  "Member ID" : "40647400002",
+  "Patient ID" : "0470538",
+  "Auth#" : "45251400333",
+  "details" : "Submit"
+}

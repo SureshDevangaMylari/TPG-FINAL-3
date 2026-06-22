@@ -1,0 +1,20 @@
+{
+  "patientName" : "Gabryale Andres",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-12-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "ST001",
+  "Effective Date" : "02-11-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01609535602",
+  "Patient ID" : "0625218",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

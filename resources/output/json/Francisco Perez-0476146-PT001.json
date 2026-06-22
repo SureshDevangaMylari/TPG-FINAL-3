@@ -1,0 +1,19 @@
+{
+  "patientName" : "Francisco Perez",
+  "bc" : "A",
+  "payor" : "One Call Care Physical Therapy WC",
+  "NAD" : "03-26-25",
+  "NAC" : "F/U 2X6",
+  "Case" : "PT001",
+  "Effective Date" : "03-04-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "03-10-25",
+  "effectDate" : "03-04-25",
+  "Member ID" : "2024011771",
+  "Patient ID" : "0476146",
+  "ICD codes" : "[Z48.89, M75.02, M25.622, G56.22]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Victoria Leavitt",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-11-25",
+  "NAC" : "04-10-25 - f/u 2X6 (By JAWU) 04-10-25 - Auth denied - not submitted correctly",
+  "Case" : "OT003",
+  "Effective Date" : "02-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-24-25",
+  "Member ID" : "00000035301",
+  "Patient ID" : "0344835",
+  "Auth#" : "45251010247",
+  "details" : "Submit"
+}

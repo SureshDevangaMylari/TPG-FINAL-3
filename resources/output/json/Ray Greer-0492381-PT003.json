@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ray Greer",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-13-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT003",
+  "Effective Date" : "05-11-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00678268100",
+  "Patient ID" : "0492381",
+  "ICD codes" : "M17.12",
+  "Auth#" : "0010967374",
+  "details" : "completed"
+}

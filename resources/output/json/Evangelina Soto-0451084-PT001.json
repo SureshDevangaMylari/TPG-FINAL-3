@@ -1,0 +1,20 @@
+{
+  "patientName" : "Evangelina Soto",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-19-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-02-24",
+  "effectDate" : null,
+  "Member ID" : "H60646775",
+  "Patient ID" : "0451084",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

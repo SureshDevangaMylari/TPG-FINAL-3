@@ -1,0 +1,19 @@
+{
+  "patientName" : "Clarence Patton",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-13-25",
+  "NAC" : "08-12-25 - f/u 2X10 (By JAWU) 08-12-25 - comment (By TAGA6) 08-11-25 - f/u",
+  "Case" : "PT001",
+  "Effective Date" : "07-14-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-14-25",
+  "Member ID" : "00000034173",
+  "Patient ID" : "0539286",
+  "Auth#" : "45252250313",
+  "details" : "Submit"
+}

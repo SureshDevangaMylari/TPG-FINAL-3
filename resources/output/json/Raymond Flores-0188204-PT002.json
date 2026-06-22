@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Raymond Flores",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-15-24",
+  "NAC" : "7.30 not schd submit once schd",
+  "Case" : "PT002",
+  "Effective Date" : "07-08-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "96589399D",
+  "Patient ID" : "0188204",
+  "ICD codes" : "M75.42",
+  "Auth#" : "OP0019466183",
+  "details" : "completed"
+}

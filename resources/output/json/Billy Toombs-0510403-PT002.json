@@ -1,0 +1,20 @@
+{
+  "patientName" : "Billy Toombs",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "09-23-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-01-25",
+  "effectDate" : "09-23-25",
+  "Member ID" : "H77756813",
+  "Patient ID" : "0510403",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

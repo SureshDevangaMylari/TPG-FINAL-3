@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Audreyonna Delacerda",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "ST004",
+  "Effective Date" : "08-26-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "08-26-24",
+  "Member ID" : "93068928G",
+  "Patient ID" : "0238995",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

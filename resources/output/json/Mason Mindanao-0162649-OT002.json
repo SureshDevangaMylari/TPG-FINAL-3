@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Mason Mindanao",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "OT002",
+  "Effective Date" : "08-22-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "98003096F",
+  "Patient ID" : "0162649",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

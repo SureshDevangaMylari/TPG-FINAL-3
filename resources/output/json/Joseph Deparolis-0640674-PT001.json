@@ -1,0 +1,20 @@
+{
+  "patientName" : "Joseph Deparolis",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-23-26",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "03-20-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00015805300",
+  "Patient ID" : "0640674",
+  "ICD codes" : "M25.552",
+  "Auth#" : "0010313620",
+  "details" : "completed"
+}

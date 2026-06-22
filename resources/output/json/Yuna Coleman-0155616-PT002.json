@@ -1,0 +1,18 @@
+{
+  "patientName" : "Yuna Coleman",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-04-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "09-03-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "616645855",
+  "Patient ID" : "0155616",
+  "details" : "NOt for PHYsical Therapy"
+}

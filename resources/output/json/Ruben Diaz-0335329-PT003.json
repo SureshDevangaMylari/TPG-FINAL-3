@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ruben Diaz",
+  "bc" : "A",
+  "payor" : "California Insurance Guarantee Asc",
+  "NAD" : "08-19-25",
+  "NAC" : "FU 2x6",
+  "Case" : "PT003",
+  "Effective Date" : "08-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-19-25",
+  "Member ID" : "113445013721",
+  "Patient ID" : "0335329",
+  "ICD codes" : "[M25.561, M25.661, L1]",
+  "details" : "Completed.."
+}

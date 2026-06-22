@@ -1,0 +1,20 @@
+{
+  "patientName" : "Joseph La Fornara",
+  "bc" : "A",
+  "payor" : "Cigna HMO (Hoag IPA)",
+  "NAD" : "09-09-25",
+  "NAC" : "09-09-25 - comment: no icd codes (By TIGA1) 09-08-25 - scheduled on 9/11 on a",
+  "Case" : "PT002",
+  "Effective Date" : "09-08-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "U6456282101",
+  "Patient ID" : "0524429",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

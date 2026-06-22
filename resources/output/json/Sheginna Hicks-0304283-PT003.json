@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sheginna Hicks",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-29-25",
+  "NAC" : "07-28-25 - F/U 2x8 (By ALMA4) 07-24-25 - IE not signed (By JAWU) 07-22-25",
+  "Case" : "PT003",
+  "Effective Date" : "06-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-2",
+  "NextVisit" : "08-01-25",
+  "effectDate" : "06-16-25",
+  "Member ID" : "00002276224",
+  "Patient ID" : "0304283",
+  "Auth#" : "45252130178",
+  "details" : "Submit"
+}

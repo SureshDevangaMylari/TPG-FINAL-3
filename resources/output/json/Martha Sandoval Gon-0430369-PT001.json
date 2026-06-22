@@ -1,0 +1,20 @@
+{
+  "patientName" : "Martha Sandoval Gon",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-12-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H78973102",
+  "Patient ID" : "0430369",
+  "ICD codes" : "R42",
+  "Auth#" : "200847136",
+  "details" : "CERTIFIED"
+}

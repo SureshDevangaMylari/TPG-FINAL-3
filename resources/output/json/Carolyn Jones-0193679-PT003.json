@@ -1,0 +1,19 @@
+{
+  "patientName" : "Carolyn Jones",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-09-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT003",
+  "Effective Date" : "04-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "04-09-25",
+  "Member ID" : "32357700001",
+  "Patient ID" : "0193679",
+  "Auth#" : "45250990310",
+  "details" : "Submit"
+}

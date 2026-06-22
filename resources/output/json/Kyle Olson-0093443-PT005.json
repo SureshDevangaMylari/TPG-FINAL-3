@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kyle Olson",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT005",
+  "Effective Date" : "04-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "04-29-25",
+  "Member ID" : "4055332",
+  "Patient ID" : "0093443",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

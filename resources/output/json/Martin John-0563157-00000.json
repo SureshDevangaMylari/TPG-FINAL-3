@@ -1,0 +1,20 @@
+{
+  "patientName" : "Martin John",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-18-25",
+  "NAC" : "can't find patient in portal - rm 9/15",
+  "Case" : "00000",
+  "Effective Date" : "09-12-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XE0912634272",
+  "Patient ID" : "0563157",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

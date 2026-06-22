@@ -1,0 +1,20 @@
+{
+  "patientName" : "Carl Williams",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "04-14-25 - requesting auth: f/u 8 visits total please and thank you ! -aestrada",
+  "Case" : "PT003",
+  "Effective Date" : "04-14-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H79801864",
+  "Patient ID" : "0341135",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

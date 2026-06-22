@@ -1,0 +1,19 @@
+{
+  "patientName" : "Henry DiTomaso",
+  "bc" : "A",
+  "payor" : "One Call Care Physical Therapy WC",
+  "NAD" : "07-07-25",
+  "NAC" : "updated auth to review?",
+  "Case" : "PT007",
+  "Effective Date" : "07-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-3",
+  "NextVisit" : "07-08-25",
+  "effectDate" : "07-03-25",
+  "Member ID" : "06894992",
+  "Patient ID" : "0270481",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

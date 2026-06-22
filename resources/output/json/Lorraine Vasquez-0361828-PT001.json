@@ -1,0 +1,20 @@
+{
+  "Patient Name" : "Lorraine Vasquez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT001",
+  "Effective Date" : "07-29-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "92978195A",
+  "Patient ID" : "0361828",
+  "ICD codes" : "",
+  "details" : "no icd codes"
+}

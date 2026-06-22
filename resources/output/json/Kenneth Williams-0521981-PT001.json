@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kenneth Williams",
+  "bc" : "A",
+  "payor" : "Sedgwick",
+  "NAD" : "09-17-25",
+  "NAC" : "F/U 2X3",
+  "Case" : "PT001",
+  "Effective Date" : "09-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-16-25",
+  "Member ID" : "STOCK007A1",
+  "Patient ID" : "0521981",
+  "ICD codes" : "[M54.17, M47.816, M54.50, G89.29, ]",
+  "details" : "Completed.."
+}

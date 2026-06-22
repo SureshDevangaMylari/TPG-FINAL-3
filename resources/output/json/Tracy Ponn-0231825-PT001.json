@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tracy Ponn",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-11-25",
+  "NAC" : "04-10-25 - F/U 1x6 (By TIFO) - Eval 4/10/25 (By TIFO) - Eval 3/20/25 (By",
+  "Case" : "PT001",
+  "Effective Date" : "04-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "04-10-25",
+  "Member ID" : "00001667924",
+  "Patient ID" : "0231825",
+  "Auth#" : "45251010285",
+  "details" : "Submit"
+}

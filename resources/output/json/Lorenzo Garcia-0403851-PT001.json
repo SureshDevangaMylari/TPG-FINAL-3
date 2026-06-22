@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Lorenzo Garcia",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-01-24",
+  "NAC" : "7.25 Submit once scheduled",
+  "Case" : "PT001",
+  "Effective Date" : "07-25-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "94187912C",
+  "Patient ID" : "0403851",
+  "ICD codes" : "M54.9",
+  "Authorisation number" : "OP0019329633",
+  "details" : "completed"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sandra White",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-30-25",
+  "NAC" : "05-29-25 - f/u 2X8 (By JAWU) 05-23-25 - IE still not done - sent task to clin",
+  "Case" : "PT002",
+  "Effective Date" : "05-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-19-25",
+  "Member ID" : "00000485646",
+  "Patient ID" : "0469976",
+  "Auth#" : "45251540198",
+  "details" : "Submit"
+}

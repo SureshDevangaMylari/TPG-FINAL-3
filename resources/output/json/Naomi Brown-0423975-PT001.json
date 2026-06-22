@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Naomi Brown",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-11-24",
+  "NAC" : "L2 NP please verify auth",
+  "Case" : "PT001",
+  "Effective Date" : "09-10-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-10-24",
+  "Member ID" : "903319651000",
+  "Patient ID" : "0423975",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

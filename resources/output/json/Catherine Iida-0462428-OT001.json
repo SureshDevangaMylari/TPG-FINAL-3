@@ -1,0 +1,19 @@
+{
+  "patientName" : "Catherine Iida",
+  "bc" : "A",
+  "payor" : "Athens Adminstrators WC",
+  "NAD" : "02-24-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "OT001",
+  "Effective Date" : "02-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-18-25",
+  "Member ID" : "WC202481847",
+  "Patient ID" : "0462428",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

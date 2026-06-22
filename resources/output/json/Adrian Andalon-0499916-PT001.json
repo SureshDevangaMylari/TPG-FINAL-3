@@ -1,0 +1,19 @@
+{
+  "patientName" : "Adrian Andalon",
+  "bc" : "A",
+  "payor" : "Align Network/OneCall -WC",
+  "NAD" : "05-15-25",
+  "NAC" : "pn on 05/14",
+  "Case" : "PT001",
+  "Effective Date" : "05-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "05-14-25",
+  "effectDate" : "05-09-25",
+  "Member ID" : "A9WC430576-004",
+  "Patient ID" : "0499916",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

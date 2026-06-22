@@ -1,0 +1,20 @@
+{
+  "patientName" : "Sereda Alexander",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-24-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT003",
+  "Effective Date" : "02-23-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00464942802",
+  "Patient ID" : "0164285",
+  "ICD codes" : "M17.11",
+  "Auth#" : "0009904665",
+  "details" : "completed"
+}

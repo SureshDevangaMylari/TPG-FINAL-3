@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Carlos Vargas",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "OT002",
+  "Effective Date" : "08-28-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "08-28-24",
+  "Member ID" : "97566813G",
+  "Patient ID" : "0376539",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

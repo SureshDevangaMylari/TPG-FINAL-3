@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sommer Hamlin",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-10-25",
+  "NAC" : "- F/U 2x4 (By TIFO) - Initial content: Eval on 7/9 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "07-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-09-25",
+  "Member ID" : "73902700010",
+  "Patient ID" : "0535788",
+  "Auth#" : "45251920118",
+  "details" : "Submit"
+}

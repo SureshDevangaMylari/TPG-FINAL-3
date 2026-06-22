@@ -1,0 +1,20 @@
+{
+  "patientName" : "Emily Reay Senter",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "06-26-25",
+  "NAC" : "06-24-25 - submitted via portal 0006853440 (By TALA1) - Initial content: Aut",
+  "Case" : "00000",
+  "Effective Date" : "06-24-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "06-24-25",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01332408004",
+  "Patient ID" : "0532417",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No Physical therapthy service line"
+}

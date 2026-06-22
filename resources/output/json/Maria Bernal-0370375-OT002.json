@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maria Bernal",
+  "bc" : "A",
+  "payor" : "Athens Admin WC",
+  "NAD" : "08-25-25",
+  "NAC" : "08-21-25 - f/u 2X9 (By JAWU) 08-19-25 - There is a signed: POC in chart. (By",
+  "Case" : "OT002",
+  "Effective Date" : "08-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-12-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-11-25",
+  "Member ID" : "24013177",
+  "Patient ID" : "0370375",
+  "ICD codes" : "[M65.4, M25.521, G56.01, L1]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Olivia Slone",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "05-04-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01228323602",
+  "Patient ID" : "0569380",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : " no RX_LEAD DOC"
+}

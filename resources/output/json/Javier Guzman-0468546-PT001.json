@@ -1,0 +1,19 @@
+{
+  "patientName" : "Javier Guzman",
+  "bc" : "A",
+  "payor" : "MedComp USA, Inc. -WC",
+  "NAD" : "02-28-25",
+  "NAC" : "Last visit 2/27",
+  "Case" : "PT001",
+  "Effective Date" : "02-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-28-25",
+  "Member ID" : "23024097",
+  "Patient ID" : "0468546",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Maria Dheming",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-18-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H5192601700",
+  "Patient ID" : "0434183",
+  "ICD codes" : "M54.2",
+  "Auth#" : "200971953",
+  "details" : "PENDED"
+}

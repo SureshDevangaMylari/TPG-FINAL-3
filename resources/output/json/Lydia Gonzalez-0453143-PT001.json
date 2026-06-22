@@ -1,0 +1,18 @@
+{
+  "patientName" : "Lydia Gonzalez",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "11-26-24",
+  "NAC" : "11/25/24 AUTH# Submitted 200973935 Automatically created pending authorization",
+  "Case" : "PT001",
+  "Effective Date" : "11-24-24",
+  "Sub status" : "Pending with Insurance",
+  "Request Date" : "11-25-24",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-31-24",
+  "effectDate" : null,
+  "Member ID" : "H75283457 ",
+  "Patient ID" : "0453143",
+  "details" : "CERTIFIED IN TOTAL"
+}

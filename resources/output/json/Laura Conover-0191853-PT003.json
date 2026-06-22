@@ -1,0 +1,20 @@
+{
+  "patientName" : "Laura Conover",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-11-25",
+  "NAC" : "Please check hoag portal for approved auth. TY-kl",
+  "Case" : "PT003",
+  "Effective Date" : "09-10-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEQ912451668",
+  "Patient ID" : "0191853",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

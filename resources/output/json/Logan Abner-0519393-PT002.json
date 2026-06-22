@@ -1,0 +1,18 @@
+{
+  "patientName" : "Logan Abner",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "07-31-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "07-30-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01974885500",
+  "Patient ID" : "0519393",
+  "details" : "NOt for PHYsical Therapy"
+}

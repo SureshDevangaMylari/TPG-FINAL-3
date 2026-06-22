@@ -1,0 +1,19 @@
+{
+  "patientName" : "Yasamin Zarrabi",
+  "bc" : "A",
+  "payor" : "Medcomp USA, Inc. DBA MTI",
+  "NAD" : "09-04-25",
+  "NAC" : "09-04-25 - MD signed RFA uploaded = (By REJO) 09-02-25 - PCC CLOSED TASK- EXP",
+  "Case" : "PT001",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-06-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-29-25",
+  "Member ID" : "CVCTWJ",
+  "Patient ID" : "0511435",
+  "ICD codes" : "[S80.02XD, S83.92XD, M25.562, R53.1, ]",
+  "details" : "Completed.."
+}

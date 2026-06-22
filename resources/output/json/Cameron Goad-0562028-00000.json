@@ -1,0 +1,20 @@
+{
+  "patientName" : "Cameron Goad",
+  "bc" : "A",
+  "payor" : "Cigna HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "09-10-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "U8045985201",
+  "Patient ID" : "0562028",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

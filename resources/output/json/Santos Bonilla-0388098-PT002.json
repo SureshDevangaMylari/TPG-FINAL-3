@@ -1,0 +1,19 @@
+{
+  "patientName" : "Santos Bonilla",
+  "bc" : "A",
+  "payor" : "Athens Administrators WC",
+  "NAD" : "06-17-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT002",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "06-16-25",
+  "effectDate" : "06-10-25",
+  "Member ID" : "22881605",
+  "Patient ID" : "0388098",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,20 @@
+{
+  "Patient Name" : "Jayme Lerma",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-01-24",
+  "NAC" : "submit once sched -jv",
+  "Case" : "PT001",
+  "Effective Date" : "07-25-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "92366531D",
+  "Patient ID" : "0405720",
+  "ICD codes" : "R42",
+  "details" : "no icd codes"
+}

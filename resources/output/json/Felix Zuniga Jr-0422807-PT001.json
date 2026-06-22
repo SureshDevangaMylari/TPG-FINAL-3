@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Felix Zuniga Jr",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-10-24",
+  "NAC" : "submit .mi",
+  "Case" : "PT001",
+  "Effective Date" : "09-06-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-06-24",
+  "Member ID" : "ICA033335",
+  "Patient ID" : "0422807",
+  "ICD codes" : "m54.50",
+  "Auth#" : "20240910710270800010",
+  "details" : "completed"
+}

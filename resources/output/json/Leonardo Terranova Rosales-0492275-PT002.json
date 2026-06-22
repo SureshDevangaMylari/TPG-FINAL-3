@@ -1,0 +1,19 @@
+{
+  "patientName" : "Leonardo Terranova Rosales",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-25-25",
+  "NAC" : "- F/U 2x8 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT002",
+  "Effective Date" : "06-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-13-25",
+  "Member ID" : "00000663017",
+  "Patient ID" : "0492275",
+  "Auth#" : "45251770190",
+  "details" : "Submit"
+}

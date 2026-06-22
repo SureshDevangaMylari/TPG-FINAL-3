@@ -1,0 +1,19 @@
+{
+  "patientName" : "Esther Dzikunu",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "01-16-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "02204125701",
+  "Patient ID" : "0529886",
+  "Auth#" : "",
+  "details" : "Approved"
+}

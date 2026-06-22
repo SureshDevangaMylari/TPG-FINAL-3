@@ -1,0 +1,19 @@
+{
+  "patientName" : "Malisa Winters",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-28-25",
+  "NAC" : "- F/U 2x10 (By TIFO) - Initial content: eval 5/23 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "05-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-2",
+  "NextVisit" : "05-30-25",
+  "effectDate" : "05-23-25",
+  "Member ID" : "00001504078",
+  "Patient ID" : "0506578",
+  "Auth#" : "45251490072",
+  "details" : "Submit"
+}

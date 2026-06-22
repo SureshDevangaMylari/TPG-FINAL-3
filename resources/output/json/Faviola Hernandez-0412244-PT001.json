@@ -1,0 +1,19 @@
+{
+  "patientName" : "Faviola Hernandez",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "02-26-25",
+  "NAC" : "02-20-25 - f/u 1x8 (By MAVA4) 02-19-25 - 1st attempt: Updated RFA with new f&",
+  "Case" : "PT001",
+  "Effective Date" : "01-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "01-09-25",
+  "Member ID" : "2024005205",
+  "Patient ID" : "0412244",
+  "ICD codes" : "[M25.562]",
+  "details" : "Completed.."
+}

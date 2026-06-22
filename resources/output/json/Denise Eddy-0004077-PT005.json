@@ -1,0 +1,19 @@
+{
+  "patientName" : "Denise Eddy",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-16-25",
+  "NAC" : "12-17-25 - obtain auth from portal (By JEAR2) - Initial content: IE 03/17/26",
+  "Case" : "PT005",
+  "Effective Date" : "12-15-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00696236202",
+  "Patient ID" : "0004077",
+  "Auth#" : "",
+  "details" : "Approved"
+}

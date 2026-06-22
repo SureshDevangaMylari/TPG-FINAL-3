@@ -1,0 +1,19 @@
+{
+  "patientName" : "Linda Bettis",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-22-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT007",
+  "Effective Date" : "12-19-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00702442502",
+  "Patient ID" : "0217499",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Maklin Asmar",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-13-24",
+  "NAC" : "SCHD 8.22",
+  "Case" : "PT002",
+  "Effective Date" : "08-22-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "97123766C",
+  "Patient ID" : "0328539",
+  "ICD codes" : "G51.0",
+  "Auth#" : "OP0019430100",
+  "details" : "completed"
+}

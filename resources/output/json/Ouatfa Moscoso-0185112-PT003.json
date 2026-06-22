@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ouatfa Moscoso",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-16-26",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT003",
+  "Effective Date" : "04-15-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "04-16-26",
+  "effectDate" : null,
+  "Member ID" : "601162311",
+  "Patient ID" : "0185112",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

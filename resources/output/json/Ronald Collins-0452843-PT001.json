@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ronald Collins",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-22-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H47108730",
+  "Patient ID" : "0452843",
+  "ICD codes" : "M48.32",
+  "Auth#" : "200973750",
+  "details" : "PENDED"
+}

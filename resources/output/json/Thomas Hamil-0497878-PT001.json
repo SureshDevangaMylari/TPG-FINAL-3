@@ -1,0 +1,19 @@
+{
+  "patientName" : "Thomas Hamil",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-04-25",
+  "NAC" : "- F/U 2x6 (By LULO) - Eval 4/2/25 (By TIFO) - Initial content: Automati",
+  "Case" : "PT001",
+  "Effective Date" : "04-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "04-03-25",
+  "Member ID" : "32307200002",
+  "Patient ID" : "0497878",
+  "Auth#" : "45250940288",
+  "details" : "Submit"
+}

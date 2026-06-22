@@ -1,0 +1,20 @@
+{
+  "bc" : "Symphany Pang",
+  "payor" : "A",
+  "NAD" : "Sequoia Health IPA/Conifer Health",
+  "NAC" : "",
+  "Case" : "Automatically created pending authorization, created on adding a new case record",
+  "Effective Date" : "PT002",
+  "Sub status" : "10-03-24",
+  "Request Date" : "Created from case adding",
+  "Allowed" : "",
+  "Remaining" : "0",
+  "NextVisit" : "0",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "97556662F",
+  "Patient ID" : "0257387",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

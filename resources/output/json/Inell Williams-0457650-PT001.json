@@ -1,0 +1,19 @@
+{
+  "patientName" : "Inell Williams",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-30-25",
+  "NAC" : "07-29-25 - F/U 3x8 (By CHZI) 07-28-25 - Tasked sent to clinic. Still need sig",
+  "Case" : "PT001",
+  "Effective Date" : "07-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-5",
+  "NextVisit" : "08-04-25",
+  "effectDate" : "07-25-25",
+  "Member ID" : "00002704597",
+  "Patient ID" : "0457650",
+  "Auth#" : "45252120338",
+  "details" : "Submit"
+}

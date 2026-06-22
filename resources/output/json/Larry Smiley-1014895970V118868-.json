@@ -1,0 +1,21 @@
+{
+  "patientName" : "Larry Smiley",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "04-23-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1014895970V118868",
+  "Patient ID" : "0473993",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "pinNum" : "0473993",
+  "details" : "Wrong payor VA"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Rickey Wilson",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-17-25",
+  "NAC" : "07-16-25 - f/u 2x8w (By FRES) - Initial content: Eval n 7/16 (By _____)",
+  "Case" : "PT003",
+  "Effective Date" : "06-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "07-22-25",
+  "effectDate" : "06-24-25",
+  "Member ID" : "00000633580",
+  "Patient ID" : "0193649",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No visit freq in comment box"
+}

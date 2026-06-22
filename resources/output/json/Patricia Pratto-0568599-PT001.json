@@ -1,0 +1,20 @@
+{
+  "patientName" : "Patricia Pratto",
+  "bc" : "A",
+  "payor" : "SCAN MA HMO (Hoag IPA)",
+  "NAD" : "09-29-25",
+  "NAC" : "NoRecordsFound NoRecordsFound Automatically created pending authorization,",
+  "Case" : "PT001",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "40032771401",
+  "Patient ID" : "0568599",
+  "ICD codes" : "M17.5",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

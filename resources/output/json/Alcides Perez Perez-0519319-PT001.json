@@ -1,0 +1,20 @@
+{
+  "patientName" : "Alcides Perez Perez",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "",
+  "NAC" : "",
+  "Case" : "PT001",
+  "Effective Date" : "06-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-16-25",
+  "Member ID" : "00001148630",
+  "Patient ID" : "0519319",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No visit freq in comment box"
+}

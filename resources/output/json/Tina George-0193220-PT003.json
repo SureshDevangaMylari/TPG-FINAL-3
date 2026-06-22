@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tina George",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-12-25",
+  "NAC" : "- F/U 2x6 (By TIFO) 06-10-25 - tasked clinic to have provider sign off on IE",
+  "Case" : "PT003",
+  "Effective Date" : "06-06-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-3",
+  "NextVisit" : "06-12-25",
+  "effectDate" : "06-06-25",
+  "Member ID" : "00003092767",
+  "Patient ID" : "0193220",
+  "Auth#" : "45251630041",
+  "details" : "Submit"
+}

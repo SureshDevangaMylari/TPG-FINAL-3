@@ -1,0 +1,20 @@
+{
+  "patientName" : "Lynn Rees",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-18-25",
+  "NAC" : "check if theres auth on portal",
+  "Case" : "PT003",
+  "Effective Date" : "11-17-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "006166991201",
+  "Patient ID" : "0181642",
+  "ICD codes" : "M79.659",
+  "Auth#" : "0008732854",
+  "details" : "completed"
+}

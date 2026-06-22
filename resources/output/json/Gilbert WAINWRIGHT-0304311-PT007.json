@@ -1,0 +1,20 @@
+{
+  "patientName" : "Gilbert WAINWRIGHT",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "09-23-25",
+  "NAC" : "09-22-25 - submit (By TIFO) 09-22-25 - rx in chart dated 9/16/25 (By ANFI2)",
+  "Case" : "PT007",
+  "Effective Date" : "09-16-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-03-25",
+  "effectDate" : "09-16-25",
+  "Member ID" : "H98279646",
+  "Patient ID" : "0304311",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

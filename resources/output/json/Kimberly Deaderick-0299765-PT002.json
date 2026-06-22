@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kimberly Deaderick",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-23-25",
+  "NAC" : "- F/U 2x3 (By TIFO) - Eval 7/22/25 (By TIFO) - Initial content: Eval on",
+  "Case" : "PT002",
+  "Effective Date" : "07-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-22-25",
+  "Member ID" : "38768600003",
+  "Patient ID" : "0299765",
+  "Auth#" : "45252040162",
+  "details" : "Submit"
+}

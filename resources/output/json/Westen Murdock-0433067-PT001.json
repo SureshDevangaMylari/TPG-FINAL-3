@@ -1,0 +1,20 @@
+{
+  "patientName" : "Westen Murdock",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-04-24",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "10-02-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "93501202F",
+  "Patient ID" : "0433067",
+  "ICD codes" : "S83.001A",
+  "Auth#" : "6326749",
+  "details" : "completed"
+}

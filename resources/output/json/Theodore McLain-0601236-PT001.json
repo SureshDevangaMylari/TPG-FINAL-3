@@ -1,0 +1,19 @@
+{
+  "patientName" : "Theodore McLain",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-15-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "12-11-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00700410903",
+  "Patient ID" : "0601236",
+  "Auth#" : "",
+  "details" : "Approved"
+}

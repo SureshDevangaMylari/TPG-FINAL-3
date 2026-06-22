@@ -1,0 +1,19 @@
+{
+  "patientName" : "Julius Dempsky",
+  "bc" : "A",
+  "payor" : "City and County of San Francisco",
+  "NAD" : "07-08-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "OT003",
+  "Effective Date" : "06-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-07-25",
+  "effectDate" : "06-20-25",
+  "Member ID" : "240396",
+  "Patient ID" : "0279716",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

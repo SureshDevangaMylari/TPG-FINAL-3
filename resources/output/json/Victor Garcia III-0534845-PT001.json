@@ -1,0 +1,18 @@
+{
+  "patientName" : "Victor Garcia III",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "08-12-25",
+  "NAC" : "np submit for auth",
+  "Case" : "PT001",
+  "Effective Date" : "08-12-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "10-23-25",
+  "effectDate" : null,
+  "Member ID" : "01355902000",
+  "Patient ID" : "0534845",
+  "details" : "Auth not on portal"
+}

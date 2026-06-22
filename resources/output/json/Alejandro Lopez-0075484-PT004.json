@@ -1,0 +1,19 @@
+{
+  "patientName" : "Alejandro Lopez",
+  "bc" : "A",
+  "payor" : "Streamline WC",
+  "NAD" : "07-23-25",
+  "NAC" : "- Initial content: f/u 2x6 (By _____)",
+  "Case" : "PT004",
+  "Effective Date" : "07-17-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-24-25",
+  "effectDate" : "07-17-25",
+  "Member ID" : "1188577",
+  "Patient ID" : "0075484",
+  "ICD codes" : "[M25.511, M75.01, M62.81, L1]",
+  "details" : "Completed.."
+}

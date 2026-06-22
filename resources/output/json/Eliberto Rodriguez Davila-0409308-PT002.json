@@ -1,0 +1,19 @@
+{
+  "patientName" : "Eliberto Rodriguez Davila",
+  "bc" : "A",
+  "payor" : "Associated Risk Management WC",
+  "NAD" : "02-21-25",
+  "NAC" : "02-04-25 - needs auth: requesting auth for patient 2 times 8 weeks - aestrada (B",
+  "Case" : "PT002",
+  "Effective Date" : "01-31-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "01-31-25",
+  "Member ID" : "5012091720241426",
+  "Patient ID" : "0409308",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

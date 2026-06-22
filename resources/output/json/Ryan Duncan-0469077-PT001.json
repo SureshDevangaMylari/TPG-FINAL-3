@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ryan Duncan",
+  "bc" : "A",
+  "payor" : "Athens WC Insurance Company",
+  "NAD" : "03-03-25",
+  "NAC" : "F/U 8 visits",
+  "Case" : "PT001",
+  "Effective Date" : "02-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "03-03-25",
+  "effectDate" : "02-27-25",
+  "Member ID" : "24024937",
+  "Patient ID" : "0469077",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

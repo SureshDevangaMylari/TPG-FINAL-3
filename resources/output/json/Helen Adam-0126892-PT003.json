@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Helen Adam",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-17-24",
+  "NAC" : "F/U 2x6 AQUA please obtain auth; PN complete",
+  "Case" : "PT003",
+  "Effective Date" : "09-13-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "-2",
+  "Next Visit" : "09-18-24",
+  "Last Visit" : "09-13-24",
+  "R.Task" : "",
+  "effectDate" : "09-13-24",
+  "Member ID" : "00000271115",
+  "Patient ID" : "0126892",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

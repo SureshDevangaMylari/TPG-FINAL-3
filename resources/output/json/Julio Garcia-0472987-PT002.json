@@ -1,0 +1,19 @@
+{
+  "patientName" : "Julio Garcia",
+  "bc" : "A",
+  "payor" : "Medcomp USA, Inc. DBA MTI",
+  "NAD" : "08-07-25",
+  "NAC" : "08-06-25 - f/u 2X4 (By JAWU) 08-05-25 - PN still not signed (By JAWU) - I",
+  "Case" : "PT002",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "2024068333",
+  "Patient ID" : "0472987",
+  "ICD codes" : "[M54.50, M25.561, M25.562, M25.512, Sprain]",
+  "details" : "Completed.."
+}

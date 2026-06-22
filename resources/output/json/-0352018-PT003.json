@@ -1,0 +1,18 @@
+{
+  "patientName" : "",
+  "bc" : "",
+  "payor" : "",
+  "NAD" : "",
+  "NAC" : "",
+  "Case" : "",
+  "Effective Date" : "",
+  "Sub status" : "",
+  "Request Date" : "",
+  "Allowed" : "",
+  "Remaining" : "",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "014841257-01",
+  "Patient ID" : "0352018",
+  "details" : "NOt for PHYsical Therapy"
+}

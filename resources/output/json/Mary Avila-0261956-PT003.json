@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Mary Avila",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-10-24",
+  "NAC" : "submit for auth .mi",
+  "Case" : "PT003",
+  "Effective Date" : "09-05-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-05-24",
+  "Member ID" : "0155331-01",
+  "Patient ID" : "0261956",
+  "ICD codes" : "s83.282d",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

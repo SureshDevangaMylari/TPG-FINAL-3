@@ -1,0 +1,19 @@
+{
+  "patientName" : "Herman Alcantara",
+  "bc" : "A",
+  "payor" : "Medrisk",
+  "NAD" : "02-25-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT003",
+  "Effective Date" : "02-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "02-24-25",
+  "effectDate" : "02-20-25",
+  "Member ID" : "004909-004990-WC-01",
+  "Patient ID" : "0232955",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Elena Hernandez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-12-24",
+  "NAC" : "7.31 Scheduled 8.21 7.11 Not scheduled 7.3 Submit once scheduled",
+  "Case" : "PT002",
+  "Effective Date" : "07-02-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "92238924A",
+  "Patient ID" : "0299685",
+  "ICD codes" : "N39.3",
+  "Auth#" : "OP0019419927",
+  "details" : "completed"
+}

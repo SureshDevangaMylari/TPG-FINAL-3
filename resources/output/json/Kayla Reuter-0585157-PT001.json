@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kayla Reuter",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-04-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-03-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "11-24-25",
+  "effectDate" : null,
+  "Member ID" : "01158955501",
+  "Patient ID" : "0585157",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tamicka Johnson",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-28-25",
+  "NAC" : "04-25-25 - f/u 2X10 (By JAWU) 04-23-25 - Auth Req: f/u 2/6 (By RODO1) - I",
+  "Case" : "PT001",
+  "Effective Date" : "04-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "04-22-25",
+  "Member ID" : "00000358669",
+  "Patient ID" : "0502697",
+  "Auth#" : "45251180047",
+  "details" : "Submit"
+}

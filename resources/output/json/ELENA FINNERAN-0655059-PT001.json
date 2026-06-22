@@ -1,0 +1,19 @@
+{
+  "patientName" : "ELENA FINNERAN",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-23-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "04-22-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00739062003",
+  "Patient ID" : "0655059",
+  "Auth#" : "",
+  "details" : "Approved"
+}

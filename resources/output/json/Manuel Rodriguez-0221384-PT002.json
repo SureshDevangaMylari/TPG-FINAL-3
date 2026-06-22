@@ -1,0 +1,19 @@
+{
+  "patientName" : "Manuel Rodriguez",
+  "bc" : "A",
+  "payor" : "Payer Direct, Inc. -WC",
+  "NAD" : "08-14-25",
+  "NAC" : "08-13-25 - F/U 1X8 (By ERDU) - Initial content: Automatically created pendin",
+  "Case" : "PT002",
+  "Effective Date" : "08-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-12-25",
+  "Member ID" : "ESP250048",
+  "Patient ID" : "0221384",
+  "ICD codes" : "[S82.62XA, M25.572, L1]",
+  "details" : "Completed.."
+}

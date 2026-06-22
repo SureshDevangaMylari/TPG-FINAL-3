@@ -1,0 +1,19 @@
+{
+  "patientName" : "Teresa Silva",
+  "bc" : "A",
+  "payor" : "Copper Point",
+  "NAD" : "05-09-25",
+  "NAC" : "pn on 05/08",
+  "Case" : "PT002",
+  "Effective Date" : "04-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "04-24-25",
+  "Member ID" : "1000064338",
+  "Patient ID" : "0282250",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

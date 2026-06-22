@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Diego Gallegos Medina",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-26-24",
+  "NAC" : "F/U 1 X 12",
+  "Case" : "PT001",
+  "Effective Date" : "08-07-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-06-24",
+  "R.Task" : "",
+  "effectDate" : "08-07-24",
+  "Member ID" : "91231731H",
+  "Patient ID" : "0369560",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

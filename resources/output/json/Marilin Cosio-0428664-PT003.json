@@ -1,0 +1,19 @@
+{
+  "patientName" : "Marilin Cosio",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-15-25",
+  "NAC" : "- F/U 2x8 (By ABES1) - Initial content: 9/11 (By _____)",
+  "Case" : "PT003",
+  "Effective Date" : "09-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "09-17-25",
+  "effectDate" : "09-09-25",
+  "Member ID" : "00003206004",
+  "Patient ID" : "0428664",
+  "Auth#" : "45252580259",
+  "details" : "Submit"
+}

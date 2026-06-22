@@ -1,0 +1,19 @@
+{
+  "patientName" : "Alan Garcia",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "07-17-25",
+  "NAC" : "07.15 F/UP 2x3",
+  "Case" : "OT001",
+  "Effective Date" : "07-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "07-17-25",
+  "effectDate" : "07-15-25",
+  "Member ID" : "1E01E017578824",
+  "Patient ID" : "0508839",
+  "ICD codes" : "[M25.541, M67.833, Tendonitis]",
+  "details" : "Completed.."
+}

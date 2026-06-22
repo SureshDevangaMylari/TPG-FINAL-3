@@ -1,0 +1,20 @@
+{
+  "patientName" : "Angelina Pinedo",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "05-02-25",
+  "NAC" : "- PN ON 4/21 (By STBU) - Initial content: last visit 4/9 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "04-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-05-25",
+  "Member ID" : "00002990077",
+  "Patient ID" : "0429816",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No visit freq in comment box"
+}

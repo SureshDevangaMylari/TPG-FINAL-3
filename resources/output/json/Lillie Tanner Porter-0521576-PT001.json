@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lillie Tanner Porter",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-09-25",
+  "NAC" : "f/u 2X4 Eval on 6/6",
+  "Case" : "PT001",
+  "Effective Date" : "05-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-28-25",
+  "Member ID" : "00000407964",
+  "Patient ID" : "0521576",
+  "Auth#" : "45251610082",
+  "details" : "Submit"
+}

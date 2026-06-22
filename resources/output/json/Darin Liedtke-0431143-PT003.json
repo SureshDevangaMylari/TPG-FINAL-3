@@ -1,0 +1,19 @@
+{
+  "patientName" : "Darin Liedtke",
+  "bc" : "A",
+  "payor" : "Sedgwick",
+  "NAD" : "02-27-25",
+  "NAC" : "F/U 2x6 (URGENT Post Op)",
+  "Case" : "PT003",
+  "Effective Date" : "02-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-27-25",
+  "Member ID" : "000028828701",
+  "Patient ID" : "0431143",
+  "ICD codes" : "[G57.92, M24.272, Z47.89, M25.572]",
+  "details" : "Completed.."
+}

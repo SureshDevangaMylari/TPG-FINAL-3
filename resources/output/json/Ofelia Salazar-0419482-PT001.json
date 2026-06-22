@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ofelia Salazar",
+  "bc" : "A",
+  "payor" : "Bardavon Health Innovations",
+  "NAD" : "",
+  "NAC" : "01-07-25 - F/U 2X4 (By ERDU) - Initial content: Automatically created pendin",
+  "Case" : "PT001",
+  "Effective Date" : "01-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "01-02-25",
+  "Member ID" : "BERS00000580",
+  "Patient ID" : "0419482",
+  "ICD codes" : "[M54.2, M54.50]",
+  "details" : "No Case Manager and Adjuster"
+}

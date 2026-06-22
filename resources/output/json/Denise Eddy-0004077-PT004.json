@@ -1,0 +1,19 @@
+{
+  "patientName" : "Denise Eddy",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT004",
+  "Effective Date" : "05-26-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00696236202",
+  "Patient ID" : "0004077",
+  "Auth#" : "",
+  "details" : "Approved"
+}

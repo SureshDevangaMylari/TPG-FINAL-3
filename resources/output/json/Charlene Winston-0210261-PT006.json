@@ -1,0 +1,19 @@
+{
+  "patientName" : "Charlene Winston",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-13-25",
+  "NAC" : "05-12-25 - f/u 2X8 (By JAWU) 05-09-25 - need signed IE for frequency (By TIFO",
+  "Case" : "PT006",
+  "Effective Date" : "05-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-07-25",
+  "Member ID" : "00002218345",
+  "Patient ID" : "0210261",
+  "Auth#" : "45251330224",
+  "details" : "Submit"
+}

@@ -1,0 +1,21 @@
+{
+  "patientName" : "Bill Gonzalez",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "03-04-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1023966915V750934",
+  "Patient ID" : "0323018",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "pinNum" : "0323018",
+  "details" : "Wrong payor VA"
+}

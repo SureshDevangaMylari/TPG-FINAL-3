@@ -1,0 +1,20 @@
+{
+  "patientName" : "Zane Essick",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-24-25",
+  "NAC" : "Patient said auth was approved",
+  "Case" : "PT001",
+  "Effective Date" : "11-20-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "600817181",
+  "Patient ID" : "0593507",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

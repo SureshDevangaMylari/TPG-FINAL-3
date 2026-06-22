@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maria Silva",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-15-25",
+  "NAC" : "- F/U 2x6 (By CHZI) - Initial content: IE 9/12 (By _____)",
+  "Case" : "OT001",
+  "Effective Date" : "09-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "09-16-25",
+  "effectDate" : "09-15-25",
+  "Member ID" : "00003247717",
+  "Patient ID" : "0532747",
+  "Auth#" : "45252580362",
+  "details" : "Submit"
+}

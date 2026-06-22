@@ -1,0 +1,19 @@
+{
+  "patientName" : "Dorian Burwell",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-29-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Eval 5/28/25 (By TIFO) - Initial content: 5/9 IE",
+  "Case" : "PT001",
+  "Effective Date" : "05-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-28-25",
+  "Member ID" : "39100600001",
+  "Patient ID" : "0514835",
+  "Auth#" : "45251490341",
+  "details" : "Submit"
+}

@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Brenda Sutherland",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-10-24",
+  "NAC" : "9/9 Received a call from Medrisk needing more information but patient has Alignm",
+  "Case" : "PT002",
+  "Effective Date" : "08-22-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "1",
+  "Rem" : "0",
+  "Next Visit" : "09-24-24",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "08-22-24",
+  "Member ID" : "00000199520",
+  "Patient ID" : "0348216",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

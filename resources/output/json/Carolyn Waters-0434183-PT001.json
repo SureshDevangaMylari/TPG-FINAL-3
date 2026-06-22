@@ -1,0 +1,18 @@
+{
+  "patientName" : "Carolyn Waters",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "11-26-24",
+  "NAC" : "11/25/24 AUTH# Submitted 200971953 Automatically created pending authorization",
+  "Case" : "PT001",
+  "Effective Date" : "11-14-24",
+  "Sub status" : "Pending with Insurance",
+  "Request Date" : "11-25-24",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H5192601700",
+  "Patient ID" : "0434183",
+  "details" : "CERTIFIED IN TOTAL"
+}

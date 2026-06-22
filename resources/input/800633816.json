@@ -1,0 +1,343 @@
+{
+    "checkAmount": "694.56",
+    "status": 200,
+    "remmitInfo": {
+        "accountNumber": "152302017941",
+        "eft": "800633816"
+    },
+    "transactionDetails": [],
+    "patientLevelClaims": [{
+        "GRP_RC_AMT": "133.75",
+        "patirntName": "ABDALLAH AFAF ",
+        "allowed": 102.68,
+        "ACNT": "0524249JNX0356047",
+        "billed": "240",
+        "providerPD": "80.51",
+        "patientResponsibleAmount": "20.53",
+        "claimFilingType": "MB",
+        "ICN": "0224145874310",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "160",
+            "providerPd": "61.33",
+            "allowed": "78.22",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 66.42", "CO-253 1.25", "CO-59 15.36"],
+            "deduct": [],
+            "coins": ["15.64"]
+        }, {
+            "billed": "80",
+            "providerPd": "19.18",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.8", "CO-253 .39", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }]
+    }, {
+        "GRP_RC_AMT": "158.32",
+        "patirntName": "BARLOW BRIAN A",
+        "allowed": 92.7,
+        "ACNT": "0524249IT10329908",
+        "billed": "240",
+        "providerPD": "61.77",
+        "patientResponsibleAmount": "18.53",
+        "claimFilingType": "MB",
+        "ICN": "0224145872370",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "80",
+            "providerPd": "16.3",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 49.74", "CO-253 .33", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }, {
+            "billed": "80",
+            "providerPd": "27.9",
+            "allowed": "41.87",
+            "code": "97112",
+            "dos": "20240523",
+            "grpRC": ["CO-45 43.16", "CO-253 .57"],
+            "deduct": [],
+            "coins": ["8.37"]
+        }, {
+            "billed": "80",
+            "providerPd": "17.57",
+            "allowed": "26.37",
+            "code": "97110",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.89", "CO-253 .36", "CO-59 9.91"],
+            "deduct": [],
+            "coins": ["5.27"]
+        }]
+    }, {
+        "GRP_RC_AMT": "133.75",
+        "patirntName": "GRAHAM NANCY ",
+        "allowed": 102.68,
+        "ACNT": "0524249JKN0354379",
+        "billed": "240",
+        "providerPD": "80.51",
+        "patientResponsibleAmount": "20.53",
+        "claimFilingType": "MB",
+        "ICN": "0224145874290",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "160",
+            "providerPd": "61.33",
+            "allowed": "78.22",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 66.42", "CO-253 1.25", "CO-59 15.36"],
+            "deduct": [],
+            "coins": ["15.64"]
+        }, {
+            "billed": "80",
+            "providerPd": "19.18",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.8", "CO-253 .39", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }]
+    }, {
+        "GRP_RC_AMT": "143.25",
+        "patirntName": "KAUR SURINDER ",
+        "allowed": 97.62,
+        "ACNT": "0524249JUM0358933",
+        "billed": "240",
+        "providerPD": "76.54",
+        "patientResponsibleAmount": "19.52",
+        "claimFilingType": "MB",
+        "ICN": "0224145874350",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "80",
+            "providerPd": "19.18",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.8", "CO-253 .39", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }, {
+            "billed": "80",
+            "providerPd": "36.68",
+            "allowed": "46.79",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 33.21", "CO-253 .75"],
+            "deduct": [],
+            "coins": ["9.36"]
+        }, {
+            "billed": "80",
+            "providerPd": "20.68",
+            "allowed": "26.37",
+            "code": "97110",
+            "dos": "20240523",
+            "grpRC": ["CO-45 43.72", "CO-253 .42", "CO-59 9.91"],
+            "deduct": [],
+            "coins": ["5.27"]
+        }]
+    }, {
+        "GRP_RC_AMT": "191.33",
+        "patirntName": "LO SHAOCHEN C",
+        "allowed": 122.77000000000001,
+        "ACNT": "0524249J8O0345599",
+        "billed": "320",
+        "providerPD": "96.26",
+        "patientResponsibleAmount": "24.55",
+        "claimFilingType": "MB",
+        "ICN": "0224145872440",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "160",
+            "providerPd": "56.4",
+            "allowed": "71.94",
+            "code": "97112",
+            "dos": "20240523",
+            "grpRC": ["CO-45 76.26", "CO-253 1.15", "CO-59 11.8"],
+            "deduct": [],
+            "coins": ["14.39"]
+        }, {
+            "billed": "80",
+            "providerPd": "19.18",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.8", "CO-253 .39", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }, {
+            "billed": "80",
+            "providerPd": "20.68",
+            "allowed": "26.37",
+            "code": "97110",
+            "dos": "20240523",
+            "grpRC": ["CO-45 43.72", "CO-253 .42", "CO-59 9.91"],
+            "deduct": [],
+            "coins": ["5.27"]
+        }]
+    }, {
+        "GRP_RC_AMT": "143.25",
+        "patirntName": "LOPEZ PATRICIA ",
+        "allowed": 97.62,
+        "ACNT": "0524249DKU0045806",
+        "billed": "240",
+        "providerPD": "76.54",
+        "patientResponsibleAmount": "19.52",
+        "claimFilingType": "MB",
+        "ICN": "0224145870910",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "80",
+            "providerPd": "19.18",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.8", "CO-253 .39", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }, {
+            "billed": "80",
+            "providerPd": "36.68",
+            "allowed": "46.79",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 33.21", "CO-253 .75"],
+            "deduct": [],
+            "coins": ["9.36"]
+        }, {
+            "billed": "80",
+            "providerPd": "20.68",
+            "allowed": "26.37",
+            "code": "97110",
+            "dos": "20240523",
+            "grpRC": ["CO-45 43.72", "CO-253 .42", "CO-59 9.91"],
+            "deduct": [],
+            "coins": ["5.27"]
+        }]
+    }, {
+        "GRP_RC_AMT": "152.50",
+        "patirntName": "MELLBERG JUDITH R",
+        "allowed": 99.53,
+        "ACNT": "0524249HXF0242472",
+        "billed": "240",
+        "providerPD": "66.32",
+        "patientResponsibleAmount": "19.91",
+        "claimFilingType": "MB",
+        "ICN": "0224145872250",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "160",
+            "providerPd": "35.14",
+            "allowed": "52.74",
+            "code": "97110",
+            "dos": "20240523",
+            "grpRC": ["CO-45 93.77", "CO-253 .72", "CO-59 19.82"],
+            "deduct": [],
+            "coins": ["10.55"]
+        }, {
+            "billed": "80",
+            "providerPd": "31.18",
+            "allowed": "46.79",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 38.82", "CO-253 .64"],
+            "deduct": [],
+            "coins": ["9.36"]
+        }]
+    }, {
+        "GRP_RC_AMT": "167.73",
+        "patirntName": "PIMENTEL MARIA ",
+        "allowed": 115.04,
+        "ACNT": "0524249DWJ0055401",
+        "billed": "275",
+        "providerPD": "76.67",
+        "patientResponsibleAmount": "23",
+        "claimFilingType": "MB",
+        "ICN": "0224145872080",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "160",
+            "providerPd": "52.13",
+            "allowed": "78.22",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 75.81", "CO-253 1.06", "CO-59 15.36"],
+            "deduct": [],
+            "coins": ["15.64"]
+        }, {
+            "billed": "80",
+            "providerPd": "17.57",
+            "allowed": "26.37",
+            "code": "97110",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.89", "CO-253 .36", "CO-59 9.91"],
+            "deduct": [],
+            "coins": ["5.27"]
+        }, {
+            "billed": "35",
+            "providerPd": "6.97",
+            "allowed": "10.45",
+            "code": "G0283",
+            "dos": "20240523",
+            "grpRC": ["CO-45 22.03", "CO-253 .14", "CO-59 3.77"],
+            "deduct": [],
+            "coins": ["2.09"]
+        }]
+    }, {
+        "GRP_RC_AMT": "138.40",
+        "patirntName": "SABHARWAL SURENDRA N",
+        "allowed": 101.32,
+        "ACNT": "0524249DOL0049342",
+        "billed": "240",
+        "providerPD": "79.44",
+        "patientResponsibleAmount": "20.26",
+        "claimFilingType": "MB",
+        "ICN": "0224145872100",
+        "facilityCode": "11",
+        "claimFrequencyType": "1",
+        "serviceLines": [{
+            "billed": "80",
+            "providerPd": "19.18",
+            "allowed": "24.46",
+            "code": "97140",
+            "dos": "20240523",
+            "grpRC": ["CO-45 46.8", "CO-253 .39", "CO-59 8.74"],
+            "deduct": [],
+            "coins": ["4.89"]
+        }, {
+            "billed": "80",
+            "providerPd": "23.58",
+            "allowed": "30.07",
+            "code": "97112",
+            "dos": "20240523",
+            "grpRC": ["CO-45 38.13", "CO-253 .48", "CO-59 11.8"],
+            "deduct": [],
+            "coins": ["6.01"]
+        }, {
+            "billed": "80",
+            "providerPd": "36.68",
+            "allowed": "46.79",
+            "code": "97530",
+            "dos": "20240523",
+            "grpRC": ["CO-45 33.21", "CO-253 .75"],
+            "deduct": [],
+            "coins": ["9.36"]
+        }]
+    }]
+}

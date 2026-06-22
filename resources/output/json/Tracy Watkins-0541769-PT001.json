@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tracy Watkins",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-04-25",
+  "NAC" : "08-04-25 - comment: no icd codes (By TAGA6) 07-31-25 - F/U 2x8 (By TIFO) 0",
+  "Case" : "PT001",
+  "Effective Date" : "07-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-20-25",
+  "Member ID" : "39069600001",
+  "Patient ID" : "0541769",
+  "Auth#" : "45252170064",
+  "details" : "Submit"
+}

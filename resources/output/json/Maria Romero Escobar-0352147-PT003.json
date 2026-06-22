@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maria Romero Escobar",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-28-25",
+  "NAC" : "F/U 2X5",
+  "Case" : "PT003",
+  "Effective Date" : "04-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "04-28-25",
+  "effectDate" : "04-25-25",
+  "Member ID" : "00001859227",
+  "Patient ID" : "0352147",
+  "Auth#" : "45251180207",
+  "details" : "Submit"
+}

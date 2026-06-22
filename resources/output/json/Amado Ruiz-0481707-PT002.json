@@ -1,0 +1,19 @@
+{
+  "patientName" : "Amado Ruiz",
+  "bc" : "A",
+  "payor" : "MEDCOMP USA",
+  "NAD" : "07-08-25",
+  "NAC" : "F/U 2x6 - RR",
+  "Case" : "PT002",
+  "Effective Date" : "06-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-27-25",
+  "Member ID" : "0308341-WCMPRO",
+  "Patient ID" : "0481707",
+  "ICD codes" : "[M79.641, L1]",
+  "details" : "Completed.."
+}

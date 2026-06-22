@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jeff Daniels",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "02-03-25",
+  "NAC" : "requesting auth plz- af 2.3.25 F/U 2x6",
+  "Case" : "PT001",
+  "Effective Date" : "01-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "01-22-25",
+  "Member ID" : "72936000001",
+  "Patient ID" : "0462693",
+  "Auth#" : "45250350032",
+  "details" : "Submit"
+}

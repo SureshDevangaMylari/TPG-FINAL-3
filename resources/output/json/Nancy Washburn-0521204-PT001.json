@@ -1,0 +1,19 @@
+{
+  "patientName" : "Nancy Washburn",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-02-25",
+  "NAC" : "- F/U 3x4 (By TIFO) - Eval 6/30/25 (By TIFO) - Initial content: Eval on",
+  "Case" : "PT001",
+  "Effective Date" : "06-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-5",
+  "NextVisit" : "07-07-25",
+  "effectDate" : "06-30-25",
+  "Member ID" : "00000282764",
+  "Patient ID" : "0521204",
+  "Auth#" : "45251840145",
+  "details" : "Submit"
+}

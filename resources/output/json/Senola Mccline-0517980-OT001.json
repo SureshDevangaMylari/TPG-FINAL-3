@@ -1,0 +1,19 @@
+{
+  "patientName" : "Senola Mccline",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-24-25",
+  "NAC" : "- F/U 2x4 (By TIFO) - Eval 6/19/25 (By TIFO) - Initial content: Automat",
+  "Case" : "OT001",
+  "Effective Date" : "06-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-19-25",
+  "Member ID" : "00001651382",
+  "Patient ID" : "0517980",
+  "Auth#" : "45251750143",
+  "details" : "Submit"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Andrea Preston",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "04-22-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "04-21-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "844249001",
+  "Patient ID" : "0500402",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

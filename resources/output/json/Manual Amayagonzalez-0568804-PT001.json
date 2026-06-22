@@ -1,0 +1,20 @@
+{
+  "patientName" : "Manual Amayagonzalez",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-29-25",
+  "NAC" : "NoRecordsFound no icd codes no icd codes no icd codes Automatically",
+  "Case" : "PT001",
+  "Effective Date" : "09-26-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "914411192001",
+  "Patient ID" : "0568804",
+  "ICD codes" : "M54.50",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

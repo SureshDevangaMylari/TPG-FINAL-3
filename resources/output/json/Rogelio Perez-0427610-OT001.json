@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rogelio Perez",
+  "bc" : "A",
+  "payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "F/UP 2X6",
+  "Case" : "OT001",
+  "Effective Date" : "11-08-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "93609157F",
+  "Patient ID" : "0427610",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Maysam Tahmasebi",
+  "bc" : "B",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-30-25",
+  "NAC" : "no icd codes no icd codes no icd codes Automatically created pending au",
+  "Case" : "PT002",
+  "Effective Date" : "09-26-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-02-25",
+  "effectDate" : null,
+  "Member ID" : "XEH912640997",
+  "Patient ID" : "0353404",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

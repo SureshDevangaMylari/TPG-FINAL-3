@@ -1,0 +1,20 @@
+{
+  "patientName" : "Jody Cruz",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "No Refferal Automatically created pending authorization, created on saving or",
+  "Case" : "PT001",
+  "Effective Date" : "09-15-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "913870114001",
+  "Patient ID" : "0563904",
+  "ICD codes" : "S83.241A",
+  "Auth#" : "",
+  "details" : "No Refferal"
+}

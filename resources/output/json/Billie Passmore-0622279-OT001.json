@@ -1,0 +1,20 @@
+{
+  "patientName" : "Billie Passmore",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-09-26",
+  "NAC" : "submit",
+  "Case" : "OT001",
+  "Effective Date" : "02-05-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00637587901",
+  "Patient ID" : "0622279",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

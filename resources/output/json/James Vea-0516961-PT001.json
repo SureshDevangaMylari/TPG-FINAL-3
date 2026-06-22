@@ -1,0 +1,19 @@
+{
+  "patientName" : "James Vea",
+  "bc" : "A",
+  "payor" : "Sedgwick WC",
+  "NAD" : "07-21-25",
+  "NAC" : "07-18-25 - F/U 2X6 (By MAVA4) - Initial content: pn on 07/17 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "07-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "07-18-25",
+  "Member ID" : "4A2411P85M4-0001",
+  "Patient ID" : "0516961",
+  "ICD codes" : "[M25.551, M54.17, R53.1, R29.3, ]",
+  "details" : "Completed.."
+}

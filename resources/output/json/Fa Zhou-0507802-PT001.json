@@ -1,0 +1,19 @@
+{
+  "patientName" : "Fa Zhou",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-09-25",
+  "NAC" : "- F/U 2x6 (By TIFO) 05-06-25 - need signed IE for frequency (By TIFO) -",
+  "Case" : "PT001",
+  "Effective Date" : "05-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "05-09-25",
+  "effectDate" : "05-05-25",
+  "Member ID" : "00001745585 ",
+  "Patient ID" : "0507802",
+  "Auth#" : "45251280143",
+  "details" : "Submit"
+}

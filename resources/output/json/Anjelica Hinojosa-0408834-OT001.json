@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Anjelica Hinojosa",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-14-24",
+  "NAC" : "SUBMIT ONCE SCHD",
+  "Case" : "OT001",
+  "Effective Date" : "08-05-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "96656789C",
+  "Patient ID" : "0408834",
+  "ICD codes" : "r20.0",
+  "Auth#" : "OP0019468606",
+  "details" : "completed"
+}

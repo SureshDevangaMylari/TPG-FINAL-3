@@ -1,0 +1,20 @@
+{
+  "patientName" : "Liliana Mercedes",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "no icd codes no icd codes no icd codes Automatically created pending au",
+  "Case" : "PT003",
+  "Effective Date" : "08-01-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEO911988514",
+  "Patient ID" : "0492609",
+  "ICD codes" : "M25.519",
+  "Auth#" : "",
+  "details" : "IcdNotmatched"
+}

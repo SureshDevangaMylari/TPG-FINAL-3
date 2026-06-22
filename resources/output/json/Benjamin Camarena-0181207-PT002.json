@@ -1,0 +1,19 @@
+{
+  "patientName" : "Benjamin Camarena",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "05-13-25",
+  "NAC" : "F/U 2x3 - RR",
+  "Case" : "PT002",
+  "Effective Date" : "05-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-12-25",
+  "Member ID" : "W81312550001",
+  "Patient ID" : "0181207",
+  "ICD codes" : "[M54.59, Acute Low Back PainAquaticsBack pain with radiculopathyChronic Low Back PainDegenerative Disc DiseaseDisc DisplacementFractureFusionImpairmentImpingementL1L2L3L4Lumbar LaminectomyMassage TherapyPainSI/Pelvis PainSpinal StenosisSpondylosisSprainTendonitisThoracic Back Pain]",
+  "details" : "Completed.."
+}

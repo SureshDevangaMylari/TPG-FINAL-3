@@ -1,0 +1,19 @@
+{
+  "patientName" : "Antonio Ortiz",
+  "bc" : "A",
+  "payor" : "Copperpoint Mutual Insurance WC La Front",
+  "NAD" : "02-28-25",
+  "NAC" : "- Verbal auth: spoke to Janet U, provided me with verbal auth, she authorized 8",
+  "Case" : "PT001",
+  "Effective Date" : "02-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "8",
+  "Remaining" : "1",
+  "NextVisit" : "03-06-25",
+  "effectDate" : "02-21-25",
+  "Member ID" : "1000098420",
+  "Patient ID" : "0479146",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

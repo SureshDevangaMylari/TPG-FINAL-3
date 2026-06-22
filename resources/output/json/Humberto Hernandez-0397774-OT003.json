@@ -1,0 +1,19 @@
+{
+  "patientName" : "Humberto Hernandez",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "02-28-25",
+  "NAC" : "F/U 2X6",
+  "Case" : "OT003",
+  "Effective Date" : "02-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-20-25",
+  "Member ID" : "173006585",
+  "Patient ID" : "0397774",
+  "ICD codes" : "[M25.522, M25.532, M25.512]",
+  "details" : "Completed.."
+}

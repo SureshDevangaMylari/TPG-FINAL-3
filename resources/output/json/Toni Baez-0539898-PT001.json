@@ -1,0 +1,19 @@
+{
+  "patientName" : "Toni Baez",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-24-25",
+  "NAC" : "07-24-25 - f/u 3X8 (By JAWU) 07-22-25 - task sent to have ie signed (By ALMA4",
+  "Case" : "PT001",
+  "Effective Date" : "07-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-15-25",
+  "Member ID" : "00002734636 ",
+  "Patient ID" : "0539898",
+  "Auth#" : "45252050097",
+  "details" : "Submit"
+}

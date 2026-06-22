@@ -1,0 +1,20 @@
+{
+  "patientName" : "Timothy Powell",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "09-29-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "09-26-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-06-25",
+  "effectDate" : null,
+  "Member ID" : "H5365235700",
+  "Patient ID" : "0565724",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

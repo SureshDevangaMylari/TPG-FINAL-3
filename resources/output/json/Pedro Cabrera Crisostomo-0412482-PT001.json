@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Pedro Cabrera Crisostomo",
+  "BC" : "B",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "08-19-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "-1",
+  "Next Visit" : "08-26-24",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "95378744G",
+  "Patient ID" : "0412482",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No service line"
+}

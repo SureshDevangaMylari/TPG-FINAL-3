@@ -1,0 +1,19 @@
+{
+  "patientName" : "Susan Magennis",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "02-24-25",
+  "NAC" : "F/U 2x6 Request for auth",
+  "Case" : "PT001",
+  "Effective Date" : "02-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-13-25",
+  "Member ID" : "092024088681",
+  "Patient ID" : "0468489",
+  "ICD codes" : "[Z98.890, M79.672, M79.671]",
+  "details" : "Completed.."
+}

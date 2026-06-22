@@ -1,0 +1,19 @@
+{
+  "patientName" : "Barbara Buchanan",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-04-25",
+  "NAC" : "- F/U 3x6 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "05-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-8",
+  "NextVisit" : "06-09-25",
+  "effectDate" : "05-30-25",
+  "Member ID" : "00002201296",
+  "Patient ID" : "0518964",
+  "Auth#" : "45251560182",
+  "details" : "Submit"
+}

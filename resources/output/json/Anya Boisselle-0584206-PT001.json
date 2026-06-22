@@ -1,0 +1,20 @@
+{
+  "patientName" : "Anya Boisselle",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-03-25",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "10-31-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "214496080",
+  "Patient ID" : "0584206",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DBN is a 11-digit number and the DODID is a 10-digit number"
+}

@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Jose Rodriguez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "08-30-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "08-30-24",
+  "Member ID" : "94360150D",
+  "Patient ID" : "0112726",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

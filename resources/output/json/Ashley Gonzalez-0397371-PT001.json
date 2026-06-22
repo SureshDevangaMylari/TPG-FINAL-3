@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ashley Gonzalez",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "02-21-25",
+  "NAC" : "auth in chart dated 11/25/2024, Medrisk auth needed for Aug 24 visits",
+  "Case" : "PT001",
+  "Effective Date" : "02-14-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-14-25",
+  "Member ID" : "009541032436WC01",
+  "Patient ID" : "0397371",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

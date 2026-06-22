@@ -1,0 +1,20 @@
+{
+  "patientName" : "ROBERT Glamuzina",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "10-22-24",
+  "NAC" : "F/U 2X6",
+  "Case" : "PT001",
+  "Effective Date" : "10-30-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-24-24",
+  "effectDate" : null,
+  "Member ID" : "40055177301",
+  "Patient ID" : "0259000",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

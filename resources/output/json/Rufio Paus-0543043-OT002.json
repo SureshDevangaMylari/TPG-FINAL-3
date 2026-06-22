@@ -1,0 +1,18 @@
+{
+  "patientName" : "Rufio Paus",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "08-07-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "OT002",
+  "Effective Date" : "08-05-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01543484102",
+  "Patient ID" : "0543043",
+  "details" : "NOt for PHYsical Therapy"
+}

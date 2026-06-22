@@ -1,0 +1,19 @@
+{
+  "patientName" : "Alejandro Gonzalez",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-19-25",
+  "NAC" : "08-18-25 - REFERRAL IN PATIENTS DOC (By JAHE5) - Initial content: SIGNED RFA",
+  "Case" : "PT005",
+  "Effective Date" : "08-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-18-25",
+  "Member ID" : "00186402374WC01",
+  "Patient ID" : "0009886",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

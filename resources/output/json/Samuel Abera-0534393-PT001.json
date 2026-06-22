@@ -1,0 +1,19 @@
+{
+  "patientName" : "Samuel Abera",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-30-25",
+  "NAC" : "07-31-25 - f/u 2X4 (By JAWU) 07-31-25 - comment: nno document found - with ca",
+  "Case" : "PT001",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-29-25",
+  "Member ID" : "00001194965",
+  "Patient ID" : "0534393",
+  "Auth#" : "45252130287",
+  "details" : "Submit"
+}

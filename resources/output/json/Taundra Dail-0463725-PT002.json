@@ -1,0 +1,19 @@
+{
+  "patientName" : "Taundra Dail",
+  "bc" : "A",
+  "payor" : "Creative Risk Solutions",
+  "NAD" : "02-21-25",
+  "NAC" : "Contact claims adjuster to request additional auth",
+  "Case" : "PT002",
+  "Effective Date" : "02-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "02-24-25",
+  "effectDate" : "02-21-25",
+  "Member ID" : "WCAEG0297177001",
+  "Patient ID" : "0463725",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

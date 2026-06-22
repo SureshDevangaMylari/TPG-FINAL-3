@@ -1,0 +1,19 @@
+{
+  "patientName" : "Eduvijes Punzalan",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-24-25",
+  "NAC" : "- F/U 3x8 (By TIFO) - Initial content: Eval on 7/23 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "07-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-10",
+  "NextVisit" : "07-25-25",
+  "effectDate" : "07-23-25",
+  "Member ID" : "00002452039 ",
+  "Patient ID" : "0538725",
+  "Auth#" : "45252050090",
+  "details" : "Submit"
+}

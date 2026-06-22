@@ -1,0 +1,19 @@
+{
+  "patientName" : "William Walton",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "02-20-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "02-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-20-25",
+  "Member ID" : "06372958",
+  "Patient ID" : "0478404",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

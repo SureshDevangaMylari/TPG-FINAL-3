@@ -1,0 +1,19 @@
+{
+  "patientName" : "Teresa Romero",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "08-11-25",
+  "NAC" : "- F/U 2X4 (By CHZI) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "08-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-07-25",
+  "Member ID" : "00003322567",
+  "Patient ID" : "0533256",
+  "Auth#" : "45252200195",
+  "details" : "Submit"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Stacy Cruz",
+  "bc" : "A",
+  "payor" : "Bardavon",
+  "NAD" : "07-15-25",
+  "NAC" : "F/U 2x5",
+  "Case" : "PT001",
+  "Effective Date" : "07-17-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "07-16-25",
+  "effectDate" : "07-17-25",
+  "Member ID" : "4A2503DV6XC0001",
+  "Patient ID" : "0531063",
+  "ICD codes" : "[M25.522, ]",
+  "details" : "Completed.."
+}

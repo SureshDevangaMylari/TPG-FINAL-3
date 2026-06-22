@@ -1,0 +1,20 @@
+{
+  "patientName" : "KYLE Colburn",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "07-23-25",
+  "NAC" : "no icd codes Automatically created pending authorization, created on adding a",
+  "Case" : "PT002",
+  "Effective Date" : "07-22-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "JQK318W15727",
+  "Patient ID" : "0529214",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

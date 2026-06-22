@@ -1,0 +1,20 @@
+{
+  "patientName" : "Kristin Gizinski",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-13-25",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "11-12-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01557068401",
+  "Patient ID" : "0589822",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no records found after entering npi number"
+}

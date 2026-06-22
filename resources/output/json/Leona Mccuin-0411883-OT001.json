@@ -1,0 +1,19 @@
+{
+  "patientName" : "Leona Mccuin",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-16-25",
+  "NAC" : "- F/U 1x1 (By TIFO) - Initial content: Eval on 7/15 (By _____)",
+  "Case" : "OT001",
+  "Effective Date" : "07-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-15-25",
+  "Member ID" : "76252400005",
+  "Patient ID" : "0411883",
+  "Auth#" : "45251970243",
+  "details" : "Submit"
+}

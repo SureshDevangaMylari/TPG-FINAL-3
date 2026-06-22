@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jennie Heffner",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-16-25",
+  "NAC" : "- F/U 1x6 (By TIFO) - Eval 5/14/25 (By TIFO) - Initial content: eval 5/",
+  "Case" : "PT002",
+  "Effective Date" : "05-14-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-14-25",
+  "Member ID" : "00003107101",
+  "Patient ID" : "0346383",
+  "Auth#" : "45251350205",
+  "details" : "Submit"
+}

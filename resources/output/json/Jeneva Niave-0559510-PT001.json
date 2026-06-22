@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jeneva Niave",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "09-29-25",
+  "NAC" : "S/U 2 x 3",
+  "Case" : "PT001",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "10-02-25",
+  "effectDate" : "09-25-25",
+  "Member ID" : "190679866001",
+  "Patient ID" : "0559510",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

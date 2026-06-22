@@ -1,0 +1,19 @@
+{
+  "patientName" : "Debra Hernandez",
+  "bc" : "A",
+  "payor" : "InterMed Cost Containment Service",
+  "NAD" : "06-13-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "06-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "06-25-25",
+  "effectDate" : "06-12-25",
+  "Member ID" : "24173633",
+  "Patient ID" : "0500111",
+  "ICD codes" : "[M75.42, Adhesive CapsulitisAquaticsBursitisFractureImpairmentImpingementInstability/DislocationL1L2L3L4Labral TearLigament InjuryMassage TherapyOsteoarthritisPainRotator Cuff RepairRotator Cuff TearSprainTendonitisTenosynovitisTotal Shoulder Arthroplasty]",
+  "details" : "Completed.."
+}

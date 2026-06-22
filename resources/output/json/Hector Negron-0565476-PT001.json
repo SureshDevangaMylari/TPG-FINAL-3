@@ -1,0 +1,19 @@
+{
+  "patientName" : "Hector Negron",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-25-25",
+  "NAC" : "09-24-25 - f/u: 2x6 (By GRKL) 09-24-25 - Waiting on signed IE (By CHZI) -",
+  "Case" : "PT001",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-18-25",
+  "Member ID" : "00002876132",
+  "Patient ID" : "0565476",
+  "Auth#" : "45252670442",
+  "details" : "Submit"
+}

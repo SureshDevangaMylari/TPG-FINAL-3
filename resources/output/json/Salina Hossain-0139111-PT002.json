@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Salina Hossain",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "09-03-24",
+  "NAC" : "F\\U 2X6",
+  "Case" : "PT002",
+  "Effective Date" : "08-23-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-22-24",
+  "R.Task" : "",
+  "effectDate" : "08-23-24",
+  "Member ID" : "99763583G",
+  "Patient ID" : "0139111",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

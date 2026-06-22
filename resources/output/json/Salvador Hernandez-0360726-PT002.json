@@ -1,0 +1,18 @@
+{
+  "patientName" : "Salvador Hernandez",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-17-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "03-13-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-10",
+  "NextVisit" : "03-21-25",
+  "effectDate" : null,
+  "Member ID" : "1019382706V557715",
+  "Patient ID" : "0360726",
+  "details" : "There are no records to display."
+}

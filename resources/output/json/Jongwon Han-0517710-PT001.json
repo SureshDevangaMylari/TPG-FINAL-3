@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jongwon Han",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-06-25",
+  "NAC" : "- F/U 3X8 (By CHZI) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "08-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-05-25",
+  "Member ID" : "00003084200",
+  "Patient ID" : "0517710",
+  "Auth#" : "45252180123",
+  "details" : "Submit"
+}

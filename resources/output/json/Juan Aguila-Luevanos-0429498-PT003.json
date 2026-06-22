@@ -1,0 +1,19 @@
+{
+  "patientName" : "Juan Aguila-Luevanos",
+  "bc" : "A",
+  "payor" : "Sedgwick",
+  "NAD" : "03-07-25",
+  "NAC" : "02-28-25 - Claim verification needs to be completed prior to scheduling, pushing",
+  "Case" : "PT003",
+  "Effective Date" : "01-26-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "01-26-25",
+  "Member ID" : "WC2006583840",
+  "Patient ID" : "0429498",
+  "ICD codes" : "",
+  "details" : "no icd codes"
+}

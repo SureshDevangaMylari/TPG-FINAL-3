@@ -1,0 +1,19 @@
+{
+  "patientName" : "Denise Plant",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-29-25",
+  "NAC" : "07-23-25 - Sent message to RFOM about needing a new rx from a provider that is i",
+  "Case" : "PT001",
+  "Effective Date" : "07-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "07-29-25",
+  "effectDate" : "07-09-25",
+  "Member ID" : "00001494962",
+  "Patient ID" : "0522231",
+  "Auth#" : "",
+  "details" : "No Providers"
+}

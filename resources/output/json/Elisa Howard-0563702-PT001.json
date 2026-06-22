@@ -1,0 +1,20 @@
+{
+  "patientName" : "Elisa Howard",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "10-06-25",
+  "NAC" : "09-25-25 - 1ST ATTEMPT- FAXED MD FOR AUTH (By STBU) 09-25-25 - No auth in por",
+  "Case" : "PT001",
+  "Effective Date" : "09-23-25",
+  "Sub status" : "Pending with Referring Provider",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEO914564035",
+  "Patient ID" : "0563702",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

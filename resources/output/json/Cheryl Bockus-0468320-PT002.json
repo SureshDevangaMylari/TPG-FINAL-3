@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cheryl Bockus",
+  "bc" : "A",
+  "payor" : "Berkshire Hathaway -WC",
+  "NAD" : "09-02-25",
+  "NAC" : "F/U 2x8 08.29.25 call placed Berkshire Hathaway 888-495-8949 office closed. se",
+  "Case" : "PT002",
+  "Effective Date" : "08-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-25-25",
+  "Member ID" : "33163073",
+  "Patient ID" : "0468320",
+  "ICD codes" : "[M25.562, Z47.89, Meniscus Tear]",
+  "details" : "Completed.."
+}

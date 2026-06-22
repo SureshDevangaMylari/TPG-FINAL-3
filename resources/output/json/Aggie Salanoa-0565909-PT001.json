@@ -1,0 +1,18 @@
+{
+  "patientName" : "Aggie Salanoa",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-22-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "09-19-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "576378256",
+  "Patient ID" : "0565909",
+  "details" : "NOt for PHYsical Therapy"
+}

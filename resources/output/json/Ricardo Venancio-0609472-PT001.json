@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ricardo Venancio",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-07-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "01-06-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1512462762",
+  "Patient ID" : "0609472",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

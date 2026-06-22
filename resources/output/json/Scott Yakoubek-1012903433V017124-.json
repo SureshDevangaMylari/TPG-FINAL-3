@@ -1,0 +1,21 @@
+{
+  "patientName" : "Scott Yakoubek",
+  "bc" : "B",
+  "payor" : "* Tricare West Region Eff 1-01-25",
+  "NAD" : "02-17-26",
+  "NAC" : "- Eval 3/2/26 @ 9:30am (By TIFO) - Initial content: Automatically created p",
+  "Case" : "PT005",
+  "Effective Date" : "02-10-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "03-02-26",
+  "effectDate" : null,
+  "Member ID" : "1012903433V017124",
+  "Patient ID" : "0489855",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "pinNum" : "0489855",
+  "details" : "Wrong payor VA"
+}

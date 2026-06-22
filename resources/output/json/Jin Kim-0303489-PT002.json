@@ -1,0 +1,20 @@
+{
+  "patientName" : "Jin Kim",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-08-25",
+  "NAC" : "no icd codes no icd codes no icd codes no icd codes Automatically cr",
+  "Case" : "PT002",
+  "Effective Date" : "09-05-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "40049238601",
+  "Patient ID" : "0303489",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

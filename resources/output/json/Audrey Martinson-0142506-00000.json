@@ -1,0 +1,20 @@
+{
+  "patientName" : "Audrey Martinson",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "07-23-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "JQK743A75305",
+  "Patient ID" : "0142506",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

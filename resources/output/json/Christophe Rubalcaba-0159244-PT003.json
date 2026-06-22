@@ -1,0 +1,20 @@
+{
+  "patientName" : "Christophe Rubalcaba",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-04-24",
+  "NAC" : "submit",
+  "Case" : "PT003",
+  "Effective Date" : "10-03-24",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "91654835A",
+  "Patient ID" : "0159244",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

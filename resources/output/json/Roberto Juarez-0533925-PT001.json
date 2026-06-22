@@ -1,0 +1,19 @@
+{
+  "patientName" : "Roberto Juarez",
+  "bc" : "A",
+  "payor" : "Homelink WC",
+  "NAD" : "09-04-25",
+  "NAC" : "09-03-25 - f/u 2X3 (By JAWU) 09-02-25 - SIGNED RFA UPLOADED (By STBU) 08-2",
+  "Case" : "PT001",
+  "Effective Date" : "08-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-07-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-07-25",
+  "Member ID" : "13290924",
+  "Patient ID" : "0533925",
+  "ICD codes" : "[S46.912D, S16.1XXD, S49.92XD, L1]",
+  "details" : "Completed.."
+}

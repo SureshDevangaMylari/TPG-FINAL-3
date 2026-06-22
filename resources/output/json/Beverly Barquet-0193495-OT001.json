@@ -1,0 +1,20 @@
+{
+  "patientName" : "Beverly Barquet",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-16-25",
+  "NAC" : "09-15-25 - F/U 2x6 (By CHZI) 09-15-25 - Still waiting on signed IE (By CHZI)",
+  "Case" : "OT001",
+  "Effective Date" : "09-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-11-25",
+  "Member ID" : "00002329871",
+  "Patient ID" : "0193495",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

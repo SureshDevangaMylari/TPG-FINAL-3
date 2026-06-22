@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Carlos Valdez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-19-24",
+  "NAC" : "8.1 not schd submit once schd",
+  "Case" : "PT002",
+  "Effective Date" : "07-15-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "96374131D",
+  "Patient ID" : "0374420",
+  "ICD codes" : "M51.36",
+  "Auth#" : "OP0019488372",
+  "details" : "completed"
+}

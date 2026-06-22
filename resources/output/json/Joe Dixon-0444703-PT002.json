@@ -1,0 +1,19 @@
+{
+  "patientName" : "Joe Dixon",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "08-04-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT002",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "WC648D68988",
+  "Patient ID" : "0444703",
+  "ICD codes" : "[M25.521, G56.21, Z47.89, ]",
+  "details" : "Completed.."
+}

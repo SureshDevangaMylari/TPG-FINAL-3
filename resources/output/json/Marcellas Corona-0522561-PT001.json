@@ -1,0 +1,19 @@
+{
+  "patientName" : "Marcellas Corona",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "07-22-25",
+  "NAC" : "f/u 2x7",
+  "Case" : "PT001",
+  "Effective Date" : "07-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "07-22-25",
+  "effectDate" : "07-15-25",
+  "Member ID" : "55C733751556",
+  "Patient ID" : "0522561",
+  "ICD codes" : "[S83.511D, Ligament Injury]",
+  "details" : "Completed.."
+}

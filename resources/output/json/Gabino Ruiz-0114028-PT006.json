@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Gabino Ruiz",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "09-09-24",
+  "NAC" : "F/U 2X5",
+  "Case" : "PT006",
+  "Effective Date" : "09-10-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "-2",
+  "Next Visit" : "09-16-24",
+  "Last Visit" : "09-11-24",
+  "R.Task" : "",
+  "effectDate" : "09-10-24",
+  "Member ID" : "98373149C",
+  "Patient ID" : "0114028",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

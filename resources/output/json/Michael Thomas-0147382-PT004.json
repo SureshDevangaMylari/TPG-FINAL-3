@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michael Thomas",
+  "bc" : "A",
+  "payor" : "CORVEL",
+  "NAD" : "10-16-25",
+  "NAC" : "PN 10/15",
+  "Case" : "PT004",
+  "Effective Date" : "09-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "10-15-25",
+  "effectDate" : "09-24-25",
+  "Member ID" : "1276WC200003061",
+  "Patient ID" : "0147382",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

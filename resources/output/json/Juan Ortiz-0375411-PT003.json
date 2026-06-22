@@ -1,0 +1,19 @@
+{
+  "patientName" : "Juan Ortiz",
+  "bc" : "A",
+  "payor" : "Set Comprehensive Care",
+  "NAD" : "08-07-25",
+  "NAC" : "08-06-25 - F/U 2X6 (By TIWA) - Initial content: pn moved to 08/05 pending",
+  "Case" : "PT003",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-29-25",
+  "Member ID" : "0304741WCMPRO",
+  "Patient ID" : "0375411",
+  "ICD codes" : "[M25.562, M25.662, L2]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Efrain Guerrero Mendez",
+  "bc" : "A",
+  "payor" : "MedRisk Inc. WC",
+  "NAD" : "02-17-25",
+  "NAC" : "F/U 3x4",
+  "Case" : "PT001",
+  "Effective Date" : "02-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-12-25",
+  "Member ID" : "202468038",
+  "Patient ID" : "0459231",
+  "ICD codes" : "[M54.2]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Fernando Mendoza",
+  "bc" : "A",
+  "payor" : "Homelink WC",
+  "NAD" : "08-11-25",
+  "NAC" : "2x6",
+  "Case" : "PT002",
+  "Effective Date" : "08-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-11-25",
+  "Member ID" : "13115838",
+  "Patient ID" : "0332346",
+  "ICD codes" : "[S46.012D, Z48.89, Rotator Cuff Repair]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Joseph Martins",
+  "bc" : "A",
+  "payor" : "BROADSPIRE",
+  "NAD" : "02-24-25",
+  "NAC" : "F/U 2X3",
+  "Case" : "PT002",
+  "Effective Date" : "02-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-22-25",
+  "Member ID" : "195827596",
+  "Patient ID" : "0119191",
+  "ICD codes" : "[M25.562, R53.1, R26.89]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Dustin Rosenberg",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-22-25",
+  "NAC" : "submit",
+  "Case" : "PT002",
+  "Effective Date" : "12-18-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-29-25",
+  "effectDate" : null,
+  "Member ID" : "1273344876",
+  "Patient ID" : "0600575",
+  "Auth#" : "",
+  "details" : "Approved"
+}

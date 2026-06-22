@@ -1,0 +1,19 @@
+{
+  "patientName" : "BRANDON GRINSTEAD",
+  "bc" : "A",
+  "payor" : "Corvel WC",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT005",
+  "Effective Date" : "05-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "05-13-25",
+  "effectDate" : "05-05-25",
+  "Member ID" : "0518wc230300550",
+  "Patient ID" : "0246585",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Adriana Jacinto",
+  "bc" : "A",
+  "payor" : "Markel Workers Comp",
+  "NAD" : "",
+  "NAC" : "01-02-25 - F/U 2X6 (By ERDU) - Initial content: Automatically created pendin",
+  "Case" : "PT001",
+  "Effective Date" : "12-23-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "12-23-24",
+  "Member ID" : "MCA900206706",
+  "Patient ID" : "0387262",
+  "ICD codes" : "[M54.50, M54.31]",
+  "details" : "No Case Manager and Adjuster => in demographic"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Tiffany Alejos",
+  "bc" : "B",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-13-26",
+  "NAC" : "1/12/26 - please file for Tricare auth, initial eval tentatively scheduled 1/15/",
+  "Case" : "PT001",
+  "Effective Date" : "01-12-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1631022134",
+  "Patient ID" : "0611367",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Bertha Perez",
+  "bc" : "A",
+  "payor" : "Homelink Therapy Network",
+  "NAD" : "03-27-25",
+  "NAC" : "03-04-25 - 8 visits remaining until auth is required. auth expires 4/15/25. last",
+  "Case" : "PT003",
+  "Effective Date" : "02-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-8",
+  "NextVisit" : "03-05-25",
+  "effectDate" : "02-28-25",
+  "Member ID" : "06730664",
+  "Patient ID" : "0389762",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

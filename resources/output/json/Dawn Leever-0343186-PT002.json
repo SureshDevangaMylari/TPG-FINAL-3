@@ -1,0 +1,20 @@
+{
+  "patientName" : "Dawn Leever",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "11-14-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-17-24",
+  "effectDate" : null,
+  "Member ID" : "H4336294200",
+  "Patient ID" : "0343186",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

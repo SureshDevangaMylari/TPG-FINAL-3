@@ -1,0 +1,18 @@
+{
+  "patientName" : "Adriana Leon Buckhanon",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-11-25",
+  "NAC" : "03-04-25 - IE not scheduled, pushing out 1wk (By TIFO) - Initial content: Au",
+  "Case" : "PT001",
+  "Effective Date" : "03-04-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01703659301",
+  "Patient ID" : "0487285",
+  "details" : "Auth not on portal"
+}

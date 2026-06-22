@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maribel Jimenez",
+  "bc" : "A",
+  "payor" : "MEDRISK, Inc.;",
+  "NAD" : "08-27-25",
+  "NAC" : "- F/U 1x6 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "08-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-22-25",
+  "Member ID" : "2025003157",
+  "Patient ID" : "0521959",
+  "ICD codes" : "[M54.2, L1]",
+  "details" : "Completed.."
+}

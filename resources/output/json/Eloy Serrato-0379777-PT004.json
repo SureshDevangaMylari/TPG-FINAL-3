@@ -1,0 +1,19 @@
+{
+  "patientName" : "Eloy Serrato",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-21-25",
+  "NAC" : "f/u 1x8",
+  "Case" : "PT004",
+  "Effective Date" : "07-17-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-17-25",
+  "Member ID" : "24015892",
+  "Patient ID" : "0379777",
+  "ICD codes" : "[M25.512, ]",
+  "details" : "Completed.."
+}

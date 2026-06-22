@@ -1,0 +1,20 @@
+{
+  "patientName" : "Francisco Ballesteros",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-16-25",
+  "NAC" : "- F/U 2x6 (By CHZI) - Initial content: IE 9/12 (By _____)",
+  "Case" : "OT002",
+  "Effective Date" : "09-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-15-25",
+  "Member ID" : "00002115453",
+  "Patient ID" : "0254562",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

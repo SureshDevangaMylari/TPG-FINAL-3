@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sara Mendoza",
+  "bc" : "A",
+  "payor" : "LIBERTY MUTUAL",
+  "NAD" : "03-05-25",
+  "NAC" : "WC approved more visits - please confirm with adjuster",
+  "Case" : "PT005",
+  "Effective Date" : "02-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "03-05-25",
+  "effectDate" : "02-28-25",
+  "Member ID" : "WC949-G52659",
+  "Patient ID" : "0016838",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

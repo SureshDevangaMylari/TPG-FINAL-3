@@ -1,0 +1,20 @@
+{
+  "patientName" : "Isela Huerta",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "11-12-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "96126057D",
+  "Patient ID" : "0448526",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No Physical therapthy service line"
+}

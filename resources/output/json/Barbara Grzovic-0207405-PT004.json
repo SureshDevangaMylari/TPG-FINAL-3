@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Barbara Grzovic",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-09-24",
+  "NAC" : "NP submit",
+  "Case" : "PT004",
+  "Effective Date" : "09-06-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-06-24",
+  "Member ID" : "00047681901",
+  "Patient ID" : "0207405",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

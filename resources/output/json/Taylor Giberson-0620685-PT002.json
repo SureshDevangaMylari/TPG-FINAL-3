@@ -1,0 +1,20 @@
+{
+  "patientName" : "Taylor Giberson",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-14-26",
+  "NAC" : "04-14-26 - please submit (By JEAR2) - Initial content: pls review the referr",
+  "Case" : "PT002",
+  "Effective Date" : "04-13-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01537056600",
+  "Patient ID" : "0620685",
+  "ICD codes" : "M72.2",
+  "Auth#" : "0010594316",
+  "details" : "completed"
+}

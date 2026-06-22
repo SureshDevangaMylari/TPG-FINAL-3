@@ -1,0 +1,19 @@
+{
+  "patientName" : "Loretta Moats",
+  "bc" : "A",
+  "payor" : "ION PT Network",
+  "NAD" : "07-30-25",
+  "NAC" : "F/U 2x3",
+  "Case" : "PT001",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-29-25",
+  "Member ID" : "005407-029096-WC-01",
+  "Patient ID" : "0533736",
+  "ICD codes" : "[M25.561, M25.562, M54.32, R26.9, L1]",
+  "details" : "Completed.."
+}

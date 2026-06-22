@@ -1,0 +1,20 @@
+{
+  "patientName" : "Kathryn Bergeron",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "10-27-25",
+  "NAC" : "submit",
+  "Case" : "PT004",
+  "Effective Date" : "10-24-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "014551442-01",
+  "Patient ID" : "0220800",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

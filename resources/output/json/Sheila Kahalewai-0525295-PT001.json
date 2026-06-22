@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sheila Kahalewai",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-24-25",
+  "NAC" : "- F/U 3x12 (By TIFO) - Eval 6/20/25 (By TIFO) - Eval 6/17/25 (By TIFO)",
+  "Case" : "PT001",
+  "Effective Date" : "06-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-20-25",
+  "Member ID" : "00001935642",
+  "Patient ID" : "0525295",
+  "Auth#" : "45251750137",
+  "details" : "Submit"
+}

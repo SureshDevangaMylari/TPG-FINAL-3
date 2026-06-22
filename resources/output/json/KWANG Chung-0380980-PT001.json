@@ -1,0 +1,20 @@
+{
+  "patientName" : "KWANG Chung",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "11-04-24",
+  "NAC" : "hello, please submit for more auth, frequency 2x6. Thank you!",
+  "Case" : "PT001",
+  "Effective Date" : "11-01-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-4",
+  "NextVisit" : "11-05-24",
+  "effectDate" : null,
+  "Member ID" : "772961101",
+  "Patient ID" : "0380980",
+  "ICD codes" : "[Z96.651, Z96.651]",
+  "Auth#" : " 3410337",
+  "details" : "submission"
+}

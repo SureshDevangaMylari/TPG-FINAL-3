@@ -1,0 +1,19 @@
+{
+  "patientName" : "Miguel Ibanez",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "06-16-25",
+  "NAC" : "F/u 2x4",
+  "Case" : "PT001",
+  "Effective Date" : "06-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "06-17-25",
+  "effectDate" : "06-13-25",
+  "Member ID" : "1100994",
+  "Patient ID" : "0516223",
+  "ICD codes" : "[M25.511, Adhesive CapsulitisAquaticsBursitisFractureImpairmentImpingementInstability/DislocationL1L2L3L4Labral TearLigament InjuryMassage TherapyOsteoarthritisPainRotator Cuff RepairRotator Cuff TearSprainTendonitisTenosynovitisTotal Shoulder Arthroplasty]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cheryl Strong",
+  "bc" : "A",
+  "payor" : "HomeLink Therapy Network -WC",
+  "NAD" : "02-17-25",
+  "NAC" : "F/U 2X4 02/17/25 - DEWA Automatically created pending authorization, created",
+  "Case" : "PT001",
+  "Effective Date" : "02-17-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-17-25",
+  "Member ID" : "22012881C",
+  "Patient ID" : "0482447",
+  "ICD codes" : "",
+  "details" : "no icd codes"
+}

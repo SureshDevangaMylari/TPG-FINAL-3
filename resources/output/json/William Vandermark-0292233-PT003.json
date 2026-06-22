@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "William Vandermark",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-13-24",
+  "NAC" : "9/10 faxed MD for chart notes - AM L1 Request for auth",
+  "Case" : "PT003",
+  "Effective Date" : "09-06-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-06-24",
+  "Member ID" : "XEO913192616",
+  "Patient ID" : "0292233",
+  "ICD codes" : "M54.16",
+  "Auth#" : "20240911710270800002",
+  "details" : "completed"
+}

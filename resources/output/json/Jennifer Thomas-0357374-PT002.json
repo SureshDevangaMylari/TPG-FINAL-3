@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Jennifer Thomas",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-13-24",
+  "NAC" : "submit once schd",
+  "Case" : "PT002",
+  "Effective Date" : "07-22-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "93906126E",
+  "Patient ID" : "0357374",
+  "ICD codes" : "M54.2",
+  "Auth#" : "OP0019426610",
+  "details" : "completed"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Veronica Pizano",
+  "bc" : "A",
+  "payor" : "Intercare Insurance",
+  "NAD" : "02-24-25",
+  "NAC" : "2x6",
+  "Case" : "PT001",
+  "Effective Date" : "02-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-20-25",
+  "Member ID" : "24-186501",
+  "Patient ID" : "0473895",
+  "ICD codes" : "[M54.2, M25.531, M62.81]",
+  "details" : "Completed.."
+}

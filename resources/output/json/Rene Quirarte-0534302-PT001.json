@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rene Quirarte",
+  "bc" : "A",
+  "payor" : "Intercare",
+  "NAD" : "09-08-25",
+  "NAC" : "f/u 2x3 pn on 09/04",
+  "Case" : "PT001",
+  "Effective Date" : "08-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "09-09-25",
+  "effectDate" : "08-27-25",
+  "Member ID" : "25-187312",
+  "Patient ID" : "0534302",
+  "ICD codes" : "[S90.31XD, Pain]",
+  "details" : "Completed.."
+}

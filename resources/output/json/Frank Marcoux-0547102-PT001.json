@@ -1,0 +1,19 @@
+{
+  "patientName" : "Frank Marcoux",
+  "bc" : "A",
+  "payor" : "Physnet",
+  "NAD" : "09-15-25",
+  "NAC" : "09-09-25 - Hello, please upload (By JEHO) 09-04-25 - 2ND ATTEMPT- FAXED RFA T",
+  "Case" : "PT001",
+  "Effective Date" : "08-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-28-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-25-25",
+  "Member ID" : "7810982",
+  "Patient ID" : "0547102",
+  "ICD codes" : "[M62.81, S53.402D, ]",
+  "details" : "Completed.."
+}

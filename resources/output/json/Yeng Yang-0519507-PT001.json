@@ -1,0 +1,19 @@
+{
+  "patientName" : "Yeng Yang",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "08-11-25",
+  "NAC" : "f/u 2x6 pn on 08/07",
+  "Case" : "PT001",
+  "Effective Date" : "08-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-05-25",
+  "Member ID" : "07016500",
+  "Patient ID" : "0519507",
+  "ICD codes" : "[M25.511, M79.601, M25.611, ]",
+  "details" : "Completed.."
+}

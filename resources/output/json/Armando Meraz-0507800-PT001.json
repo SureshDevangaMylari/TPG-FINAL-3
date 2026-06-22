@@ -1,0 +1,19 @@
+{
+  "patientName" : "Armando Meraz",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "08-07-25",
+  "NAC" : "08-06-25 - f/u 2X3 (By JAWU) 08-05-25 - PN still not signed (By JAWU) - I",
+  "Case" : "PT001",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "190587204-001",
+  "Patient ID" : "0507800",
+  "ICD codes" : "[M54.9, Pain]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Margarita Mendoza",
+  "bc" : "A",
+  "payor" : "Payer Direct, Inc. -WC",
+  "NAD" : "08-04-25",
+  "NAC" : "07-21-25 - SIGNED RFA IN CHART: SENT SIGNED RFA TO INS (By MAVA4) 07-14-25 -",
+  "Case" : "PT002",
+  "Effective Date" : "06-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "06-27-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-19-25",
+  "Member ID" : "VCSB-024964",
+  "Patient ID" : "0213128",
+  "ICD codes" : "[M25.561, Pain]",
+  "details" : "Completed.."
+}

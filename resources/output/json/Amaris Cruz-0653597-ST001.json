@@ -1,0 +1,20 @@
+{
+  "patientName" : "Amaris Cruz",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-21-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "ST001",
+  "Effective Date" : "04-20-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1603978834",
+  "Patient ID" : "0653597",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

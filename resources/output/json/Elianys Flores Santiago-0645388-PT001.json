@@ -1,0 +1,20 @@
+{
+  "patientName" : "Elianys Flores Santiago",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-26-26",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "05-22-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "02146139901",
+  "Patient ID" : "0645388",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DEERS Beneficiary/Member retrieval is in process. Please search again to retrieve the Beneficiary."
+}

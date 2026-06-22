@@ -1,0 +1,19 @@
+{
+  "patientName" : "Julie Latimer",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy -WC",
+  "NAD" : "09-18-25",
+  "NAC" : "09-17-25 - F/U 1x6 (By JAHE5) - Initial content: Automatically created pendi",
+  "Case" : "PT006",
+  "Effective Date" : "09-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "09-23-25",
+  "effectDate" : "09-16-25",
+  "Member ID" : "CWC230422194",
+  "Patient ID" : "0098156",
+  "ICD codes" : "[M54.9, M54.31, M62.81, L1]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ashin Waziranyana",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-25-25",
+  "NAC" : "- F/U 2x5 (By CHZI) - Initial content: 9/24 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "09-29-25",
+  "effectDate" : "09-18-25",
+  "Member ID" : "00000598330",
+  "Patient ID" : "0565490",
+  "Auth#" : "45252680061",
+  "details" : "Submit"
+}

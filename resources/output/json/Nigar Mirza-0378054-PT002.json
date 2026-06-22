@@ -1,0 +1,20 @@
+{
+  "patientName" : "Nigar Mirza",
+  "bc" : "A",
+  "payor" : "AARP UHC MA (Hoag IPA)",
+  "NAD" : "09-22-25",
+  "NAC" : "no icd codes no icd codes Automatically created pending authorization, cre",
+  "Case" : "PT002",
+  "Effective Date" : "09-19-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "09-26-25",
+  "effectDate" : null,
+  "Member ID" : "009063001",
+  "Patient ID" : "0378054",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

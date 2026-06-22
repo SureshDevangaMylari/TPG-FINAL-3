@@ -1,0 +1,19 @@
+{
+  "patientName" : "Adam Jansta",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-25-26",
+  "NAC" : "02-26-26 - Submit (By JEAR2) 02-23-26 - Referral has been scanned into chart.",
+  "Case" : "PT001",
+  "Effective Date" : "02-19-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01215751900",
+  "Patient ID" : "0624691",
+  "Auth#" : "",
+  "details" : "Approved"
+}

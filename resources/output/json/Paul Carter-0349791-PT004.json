@@ -1,0 +1,19 @@
+{
+  "patientName" : "Paul Carter",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "09-22-25",
+  "NAC" : "contact adjuster for new vendor as MedRisk sent fax memo that they are no longer",
+  "Case" : "PT004",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-5",
+  "NextVisit" : "09-30-25",
+  "effectDate" : "09-18-25",
+  "Member ID" : "8021317",
+  "Patient ID" : "0349791",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

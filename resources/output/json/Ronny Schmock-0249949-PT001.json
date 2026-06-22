@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Ronny Schmock",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "2x6",
+  "Case" : "00000",
+  "Effective Date" : "08-15-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-14-24",
+  "R.Task" : "",
+  "effectDate" : "08-15-24",
+  "Member ID" : "94645785A",
+  "Patient ID" : "0249949",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No service line"
+}

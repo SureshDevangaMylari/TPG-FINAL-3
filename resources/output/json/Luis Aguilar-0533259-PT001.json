@@ -1,0 +1,19 @@
+{
+  "patientName" : "Luis Aguilar",
+  "bc" : "A",
+  "payor" : "Set Comprehensive Care",
+  "NAD" : "08-07-25",
+  "NAC" : "08-06-25 - f/u 2X12 (By JAWU) 08-06-25 - PN signed off. (By DAMO) 08-06-25",
+  "Case" : "PT001",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "0306150WCNCC",
+  "Patient ID" : "0533259",
+  "ICD codes" : "[M25.511, M79.601, M25.411, M54.2, Pain]",
+  "details" : "Completed.."
+}

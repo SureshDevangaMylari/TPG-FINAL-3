@@ -1,0 +1,20 @@
+{
+  "patientName" : "THERESA Juskovic",
+  "bc" : "A",
+  "payor" : "SCAN MA HMO (Hoag IPA)",
+  "NAD" : "09-26-25",
+  "NAC" : "09-17-25 - comment: no icd codes (By TIGA1) 09-17-25 - 1ST ATTEMPT- FAXED MD",
+  "Case" : "PT002",
+  "Effective Date" : "09-16-25",
+  "Sub status" : "Pending with Referring Provider",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "40069798701",
+  "Patient ID" : "0302935",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

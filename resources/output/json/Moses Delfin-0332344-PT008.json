@@ -1,0 +1,19 @@
+{
+  "patientName" : "Moses Delfin",
+  "bc" : "A",
+  "payor" : "Payers Direct WC",
+  "NAD" : "08-25-25",
+  "NAC" : "f/u 1x6",
+  "Case" : "PT008",
+  "Effective Date" : "08-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-20-25",
+  "Member ID" : "22502148",
+  "Patient ID" : "0332344",
+  "ICD codes" : "[M25.512, ]",
+  "details" : "Completed.."
+}

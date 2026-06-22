@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jo-Ella Garcia",
+  "bc" : "A",
+  "payor" : "Tristar",
+  "NAD" : "09-22-25",
+  "NAC" : "09-22-25 - F/U 2x3 (By DECO) - Initial content: pn on 09/19 (By _____)",
+  "Case" : "PT008",
+  "Effective Date" : "09-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-12-25",
+  "Member ID" : "231092230",
+  "Patient ID" : "0086498",
+  "ICD codes" : "[M18.12, ]",
+  "details" : "Completed.."
+}

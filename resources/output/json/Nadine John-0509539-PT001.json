@@ -1,0 +1,19 @@
+{
+  "patientName" : "Nadine John",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "08-13-25",
+  "NAC" : "08-12-25 - f/u 2X5 (By JAWU) - Initial content: F/U 2x5 - CADO (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "08-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-13-25",
+  "Member ID" : "51971012012",
+  "Patient ID" : "0509539",
+  "Auth#" : "45252250318",
+  "details" : "Submit"
+}

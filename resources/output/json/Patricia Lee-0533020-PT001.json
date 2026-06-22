@@ -1,0 +1,19 @@
+{
+  "patientName" : "Patricia Lee",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-07-25",
+  "NAC" : "07-03-25 - f/u 2X6 (By JAWU) - Eval 7/2/25 (By TIFO) - Initial content:",
+  "Case" : "PT001",
+  "Effective Date" : "06-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "07-09-25",
+  "effectDate" : "06-25-25",
+  "Member ID" : "00003232271",
+  "Patient ID" : "0533020",
+  "Auth#" : "45251880200",
+  "details" : "Submit"
+}

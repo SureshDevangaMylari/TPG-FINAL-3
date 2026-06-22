@@ -1,0 +1,20 @@
+{
+  "patientName" : "Loren Obanion",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "12-29-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00673460100",
+  "Patient ID" : "0606110",
+  "ICD codes" : "M54.9",
+  "Auth#" : "0009189783",
+  "details" : "completed"
+}

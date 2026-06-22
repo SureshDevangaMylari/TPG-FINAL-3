@@ -1,0 +1,21 @@
+{
+  "patientName" : "Marta Leon Escobar",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-02-24",
+  "NAC" : "NP submit",
+  "Case" : "PT001",
+  "Effective Date" : "10-01-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "90666914E",
+  "Patient ID" : "0432172",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No Physical therapthy service line"
+}

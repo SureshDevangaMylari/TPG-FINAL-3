@@ -1,0 +1,20 @@
+{
+  "patientName" : "Christy Drottz",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "04-17-25",
+  "NAC" : "04-09-25 - IE not scheduled, pushing out 1wk (By TIFO) - Initial content: Au",
+  "Case" : "PT001",
+  "Effective Date" : "04-09-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H7741477800",
+  "Patient ID" : "0502083",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

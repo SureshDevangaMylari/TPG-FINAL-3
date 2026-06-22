@@ -1,0 +1,19 @@
+{
+  "patientName" : "Stephen Tosh",
+  "bc" : "A",
+  "payor" : "LIBERTY MUTUAL",
+  "NAD" : "02-21-25",
+  "NAC" : "F/U 2x3 AR never opened please request.",
+  "Case" : "PT004",
+  "Effective Date" : "01-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "01-02-25",
+  "Member ID" : "WC608G25181",
+  "Patient ID" : "0000347",
+  "ICD codes" : "[M25.511, Z47.89]",
+  "details" : "Completed.."
+}

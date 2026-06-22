@@ -1,0 +1,20 @@
+{
+  "patientName" : "Rosa Rios Gallardo",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-09-24",
+  "NAC" : "F/u 2x12",
+  "Case" : "PT002",
+  "Effective Date" : "10-08-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "97144817F",
+  "Patient ID" : "0253900",
+  "ICD codes" : "M54.50",
+  "Auth#" : "6337484",
+  "details" : "completed"
+}

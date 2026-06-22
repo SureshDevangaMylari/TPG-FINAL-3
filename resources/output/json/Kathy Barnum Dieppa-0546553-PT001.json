@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kathy Barnum Dieppa",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-12-25",
+  "NAC" : "08-12-25 - f/u 3X4 (By JAWU) 08-11-25 - comment (By TAGA6) 08-08-25 - F/U",
+  "Case" : "PT001",
+  "Effective Date" : "07-31-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-31-25",
+  "Member ID" : "00002522038",
+  "Patient ID" : "0546553",
+  "Auth#" : "45252240209",
+  "details" : "Submit"
+}

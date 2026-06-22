@@ -1,0 +1,19 @@
+{
+  "patientName" : "Eric Chavez",
+  "bc" : "A",
+  "payor" : "MEDRISK, Inc.;",
+  "NAD" : "09-25-25",
+  "NAC" : "F/U 2x3",
+  "Case" : "PT004",
+  "Effective Date" : "10-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "10-03-25",
+  "Member ID" : "06122268",
+  "Patient ID" : "0128105",
+  "ICD codes" : "[M54.9, M62.81, Massage Therapy]",
+  "details" : "Completed.."
+}

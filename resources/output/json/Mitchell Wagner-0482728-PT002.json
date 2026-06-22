@@ -1,0 +1,19 @@
+{
+  "patientName" : "Mitchell Wagner",
+  "bc" : "A",
+  "payor" : "Sedgwick",
+  "NAD" : "08-28-25",
+  "NAC" : "2x4",
+  "Case" : "PT002",
+  "Effective Date" : "08-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "08-29-25",
+  "effectDate" : "08-27-25",
+  "Member ID" : "4A2501HZJ550001",
+  "Patient ID" : "0482728",
+  "ICD codes" : "[M25.561, Z96.651, ]",
+  "details" : "Completed.."
+}

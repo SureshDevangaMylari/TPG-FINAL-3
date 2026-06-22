@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cristina Gonzalez",
+  "bc" : "A",
+  "payor" : "Payer Direct, Inc. -WC",
+  "NAD" : "08-25-25",
+  "NAC" : "08-21-25 - F/U 2x9 (By JAHE5) - Initial content: Automatically created pendi",
+  "Case" : "OT001",
+  "Effective Date" : "08-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-19-25",
+  "Member ID" : "25019423",
+  "Patient ID" : "0355968",
+  "ICD codes" : "[M79.642, R20.2, L1]",
+  "details" : "Completed.."
+}

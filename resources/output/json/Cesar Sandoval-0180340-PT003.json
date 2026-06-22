@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cesar Sandoval",
+  "bc" : "A",
+  "payor" : "MedRisk",
+  "NAD" : "07-21-25",
+  "NAC" : "F/U 2X5",
+  "Case" : "PT003",
+  "Effective Date" : "07-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "07-17-25",
+  "effectDate" : "07-16-25",
+  "Member ID" : "06764126",
+  "Patient ID" : "0180340",
+  "ICD codes" : "[M25.561, L1]",
+  "details" : "Completed.."
+}

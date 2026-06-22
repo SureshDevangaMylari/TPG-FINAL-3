@@ -1,0 +1,18 @@
+{
+  "patientName" : "Douglas Cox",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "08-14-25",
+  "NAC" : "please obtain auth from MD",
+  "Case" : "OT002",
+  "Effective Date" : "08-07-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "566191349",
+  "Patient ID" : "0508748",
+  "details" : "There are no records to display."
+}

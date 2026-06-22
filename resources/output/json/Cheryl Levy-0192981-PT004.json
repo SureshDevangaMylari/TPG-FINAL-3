@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cheryl Levy",
+  "bc" : "C",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-28-25",
+  "NAC" : "F/U 2X6",
+  "Case" : "PT004",
+  "Effective Date" : "04-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-2",
+  "NextVisit" : "04-29-25",
+  "effectDate" : "04-25-25",
+  "Member ID" : "00000045305",
+  "Patient ID" : "0192981",
+  "Auth#" : "45251180213",
+  "details" : "Submit"
+}

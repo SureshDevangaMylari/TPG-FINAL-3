@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Stephanie Verrinder",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "09-06-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-06-24",
+  "Member ID" : "R11465149-FS1",
+  "Patient ID" : "0288315",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

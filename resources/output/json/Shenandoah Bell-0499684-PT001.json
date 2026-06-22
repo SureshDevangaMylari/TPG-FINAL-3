@@ -1,0 +1,18 @@
+{
+  "patientName" : "Shenandoah Bell",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-08-25",
+  "NAC" : "04-03-25 - Could not submit on portal: Found the patient and once auth request w",
+  "Case" : "PT001",
+  "Effective Date" : "04-03-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01522532001",
+  "Patient ID" : "0499684",
+  "details" : "Auth not on portal"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Laura Dominguez",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "06-16-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "06-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-11-25",
+  "Member ID" : "19000312",
+  "Patient ID" : "0505533",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "THOMAS ALVAREZ JR",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "08-18-25",
+  "NAC" : "08-18-25 - F/U 2x6 (By DECO) 08-15-25 - Called & s/w Alondra, whom said: noth",
+  "Case" : "PT001",
+  "Effective Date" : "07-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "07-22-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-21-25",
+  "Member ID" : "07008512",
+  "Patient ID" : "0491551",
+  "ICD codes" : "[M75.121, Rotator Cuff Repair]",
+  "details" : "Completed.."
+}

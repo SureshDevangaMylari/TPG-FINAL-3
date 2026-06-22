@@ -1,0 +1,19 @@
+{
+  "patientName" : "Natalie Crane",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-12-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "02-12-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "02-27-26",
+  "effectDate" : null,
+  "Member ID" : "00643149602",
+  "Patient ID" : "0625874",
+  "Auth#" : "",
+  "details" : "Approved"
+}

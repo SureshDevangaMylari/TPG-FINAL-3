@@ -1,0 +1,19 @@
+{
+  "patientName" : "Mary Dillard",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-29-25",
+  "NAC" : "f/u 2x4",
+  "Case" : "PT004",
+  "Effective Date" : "07-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-10-25",
+  "Member ID" : "27386100001",
+  "Patient ID" : "0379979",
+  "Auth#" : "45252120299",
+  "details" : "Submit"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Luis Sanchez osorio",
+  "bc" : "A",
+  "payor" : "Align Networks/OneCall-WC",
+  "NAD" : "06-20-25",
+  "NAC" : "pn on 06/19",
+  "Case" : "PT002",
+  "Effective Date" : "05-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-20-25",
+  "Member ID" : "1044403",
+  "Patient ID" : "0433697",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Shaunet Taupeoli",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-17-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-12-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "02225941101",
+  "Patient ID" : "0590093",
+  "ICD codes" : "M25.552",
+  "Auth#" : "0008677952",
+  "details" : "completed"
+}

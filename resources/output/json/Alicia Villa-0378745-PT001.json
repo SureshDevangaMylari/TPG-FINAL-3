@@ -1,0 +1,19 @@
+{
+  "patientName" : "Alicia Villa",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-06-25",
+  "NAC" : "05-05-25 - f/u 1X8 (By JAWU) 05-02-25 - Waiting for IE to be completed (By JA",
+  "Case" : "PT001",
+  "Effective Date" : "04-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-2",
+  "NextVisit" : "05-08-25",
+  "effectDate" : "04-28-25",
+  "Member ID" : "00001897808",
+  "Patient ID" : "0378745",
+  "Auth#" : "45251260366",
+  "details" : "Submit"
+}

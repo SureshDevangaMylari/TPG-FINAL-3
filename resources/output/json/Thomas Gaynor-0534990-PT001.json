@@ -1,0 +1,19 @@
+{
+  "patientName" : "Thomas Gaynor",
+  "bc" : "A",
+  "payor" : "Corvel",
+  "NAD" : "09-15-25",
+  "NAC" : "F/U 2X6",
+  "Case" : "PT001",
+  "Effective Date" : "09-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-7",
+  "NextVisit" : "09-15-25",
+  "effectDate" : "09-12-25",
+  "Member ID" : "CB25300708",
+  "Patient ID" : "0534990",
+  "ICD codes" : "[M25.541, Tendonitis]",
+  "details" : "Completed.."
+}

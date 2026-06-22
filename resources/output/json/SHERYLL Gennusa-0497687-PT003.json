@@ -1,0 +1,20 @@
+{
+  "patientName" : "SHERYLL Gennusa",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "07-23-25",
+  "NAC" : "no icd codes Automatically created pending authorization, created on adding a",
+  "Case" : "PT003",
+  "Effective Date" : "07-22-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "382610501",
+  "Patient ID" : "0497687",
+  "ICD codes" : "M54.16",
+  "Auth#" : " 4390224",
+  "details" : "approval"
+}

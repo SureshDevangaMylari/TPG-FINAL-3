@@ -1,0 +1,19 @@
+{
+  "patientName" : "Elias Berra Garcia",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-20-25",
+  "NAC" : "05-19-25 - f/u 2X10 (By JAWU) 05-16-25 - IE still not completed (By JAWU)",
+  "Case" : "PT002",
+  "Effective Date" : "05-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "05-27-25",
+  "effectDate" : "05-13-25",
+  "Member ID" : "00002655367",
+  "Patient ID" : "0424468",
+  "Auth#" : "45251400307",
+  "details" : "Submit"
+}

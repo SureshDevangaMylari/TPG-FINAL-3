@@ -1,0 +1,19 @@
+{
+  "patientName" : "Hyun Jee",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-11-25",
+  "NAC" : "- F/U 2x8 (By TIFO) - Eval 6/10/25 (By TIFO) - Initial content: Automat",
+  "Case" : "PT001",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "06-17-25",
+  "effectDate" : "06-10-25",
+  "Member ID" : "00003084176",
+  "Patient ID" : "0517654",
+  "Auth#" : "45251620059",
+  "details" : "Submit"
+}

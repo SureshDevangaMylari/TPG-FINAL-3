@@ -1,0 +1,20 @@
+{
+  "patientName" : "Laura Gaughan",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT003",
+  "Effective Date" : "09-17-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "905440374001",
+  "Patient ID" : "0141874",
+  "ICD codes" : "R32",
+  "Auth#" : " 4623750",
+  "details" : "approval"
+}

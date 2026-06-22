@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cheryl Lutomski",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-01-25",
+  "NAC" : "- F/U 2x6 (By TIFO) 04-25-25 - IE needs to be cosigned (By JAWU) - Eval",
+  "Case" : "PT001",
+  "Effective Date" : "04-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-3",
+  "NextVisit" : "05-05-25",
+  "effectDate" : "04-24-25",
+  "Member ID" : "40398500001",
+  "Patient ID" : "0502761",
+  "Auth#" : "45251210051",
+  "details" : "Submit"
+}

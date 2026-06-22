@@ -1,0 +1,19 @@
+{
+  "patientName" : "Hong Ruan",
+  "bc" : "A",
+  "payor" : "Medcomp USA, Inc. DBA MTI",
+  "NAD" : "02-21-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT001",
+  "Effective Date" : "02-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-13-25",
+  "Member ID" : "CBH32H",
+  "Patient ID" : "0408089",
+  "ICD codes" : "[M25.511, M25.512]",
+  "details" : "Completed.."
+}

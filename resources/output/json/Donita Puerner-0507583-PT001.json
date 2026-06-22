@@ -1,0 +1,19 @@
+{
+  "patientName" : "Donita Puerner",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-06-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Initial content: Eval on 5/2 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "05-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-2",
+  "NextVisit" : "05-09-25",
+  "effectDate" : "05-02-25",
+  "Member ID" : "00001538131",
+  "Patient ID" : "0507583",
+  "Auth#" : "45251260376",
+  "details" : "Submit"
+}

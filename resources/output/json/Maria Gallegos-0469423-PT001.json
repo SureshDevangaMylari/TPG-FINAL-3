@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maria Gallegos",
+  "bc" : "A",
+  "payor" : "MedComp USA, Inc. DBA MTI",
+  "NAD" : "03-06-25",
+  "NAC" : "Last visit 3/5",
+  "Case" : "PT001",
+  "Effective Date" : "02-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "03-12-25",
+  "effectDate" : "02-20-25",
+  "Member ID" : "190038861001",
+  "Patient ID" : "0469423",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

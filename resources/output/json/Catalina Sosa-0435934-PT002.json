@@ -1,0 +1,19 @@
+{
+  "patientName" : "Catalina Sosa",
+  "bc" : "A",
+  "payor" : "Homelink WC",
+  "NAD" : "09-17-25",
+  "NAC" : "09-17-25 - F/U 2x5 (By JAHE5) - Initial content: pn on 09/16 (By _____)",
+  "Case" : "PT002",
+  "Effective Date" : "09-08-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-08-25",
+  "Member ID" : "13025187",
+  "Patient ID" : "0435934",
+  "ICD codes" : "[M54.9, M62.81, Aquatics]",
+  "details" : "Completed.."
+}

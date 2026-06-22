@@ -1,0 +1,19 @@
+{
+  "patientName" : "Karla Avila-Perez",
+  "bc" : "A",
+  "payor" : "Status Medical Management",
+  "NAD" : "09-04-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT004",
+  "Effective Date" : "09-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "09-08-25",
+  "effectDate" : "09-11-25",
+  "Member ID" : "25TC0018",
+  "Patient ID" : "0037457",
+  "ICD codes" : "[M79.661, M79.662, L1]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "ANDREW Kresch",
+  "bc" : "A",
+  "payor" : "AARP UHC MA (Hoag IPA)",
+  "NAD" : "09-15-25",
+  "NAC" : "09-12-25 - comment (By TIGA1) - Initial content: no icd codes Automatical",
+  "Case" : "PT002",
+  "Effective Date" : "09-11-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-5",
+  "NextVisit" : "09-16-25",
+  "effectDate" : null,
+  "Member ID" : "951796301",
+  "Patient ID" : "0288472",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

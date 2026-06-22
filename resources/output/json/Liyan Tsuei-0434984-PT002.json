@@ -1,0 +1,19 @@
+{
+  "patientName" : "Liyan Tsuei",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-12-25",
+  "NAC" : "- F/U 2x6 (By TIFO) 06-10-25 - still need signed IE to submit (By TIFO)",
+  "Case" : "PT002",
+  "Effective Date" : "06-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "06-13-25",
+  "effectDate" : "06-09-25",
+  "Member ID" : "00002410887",
+  "Patient ID" : "0434984",
+  "Auth#" : "45251630083",
+  "details" : "Submit"
+}

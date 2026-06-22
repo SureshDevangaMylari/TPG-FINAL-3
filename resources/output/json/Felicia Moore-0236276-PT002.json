@@ -1,0 +1,20 @@
+{
+  "patientName" : "Felicia Moore",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "11-21-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-19-24",
+  "effectDate" : null,
+  "Member ID" : "H65624782",
+  "Patient ID" : "0236276",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

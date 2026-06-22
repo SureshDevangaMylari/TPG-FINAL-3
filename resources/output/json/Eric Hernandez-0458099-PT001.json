@@ -1,0 +1,19 @@
+{
+  "patientName" : "Eric Hernandez",
+  "bc" : "A",
+  "payor" : "Athens Administrators WC",
+  "NAD" : "06-13-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "",
+  "effectDate" : "06-10-25",
+  "Member ID" : "24015121",
+  "Patient ID" : "0458099",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

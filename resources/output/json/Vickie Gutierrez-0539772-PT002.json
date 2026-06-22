@@ -1,0 +1,20 @@
+{
+  "patientName" : "Vickie Gutierrez",
+  "bc" : "A",
+  "payor" : "UHC HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "NoRecordsFound Automatically created pending authorization, created on adding",
+  "Case" : "PT002",
+  "Effective Date" : "09-21-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "359022401",
+  "Patient ID" : "0539772",
+  "ICD codes" : "M54.9",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

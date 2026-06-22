@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jameisha Anderson",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-20-25",
+  "NAC" : "06-23-25 - f/u 2X4 (By JAWU) 06-19-25 - f/u 2x4w (By FRES) - Initial cont",
+  "Case" : "PT002",
+  "Effective Date" : "05-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-27-25",
+  "Member ID" : "45161300001",
+  "Patient ID" : "0308106",
+  "Auth#" : "45251750111",
+  "details" : "Submit"
+}

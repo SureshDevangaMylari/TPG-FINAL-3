@@ -1,0 +1,19 @@
+{
+  "patientName" : "Carol Coyle",
+  "bc" : "A",
+  "payor" : "Payer Direct, Inc. -WC",
+  "NAD" : "07-08-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT004",
+  "Effective Date" : "06-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "07-03-25",
+  "effectDate" : "06-23-25",
+  "Member ID" : "22009476",
+  "Patient ID" : "0136310",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

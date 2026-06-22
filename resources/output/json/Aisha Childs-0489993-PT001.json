@@ -1,0 +1,19 @@
+{
+  "patientName" : "Aisha Childs",
+  "bc" : "A",
+  "payor" : "Medrisk",
+  "NAD" : "07-24-25",
+  "NAC" : "please upload",
+  "Case" : "PT001",
+  "Effective Date" : "07-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-23-25",
+  "Member ID" : "25007568D",
+  "Patient ID" : "0489993",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

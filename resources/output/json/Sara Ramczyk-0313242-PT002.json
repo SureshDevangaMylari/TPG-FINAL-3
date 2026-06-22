@@ -1,0 +1,20 @@
+{
+  "patientName" : "Sara Ramczyk",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-17-24",
+  "NAC" : "F/U 2x5",
+  "Case" : "PT002",
+  "Effective Date" : "10-16-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "91480339A",
+  "Patient ID" : "0313242",
+  "ICD codes" : "M54.9",
+  "Auth#" : "6344101",
+  "details" : "completed"
+}

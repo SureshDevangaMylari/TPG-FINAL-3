@@ -1,0 +1,19 @@
+{
+  "patientName" : "Bruce Riley",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-18-26",
+  "NAC" : "05-14-26 - Please submit for auth. Thank you! (By ERHA) - Initial content: A",
+  "Case" : "PT001",
+  "Effective Date" : "05-14-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00593985400",
+  "Patient ID" : "0665026",
+  "Auth#" : "",
+  "details" : "Approved"
+}

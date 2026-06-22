@@ -1,0 +1,19 @@
+{
+  "patientName" : "Steven Folsom",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-09-25",
+  "NAC" : "- F/U 2x8 (By TIFO) - Initial content: eval 5/7 (By _____)",
+  "Case" : "PT002",
+  "Effective Date" : "05-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "05-12-25",
+  "effectDate" : "05-07-25",
+  "Member ID" : "00001463605",
+  "Patient ID" : "0212078",
+  "Auth#" : "45251290234",
+  "details" : "Submit"
+}

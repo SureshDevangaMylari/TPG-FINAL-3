@@ -1,0 +1,20 @@
+{
+  "patientName" : "Mateo Carranza",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-09-26",
+  "NAC" : "02-10-26 - RX is uploaded, please submit for auth (By STPA2) 02-03-26 - RX fr",
+  "Case" : "PT001",
+  "Effective Date" : "01-19-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "014744238",
+  "Patient ID" : "0614890",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

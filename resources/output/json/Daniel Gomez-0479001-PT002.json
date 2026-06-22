@@ -1,0 +1,19 @@
+{
+  "patientName" : "Daniel Gomez",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-25-25",
+  "NAC" : "F.U 2x6",
+  "Case" : "PT002",
+  "Effective Date" : "08-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-20-25",
+  "Member ID" : "4A24042B4W50001",
+  "Patient ID" : "0479001",
+  "ICD codes" : "[M94.262, ]",
+  "details" : "Completed.."
+}

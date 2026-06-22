@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kyle Batista",
+  "bc" : "A",
+  "payor" : "LIBERTY MUTUAL",
+  "NAD" : "08-25-25",
+  "NAC" : "08-22-25 - F/U 2X6 (By ERDU) - Initial content: Automatically created pendin",
+  "Case" : "PT001",
+  "Effective Date" : "08-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "08-26-25",
+  "effectDate" : "08-21-25",
+  "Member ID" : "WC648D71388",
+  "Patient ID" : "0534539",
+  "ICD codes" : "[R53.1, M25.512, R29.3, ]",
+  "details" : "Completed.."
+}

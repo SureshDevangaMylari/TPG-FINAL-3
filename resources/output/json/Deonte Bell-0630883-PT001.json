@@ -1,0 +1,18 @@
+{
+  "patientName" : "Deonte Bell",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "02-25-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "03-25-26",
+  "effectDate" : null,
+  "Member ID" : "01635022200",
+  "Patient ID" : "0630883",
+  "details" : "No Physical therapthy service line"
+}

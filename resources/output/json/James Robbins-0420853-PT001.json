@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "James Robbins",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-13-24",
+  "NAC" : "L2 Request for auth 9/6/24 Auth submitted 20240906710257700001 - BL",
+  "Case" : "PT001",
+  "Effective Date" : "09-03-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-03-24",
+  "Member ID" : "C4086098301",
+  "Patient ID" : "0420853",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

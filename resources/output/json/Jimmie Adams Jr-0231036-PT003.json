@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jimmie Adams Jr",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-20-25",
+  "NAC" : "F/U AQUA 2x6 - RR",
+  "Case" : "PT003",
+  "Effective Date" : "08-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "08-12-25",
+  "effectDate" : "08-19-25",
+  "Member ID" : "05325864",
+  "Patient ID" : "0231036",
+  "ICD codes" : "[M54.59, Pain]",
+  "details" : "Completed.."
+}

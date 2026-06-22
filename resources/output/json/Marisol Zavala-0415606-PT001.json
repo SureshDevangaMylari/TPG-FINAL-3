@@ -1,0 +1,20 @@
+{
+  "patientName" : "Marisol Zavala",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-15-24",
+  "NAC" : "F/u 2x6. c v",
+  "Case" : "PT001",
+  "Effective Date" : "10-11-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "93550161D",
+  "Patient ID" : "0415606",
+  "ICD codes" : "M25.561",
+  "Auth#" : "6337480",
+  "details" : "completed"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "John Williamson",
+  "bc" : "A",
+  "payor" : "Med Risk",
+  "NAD" : "05-16-25",
+  "NAC" : "pn on 05/15",
+  "Case" : "OT002",
+  "Effective Date" : "04-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "05-15-25",
+  "effectDate" : "04-29-25",
+  "Member ID" : "55C501286",
+  "Patient ID" : "0480919",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

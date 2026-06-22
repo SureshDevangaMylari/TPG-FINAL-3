@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jesus Hernandez",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-06-25",
+  "NAC" : "- F/U 2x8 (By TIFO) - Initial content: Eval on 8/4 (By _____)",
+  "Case" : "PT006",
+  "Effective Date" : "08-04-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-3",
+  "NextVisit" : "08-08-25",
+  "effectDate" : "08-04-25",
+  "Member ID" : "00002168288",
+  "Patient ID" : "0200244",
+  "Auth#" : "45252170317",
+  "details" : "Submit"
+}

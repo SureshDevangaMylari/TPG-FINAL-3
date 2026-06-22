@@ -1,0 +1,19 @@
+{
+  "patientName" : "Anthony Ramos",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "03-05-25",
+  "NAC" : "02-28-25 - Auth: Faxed RFA to MD 02/28/25 (By TIGR2) - Initial content: F/U",
+  "Case" : "PT001",
+  "Effective Date" : "02-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "02-28-20",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "03-06-25",
+  "effectDate" : "02-27-25",
+  "Member ID" : "F4B9185",
+  "Patient ID" : "0473840",
+  "ICD codes" : "[M54.2, R29.3, R53.1]",
+  "details" : "Completed.."
+}

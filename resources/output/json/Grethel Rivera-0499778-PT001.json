@@ -1,0 +1,19 @@
+{
+  "patientName" : "Grethel Rivera",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-05-25",
+  "NAC" : "f/u 3X6 04.30.25 Waiting for IE to be completed - sent task jw eval 4/30",
+  "Case" : "PT001",
+  "Effective Date" : "04-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "05-07-25",
+  "effectDate" : "04-30-25",
+  "Member ID" : "82848900001",
+  "Patient ID" : "0499778",
+  "Auth#" : "45251260341",
+  "details" : "Submit"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ralph Prieto",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "08-20-25",
+  "NAC" : "F/U 2X8",
+  "Case" : "PT004",
+  "Effective Date" : "08-04-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "08-18-25",
+  "effectDate" : "08-04-25",
+  "Member ID" : "06654132",
+  "Patient ID" : "0191118",
+  "ICD codes" : "[M25.512, Z98.890, Z96.612, L1]",
+  "details" : "Completed.."
+}

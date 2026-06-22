@@ -1,0 +1,19 @@
+{
+  "patientName" : "Hector Gonzalez",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-17-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Eval 4/16/25 (By TIFO) - Initial content: Automat",
+  "Case" : "PT001",
+  "Effective Date" : "04-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-2",
+  "NextVisit" : "04-29-25",
+  "effectDate" : "04-16-25",
+  "Member ID" : "00001613047",
+  "Patient ID" : "0495744",
+  "Auth#" : "45251140172",
+  "details" : "Submit"
+}

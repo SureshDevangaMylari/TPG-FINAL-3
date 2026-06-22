@@ -1,0 +1,18 @@
+{
+  "patientName" : "Marilou Mote",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "OT001",
+  "Effective Date" : "08-07-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "08-12-25",
+  "effectDate" : null,
+  "Member ID" : "00691787100",
+  "Patient ID" : "0527731",
+  "details" : "NOt for PHYsical Therapy"
+}

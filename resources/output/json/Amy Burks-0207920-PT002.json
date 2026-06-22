@@ -1,0 +1,19 @@
+{
+  "patientName" : "Amy Burks",
+  "bc" : "A",
+  "payor" : "HomeLink WC",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT002",
+  "Effective Date" : "05-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "05-02-25",
+  "Member ID" : "06858612",
+  "Patient ID" : "0207920",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

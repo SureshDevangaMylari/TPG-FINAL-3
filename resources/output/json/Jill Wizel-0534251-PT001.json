@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jill Wizel",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-14-25",
+  "NAC" : "07-11-25 - f/u 2x8 (By RODO1) - Initial content: r/s to 7/11 Eval on 7/3 (B",
+  "Case" : "PT001",
+  "Effective Date" : "06-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-29-25",
+  "Member ID" : "00002395322",
+  "Patient ID" : "0534251",
+  "Auth#" : "45251920139",
+  "details" : "Submit"
+}

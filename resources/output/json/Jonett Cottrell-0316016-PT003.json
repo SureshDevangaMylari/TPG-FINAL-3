@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jonett Cottrell",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-10-25",
+  "NAC" : "07-09-25 - f/u 1X8 (By JAWU) 06-24-25 - r/s to 7/8 (By JAWU) - Eval 6/23/",
+  "Case" : "PT003",
+  "Effective Date" : "06-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "07-16-25",
+  "effectDate" : "06-16-25",
+  "Member ID" : "00001083128",
+  "Patient ID" : "0316016",
+  "Auth#" : "45251910128",
+  "details" : "Submit"
+}

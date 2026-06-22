@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sarah Thayn",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "04-01-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1159511258",
+  "Patient ID" : "0530782",
+  "Auth#" : "",
+  "details" : "Approved"
+}

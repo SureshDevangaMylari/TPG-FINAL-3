@@ -1,0 +1,19 @@
+{
+  "patientName" : "Claudia Maldonado",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-03-25",
+  "NAC" : "F/U 2X5",
+  "Case" : "PT002",
+  "Effective Date" : "07-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-02-25",
+  "effectDate" : "07-01-25",
+  "Member ID" : "25190092",
+  "Patient ID" : "0513240",
+  "ICD codes" : "[M54.50, ]",
+  "details" : "Completed.."
+}

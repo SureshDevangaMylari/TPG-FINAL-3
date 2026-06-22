@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jesus Solis",
+  "bc" : "A",
+  "payor" : "HARTFORD WC INSURANCE",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT001",
+  "Effective Date" : "05-06-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "05-20-25",
+  "effectDate" : "05-06-25",
+  "Member ID" : "Y4HC45119",
+  "Patient ID" : "0487525",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

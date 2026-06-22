@@ -1,0 +1,19 @@
+{
+  "patientName" : "Elizabeth Moncayo",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-20-25",
+  "NAC" : "f/u 2X10 Eval on 5/19",
+  "Case" : "PT001",
+  "Effective Date" : "05-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-19-25",
+  "Member ID" : "00000214568",
+  "Patient ID" : "0509895",
+  "Auth#" : "45251400314",
+  "details" : "Submit"
+}

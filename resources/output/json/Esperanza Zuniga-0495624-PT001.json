@@ -1,0 +1,19 @@
+{
+  "patientName" : "Esperanza Zuniga",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-29-25",
+  "NAC" : "- F/U 3x8 (By TIFO) 04-18-25 - still need signed IE to update frequency for",
+  "Case" : "PT001",
+  "Effective Date" : "04-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "04-16-25",
+  "Member ID" : "00001913386",
+  "Patient ID" : "0495624",
+  "Auth#" : "45251200047",
+  "details" : "Submit"
+}

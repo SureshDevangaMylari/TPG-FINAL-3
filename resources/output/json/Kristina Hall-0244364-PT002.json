@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Kristina Hall",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "08-11-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "93786116A",
+  "Patient ID" : "0244364",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ernest Stratton",
+  "bc" : "A",
+  "payor" : "ION PT NETWORK",
+  "NAD" : "09-17-25",
+  "NAC" : "09-15-25 - UR Cert for 6 received;: Please submit to Ion PT. EG (By ERGA) 09-",
+  "Case" : "PT001",
+  "Effective Date" : "08-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-25-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-25-25",
+  "Member ID" : "005407-012435-WC-01",
+  "Patient ID" : "0524805",
+  "ICD codes" : "[M25.571, S96.911A, M25.579, M24.173, ]",
+  "details" : "Completed.."
+}

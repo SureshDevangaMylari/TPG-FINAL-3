@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Xavier Arambula Collazo",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-15-24",
+  "NAC" : "08.08 submit once sched",
+  "Case" : "OT001",
+  "Effective Date" : "08-08-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "99182247G",
+  "Patient ID" : "0411372",
+  "ICD codes" : "F84.0",
+  "Auth#" : "OP0019468815",
+  "details" : "completed"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Gabriel Ibarra",
+  "bc" : "A",
+  "payor" : "MedRisk",
+  "NAD" : "08-26-25",
+  "NAC" : "F/U 2X6",
+  "Case" : "PT001",
+  "Effective Date" : "08-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "08-22-25",
+  "effectDate" : "08-28-25",
+  "Member ID" : "2230600243",
+  "Patient ID" : "0536337",
+  "ICD codes" : "[M25.562, ]",
+  "details" : "Completed.."
+}

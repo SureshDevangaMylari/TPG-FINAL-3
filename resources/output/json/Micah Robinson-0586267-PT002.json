@@ -1,0 +1,20 @@
+{
+  "patientName" : "Micah Robinson",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-25-26",
+  "NAC" : "submit",
+  "Case" : "PT002",
+  "Effective Date" : "02-24-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01390545703",
+  "Patient ID" : "0586267",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

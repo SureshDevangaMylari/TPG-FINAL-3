@@ -1,0 +1,20 @@
+{
+  "patientName" : "Marco Polo Valladolid",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-26-26",
+  "NAC" : "Submit",
+  "Case" : "PT001",
+  "Effective Date" : "05-21-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00873556900",
+  "Patient ID" : "0666140",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

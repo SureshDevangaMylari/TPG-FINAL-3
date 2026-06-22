@@ -1,0 +1,19 @@
+{
+  "patientName" : "Octavio Cervantes",
+  "bc" : "A",
+  "payor" : "Streamline WC",
+  "NAD" : "07-03-25",
+  "NAC" : "07-02-25 - F/U 2X6 (By ERDU) - Initial content: pending pn (By _____)",
+  "Case" : "OT006",
+  "Effective Date" : "06-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-25-25",
+  "Member ID" : "1082382",
+  "Patient ID" : "0115361",
+  "ICD codes" : "[M65.841, M25.60, Tenosynovitis]",
+  "details" : "Completed.."
+}

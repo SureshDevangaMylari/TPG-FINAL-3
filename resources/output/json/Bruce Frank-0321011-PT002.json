@@ -1,0 +1,19 @@
+{
+  "patientName" : "Bruce Frank",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-27-25",
+  "NAC" : "f/u 2X6 Eval on 6/24",
+  "Case" : "PT002",
+  "Effective Date" : "06-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-7",
+  "NextVisit" : "07-01-25",
+  "effectDate" : "06-23-25",
+  "Member ID" : "00002399233",
+  "Patient ID" : "0321011",
+  "Auth#" : "45251780278",
+  "details" : "Submit"
+}

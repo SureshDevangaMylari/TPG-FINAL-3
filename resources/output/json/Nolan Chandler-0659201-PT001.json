@@ -1,0 +1,20 @@
+{
+  "patientName" : "Nolan Chandler",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-04-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "05-01-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "017368754-00",
+  "Patient ID" : "0659201",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DBN is a 11-digit number and the DODID is a 10-digit number"
+}

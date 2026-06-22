@@ -1,0 +1,19 @@
+{
+  "patientName" : "Victor Castillo Trejo",
+  "bc" : "A",
+  "payor" : "Bardavon WC",
+  "NAD" : "02-21-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "OT002",
+  "Effective Date" : "02-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "02-19-25",
+  "Member ID" : "163297",
+  "Patient ID" : "0246559",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

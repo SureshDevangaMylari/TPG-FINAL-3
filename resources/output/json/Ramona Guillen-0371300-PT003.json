@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Ramona Guillen",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-15-24",
+  "NAC" : "SUBMIT ONCE SCHD",
+  "Case" : "PT003",
+  "Effective Date" : "07-22-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "96050764C",
+  "Patient ID" : "0371300",
+  "ICD codes" : "Z96.649",
+  "Auth#" : "OP0019466510",
+  "details" : "completed"
+}

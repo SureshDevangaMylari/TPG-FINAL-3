@@ -1,0 +1,19 @@
+{
+  "patientName" : "Arleen Morris",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "03-05-25",
+  "NAC" : "requesting 8 more visits of therapy to get her to her next follow up appointment",
+  "Case" : "PT001",
+  "Effective Date" : "03-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-5",
+  "NextVisit" : "03-07-25",
+  "effectDate" : "03-05-25",
+  "Member ID" : "WC617A50638",
+  "Patient ID" : "0440374",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

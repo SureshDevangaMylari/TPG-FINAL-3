@@ -1,0 +1,19 @@
+{
+  "patientName" : "Donna Stave",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "05-15-25",
+  "NAC" : "work on auth please , therapist submmited Pn",
+  "Case" : "PT004",
+  "Effective Date" : "05-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-01-25",
+  "Member ID" : "01026861",
+  "Patient ID" : "0232467",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

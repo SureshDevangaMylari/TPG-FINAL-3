@@ -1,0 +1,20 @@
+{
+  "patientName" : "Michael Shanks",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-26-25",
+  "NAC" : "08-25-25 - comment: nno document found - with case and lead/rx (By TAGA6) -",
+  "Case" : "PT009",
+  "Effective Date" : "08-06-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-06-25",
+  "Member ID" : "00000061990",
+  "Patient ID" : "0207197",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

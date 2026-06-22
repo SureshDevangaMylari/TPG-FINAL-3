@@ -1,0 +1,19 @@
+{
+  "patientName" : "Carmen Ferrer",
+  "bc" : "A",
+  "payor" : "Homelink WC",
+  "NAD" : "05-14-25",
+  "NAC" : "F/U 2x3",
+  "Case" : "PT001",
+  "Effective Date" : "05-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-13-25",
+  "Member ID" : "12669381",
+  "Patient ID" : "0462896",
+  "ICD codes" : "[M25.511, M77.12, M62.81, Adhesive CapsulitisAquaticsBursitisFractureImpairmentImpingementInstability/DislocationL1L2L3L4Labral TearLigament InjuryMassage TherapyOsteoarthritisPainRotator Cuff RepairRotator Cuff TearSprainTendonitisTenosynovitisTotal Shoulder Arthroplasty]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Yuka Fulton",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-05-26",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT006",
+  "Effective Date" : "01-01-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00166772101",
+  "Patient ID" : "0294962",
+  "Auth#" : "",
+  "details" : "Approved"
+}

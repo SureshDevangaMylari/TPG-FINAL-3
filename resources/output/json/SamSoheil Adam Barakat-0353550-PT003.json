@@ -1,0 +1,19 @@
+{
+  "patientName" : "SamSoheil Adam Barakat",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-02-25",
+  "NAC" : "- F/U 3x4 (By TIFO) - Initial content: Eval on 6/27 (By _____)",
+  "Case" : "PT003",
+  "Effective Date" : "06-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-27-25",
+  "Member ID" : "00002227340",
+  "Patient ID" : "0353550",
+  "Auth#" : "45251830356",
+  "details" : "Submit"
+}

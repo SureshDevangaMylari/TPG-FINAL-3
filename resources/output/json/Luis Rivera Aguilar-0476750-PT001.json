@@ -1,0 +1,19 @@
+{
+  "patientName" : "Luis Rivera Aguilar",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "05-08-25",
+  "NAC" : "F/U 2x5",
+  "Case" : "PT001",
+  "Effective Date" : "05-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-09-25",
+  "Member ID" : "2025000554",
+  "Patient ID" : "0476750",
+  "ICD codes" : "[M54.50, R53.1, Acute Low Back PainAquaticsBack pain with radiculopathyChronic Low Back PainDegenerative Disc DiseaseDisc DisplacementFractureFusionImpairmentImpingementL1L2L3L4Lumbar LaminectomyMassage TherapyPainSI/Pelvis PainSpinal StenosisSpondylosisSprainTendonitisThoracic Back Pain]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Jessica Santiago",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-15-24",
+  "NAC" : "08.08 not sched 08.01 not sched submit once sched -jv",
+  "Case" : "PT001",
+  "Effective Date" : "07-25-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "90921714E",
+  "Patient ID" : "0405952",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

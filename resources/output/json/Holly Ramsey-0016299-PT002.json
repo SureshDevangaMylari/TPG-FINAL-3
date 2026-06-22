@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Holly Ramsey",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-20-24",
+  "NAC" : "9/6/24 Patient still completing visits - BL 9.4 uploaded signed rx 2x4. Please",
+  "Case" : "PT002",
+  "Effective Date" : "09-04-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "6",
+  "Rem" : "6",
+  "Next Visit" : "09-17-24",
+  "Last Visit" : "09-05-24",
+  "R.Task" : "",
+  "effectDate" : "09-04-24",
+  "Member ID" : "JQK987W17699",
+  "Patient ID" : "0016299",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

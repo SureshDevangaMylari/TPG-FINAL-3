@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Burl Rouse II",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-17-24",
+  "NAC" : "9/3 submit auth L1 Please obtain auth. Patient's auth expires 9.23.24 and he i",
+  "Case" : "PT001",
+  "Effective Date" : "10-07-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "10-07-24",
+  "Member ID" : "C4059497901",
+  "Patient ID" : "0405247",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

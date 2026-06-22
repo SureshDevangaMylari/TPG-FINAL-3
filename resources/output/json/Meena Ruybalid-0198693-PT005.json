@@ -1,0 +1,19 @@
+{
+  "patientName" : "Meena Ruybalid",
+  "bc" : "A",
+  "payor" : "One Call Care Physical Therapy WC",
+  "NAD" : "02-21-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT005",
+  "Effective Date" : "02-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "02-25-25",
+  "effectDate" : "02-13-25",
+  "Member ID" : "3611824-1",
+  "Patient ID" : "0198693",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

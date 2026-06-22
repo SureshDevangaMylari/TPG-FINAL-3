@@ -1,0 +1,20 @@
+{
+  "patientName" : "Kenia Gonzalez",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "11-12-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "93005260G",
+  "Patient ID" : "0448417",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No Physical therapthy service line"
+}

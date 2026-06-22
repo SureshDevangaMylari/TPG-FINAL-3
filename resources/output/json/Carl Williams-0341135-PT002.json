@@ -1,0 +1,19 @@
+{
+  "patientName" : "Carl Williams",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-28-25",
+  "NAC" : "F/U 2X4",
+  "Case" : "PT002",
+  "Effective Date" : "04-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "04-16-25",
+  "Member ID" : "00002815861",
+  "Patient ID" : "0341135",
+  "Auth#" : "45251180230",
+  "details" : "Submit"
+}

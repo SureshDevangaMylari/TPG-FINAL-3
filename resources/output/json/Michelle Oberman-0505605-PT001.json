@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michelle Oberman",
+  "bc" : "A",
+  "payor" : "Corvel WC",
+  "NAD" : "09-30-25",
+  "NAC" : "F/U 2X8",
+  "Case" : "PT001",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-25-25",
+  "Member ID" : "BB-25301119",
+  "Patient ID" : "0505605",
+  "ICD codes" : "[S80.02XD, M70.52, ]",
+  "details" : "Completed.."
+}

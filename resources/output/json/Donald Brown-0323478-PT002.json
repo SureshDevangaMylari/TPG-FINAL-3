@@ -1,0 +1,19 @@
+{
+  "patientName" : "Donald Brown",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-14-25",
+  "NAC" : "F/U 2X3",
+  "Case" : "PT002",
+  "Effective Date" : "08-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-12-25",
+  "Member ID" : "2023022650",
+  "Patient ID" : "0323478",
+  "ICD codes" : "[Z98.1, M54.50, L1]",
+  "details" : "Completed.."
+}

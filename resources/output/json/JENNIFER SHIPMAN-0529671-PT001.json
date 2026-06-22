@@ -1,0 +1,19 @@
+{
+  "patientName" : "JENNIFER SHIPMAN",
+  "bc" : "A",
+  "payor" : "Corvel WC",
+  "NAD" : "07-07-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "06-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-03-25",
+  "effectDate" : "06-25-25",
+  "Member ID" : "1847-WC-24-0302451",
+  "Patient ID" : "0529671",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

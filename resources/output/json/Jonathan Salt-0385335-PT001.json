@@ -1,0 +1,18 @@
+{
+  "patientName" : "Jonathan Salt",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "01-26-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "01-30-26",
+  "effectDate" : null,
+  "Member ID" : "00244594302",
+  "Patient ID" : "0385335",
+  "details" : "No Physical therapthy service line"
+}

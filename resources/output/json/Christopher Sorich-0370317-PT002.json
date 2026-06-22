@@ -1,0 +1,18 @@
+{
+  "patientName" : "Christopher Sorich",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-02-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "08-29-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01943385700",
+  "Patient ID" : "0370317",
+  "details" : "NOt for PHYsical Therapy"
+}

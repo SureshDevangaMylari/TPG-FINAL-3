@@ -1,0 +1,20 @@
+{
+  "patientName" : "YUWAH Chang",
+  "bc" : "A",
+  "payor" : "UHC HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "09-22-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "09-22-25",
+  "effectDate" : null,
+  "Member ID" : "900152401",
+  "Patient ID" : "0484197",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

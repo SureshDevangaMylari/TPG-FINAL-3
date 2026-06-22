@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Jesus Arellano",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "ST002",
+  "Effective Date" : "08-02-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "93926452G",
+  "Patient ID" : "0217212",
+  "ICD codes" : "F80.9",
+  "Authorisation number" : "OP0019298981",
+  "details" : "completed"
+}

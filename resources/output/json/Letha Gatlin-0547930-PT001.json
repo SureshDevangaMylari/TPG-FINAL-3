@@ -1,0 +1,19 @@
+{
+  "patientName" : "Letha Gatlin",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-25-25",
+  "NAC" : "08-21-25 - f/u 3X8 (By JAWU) 08-21-25 - comment: nno document found - with ca",
+  "Case" : "PT001",
+  "Effective Date" : "08-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-18-25",
+  "Member ID" : "00000413361",
+  "Patient ID" : "0547930",
+  "Auth#" : "45252340134",
+  "details" : "Submit"
+}

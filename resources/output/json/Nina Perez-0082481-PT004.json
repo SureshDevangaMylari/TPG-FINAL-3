@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Nina Perez",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT004",
+  "Effective Date" : "09-09-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-09-24",
+  "Member ID" : "00090371401",
+  "Patient ID" : "0082481",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

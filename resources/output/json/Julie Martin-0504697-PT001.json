@@ -1,0 +1,19 @@
+{
+  "patientName" : "Julie Martin",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "05-16-25",
+  "NAC" : "05-12-25 - pending last visits (By JEAR2) - Initial content: pending pn to b",
+  "Case" : "PT001",
+  "Effective Date" : "04-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "04-30-25",
+  "Member ID" : "4A2502BTKZR0001",
+  "Patient ID" : "0504697",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

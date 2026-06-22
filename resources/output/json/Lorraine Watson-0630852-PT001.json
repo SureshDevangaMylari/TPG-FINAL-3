@@ -1,0 +1,20 @@
+{
+  "patientName" : "Lorraine Watson",
+  "bc" : "B",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-31-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "03-30-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "04-03-26",
+  "effectDate" : null,
+  "Member ID" : "00199244903",
+  "Patient ID" : "0630852",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no records found after entering npi number"
+}

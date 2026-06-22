@@ -1,0 +1,20 @@
+{
+  "patientName" : "Lisa Brown",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-25-25",
+  "NAC" : "no icd codes Automatically created pending authorization, created on saving o",
+  "Case" : "PT001",
+  "Effective Date" : "09-23-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "914439107000",
+  "Patient ID" : "0567332",
+  "ICD codes" : "M54.12",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

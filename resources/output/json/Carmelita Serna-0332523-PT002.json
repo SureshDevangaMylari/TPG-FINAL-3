@@ -1,0 +1,19 @@
+{
+  "patientName" : "Carmelita Serna",
+  "bc" : "A",
+  "payor" : "Method Insurance WC",
+  "NAD" : "06-13-25",
+  "NAC" : "- F/Uu 2x5 (By TIFO) - Initial content: Automatically created pending autho",
+  "Case" : "PT002",
+  "Effective Date" : "06-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "06-12-25",
+  "Member ID" : "W23SA02708",
+  "Patient ID" : "0332523",
+  "ICD codes" : "[M75.41, Z48.89, Adhesive CapsulitisAquaticsBursitisFractureImpairmentImpingementInstability/DislocationL1L2L3L4Labral TearLigament InjuryMassage TherapyOsteoarthritisPainRotator Cuff RepairRotator Cuff TearSprainTendonitisTenosynovitisTotal Shoulder Arthroplasty]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Antonio Cervantes",
+  "bc" : "A",
+  "payor" : "Streamline WC",
+  "NAD" : "02-27-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "OT001",
+  "Effective Date" : "02-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "02-26-25",
+  "effectDate" : "02-19-25",
+  "Member ID" : "1183140",
+  "Patient ID" : "0473158",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Allison Roles",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-19-26",
+  "NAC" : "02-18-26 - IE 3/17 (By STPA2) - Initial content: Automatically created pendi",
+  "Case" : "PT001",
+  "Effective Date" : "02-12-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "450914564",
+  "Patient ID" : "0625842",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

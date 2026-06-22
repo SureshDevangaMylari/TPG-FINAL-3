@@ -1,0 +1,19 @@
+{
+  "patientName" : "KATHERINE SCHNALL",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-24-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-21-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01520488401",
+  "Patient ID" : "0593791",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sara Beldy",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-10-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Initial content: eval 5/8 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "05-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-8",
+  "NextVisit" : "05-12-25",
+  "effectDate" : "05-05-25",
+  "Member ID" : "00001445393",
+  "Patient ID" : "0507856",
+  "Auth#" : "45251290249",
+  "details" : "Submit"
+}

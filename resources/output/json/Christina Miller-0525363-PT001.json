@@ -1,0 +1,20 @@
+{
+  "patientName" : "Christina Miller",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "06-05-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "06-19-25",
+  "effectDate" : null,
+  "Member ID" : "01308004701",
+  "Patient ID" : "0525363",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No Physical therapthy service line"
+}

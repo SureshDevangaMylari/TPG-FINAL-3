@@ -1,0 +1,20 @@
+{
+  "patientName" : "Todd Hughes",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-26-25",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "11-25-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00618888600",
+  "Patient ID" : "0595210",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no records found after entering npi number"
+}

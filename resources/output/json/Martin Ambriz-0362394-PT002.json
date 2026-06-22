@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Martin Ambriz",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-19-24",
+  "NAC" : "schd 8.27 missing rx notes",
+  "Case" : "PT002",
+  "Effective Date" : "08-09-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "99951238E",
+  "Patient ID" : "0362394",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

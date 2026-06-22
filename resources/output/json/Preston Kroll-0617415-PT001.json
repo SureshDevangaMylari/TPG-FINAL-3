@@ -1,0 +1,20 @@
+{
+  "patientName" : "Preston Kroll",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-27-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "01-26-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "02-02-26",
+  "effectDate" : null,
+  "Member ID" : "547953213",
+  "Patient ID" : "0617415",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

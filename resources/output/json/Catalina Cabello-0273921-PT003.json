@@ -1,0 +1,19 @@
+{
+  "patientName" : "Catalina Cabello",
+  "bc" : "A",
+  "payor" : "MEDRISK, Inc.;",
+  "NAD" : "09-23-25",
+  "NAC" : "09-22-25 - F/U 1x4 (By JAHE5) - Initial content: Automatically created pendi",
+  "Case" : "PT003",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-18-25",
+  "Member ID" : "233879",
+  "Patient ID" : "0273921",
+  "ICD codes" : "[M25.512, M62.81, Rotator Cuff Tear]",
+  "details" : "Completed.."
+}

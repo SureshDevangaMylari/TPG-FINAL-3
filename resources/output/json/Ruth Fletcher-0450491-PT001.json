@@ -1,0 +1,20 @@
+{
+  "patientName" : "Ruth Fletcher",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Eval 12-6-24",
+  "Case" : "PT001",
+  "Effective Date" : "12-06-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "12-06-24",
+  "effectDate" : null,
+  "Member ID" : "H73468140",
+  "Patient ID" : "0450491",
+  "ICD codes" : "M54.59",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

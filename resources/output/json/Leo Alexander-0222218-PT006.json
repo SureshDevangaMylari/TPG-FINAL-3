@@ -1,0 +1,20 @@
+{
+  "patientName" : "Leo Alexander",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT006",
+  "Effective Date" : "11-20-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "11-27-24",
+  "effectDate" : null,
+  "Member ID" : "H94022446",
+  "Patient ID" : "0222218",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

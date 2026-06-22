@@ -1,0 +1,20 @@
+{
+  "patientName" : "Elisabeth Cope",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-15-25",
+  "NAC" : "There is no auth in Hoag portal - rm 9/11/25 no icd codes No Auth in portal,",
+  "Case" : "PT001",
+  "Effective Date" : "09-10-25",
+  "Sub status" : "Pending with Referring Provider",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "09-12-25",
+  "effectDate" : null,
+  "Member ID" : "XED914112950",
+  "Patient ID" : "0561191",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

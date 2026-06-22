@@ -1,0 +1,19 @@
+{
+  "patientName" : "Marcial Torres Mendoza",
+  "bc" : "A",
+  "payor" : "InterCare WC",
+  "NAD" : "02-21-25",
+  "NAC" : "F/U 2x3 02.14 Pending PN to be signed off -LE F/U",
+  "Case" : "PT003",
+  "Effective Date" : "02-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-10-25",
+  "Member ID" : "24175225",
+  "Patient ID" : "0372971",
+  "ICD codes" : "[M25.561]",
+  "details" : "Completed.."
+}

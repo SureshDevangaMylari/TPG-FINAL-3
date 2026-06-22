@@ -1,0 +1,18 @@
+{
+  "patientName" : "Meagan Gutierrez",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-19-25",
+  "NAC" : "05-13-25 - Sent task to clinic - auth expires on 7/29 and patient is scheduled f",
+  "Case" : "PT001",
+  "Effective Date" : "04-27-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "12",
+  "Remaining" : "11",
+  "NextVisit" : "08-21-25",
+  "effectDate" : null,
+  "Member ID" : "00852275801",
+  "Patient ID" : "0509032",
+  "details" : "Auth not on portal"
+}

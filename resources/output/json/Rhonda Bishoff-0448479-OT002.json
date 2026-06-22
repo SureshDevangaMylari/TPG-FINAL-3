@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rhonda Bishoff",
+  "bc" : "A",
+  "payor" : "MedRisk Inc. WC",
+  "NAD" : "03-05-25",
+  "NAC" : "03-03-25 - requesting auth: requesting 8 visits in total for patient 2x4. Thank",
+  "Case" : "OT002",
+  "Effective Date" : "03-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "03-03-25",
+  "Member ID" : "55C825275",
+  "Patient ID" : "0448479",
+  "ICD codes" : "",
+  "details" : "no icd codes"
+}

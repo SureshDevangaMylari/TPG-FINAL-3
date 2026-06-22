@@ -1,0 +1,20 @@
+{
+  "patientName" : "Agnes Johnston",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "11-01-24",
+  "NAC" : "please request additional auth for pt001, 2 x 6 thank you!",
+  "Case" : "PT002",
+  "Effective Date" : "11-01-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-3",
+  "NextVisit" : "11-05-24",
+  "effectDate" : null,
+  "Member ID" : "40042782401",
+  "Patient ID" : "0323415",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

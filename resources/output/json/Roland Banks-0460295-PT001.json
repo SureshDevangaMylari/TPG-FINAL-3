@@ -1,0 +1,20 @@
+{
+  "patientName" : "Roland Banks",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "02-05-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "02-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "02-04-25",
+  "effectDate" : "02-03-25",
+  "Member ID" : "00002630605",
+  "Patient ID" : "0460295",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

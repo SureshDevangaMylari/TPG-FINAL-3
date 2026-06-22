@@ -1,0 +1,20 @@
+{
+  "patientName" : "Denise Mattis",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "11-12-24",
+  "NAC" : "10/30/24 AUTH# Submitted 11/12/24 Please submit for 2x10 hoag auth. thank you",
+  "Case" : "PT001",
+  "Effective Date" : "11-12-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "20",
+  "Remaining" : "20",
+  "NextVisit" : "11-04-24",
+  "effectDate" : null,
+  "Member ID" : "40050488501",
+  "Patient ID" : "0407794",
+  "ICD codes" : "[M25.551, M25.551]",
+  "Auth#" : "Submit",
+  "details" : "completed"
+}

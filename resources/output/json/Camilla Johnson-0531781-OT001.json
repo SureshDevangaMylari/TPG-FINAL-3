@@ -1,0 +1,19 @@
+{
+  "patientName" : "Camilla Johnson",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-15-25",
+  "NAC" : "07-14-25 - f/u 1X6 (By JAWU) 07-10-25 - tasked clinic, need signed IE (By TIF",
+  "Case" : "OT001",
+  "Effective Date" : "06-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-4",
+  "NextVisit" : "07-21-25",
+  "effectDate" : "06-23-25",
+  "Member ID" : "00002204912",
+  "Patient ID" : "0531781",
+  "Auth#" : "45251960164",
+  "details" : "Submit"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Wiliam Carrier",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-05-25",
+  "NAC" : "11-03-25 - pending auth (By ELLA1) - Initial content: Automatically created",
+  "Case" : "PT001",
+  "Effective Date" : "11-03-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "11-13-25",
+  "effectDate" : null,
+  "Member ID" : "529998596",
+  "Patient ID" : "0584952",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DBN is a 11-digit number and the DODID is a 10-digit number"
+}

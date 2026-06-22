@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kristin Boston",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-04-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "12-03-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00992968001",
+  "Patient ID" : "0597645",
+  "Auth#" : "",
+  "details" : "Approved"
+}

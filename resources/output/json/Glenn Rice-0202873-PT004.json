@@ -1,0 +1,19 @@
+{
+  "patientName" : "Glenn Rice",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-12-25",
+  "NAC" : "- F/U 3x6 (By TIFO) 07-24-25 - Eval on 08/08 (By FRES) - Initial content",
+  "Case" : "PT004",
+  "Effective Date" : "08-08-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "08-13-25",
+  "effectDate" : "08-08-25",
+  "Member ID" : "00002951941",
+  "Patient ID" : "0202873",
+  "Auth#" : "45252230284",
+  "details" : "Submit"
+}

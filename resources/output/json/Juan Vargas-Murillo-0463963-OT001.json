@@ -1,0 +1,19 @@
+{
+  "patientName" : "Juan Vargas-Murillo",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "03-05-25",
+  "NAC" : "03-04-25 - F/U 2X4 (By MAVA4) - Initial content: Automatically created pendi",
+  "Case" : "OT001",
+  "Effective Date" : "02-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-27-25",
+  "Member ID" : "1000106581",
+  "Patient ID" : "0463963",
+  "ICD codes" : "[S62.632A, M79.644, M25.641]",
+  "details" : "Completed.."
+}

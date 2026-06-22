@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Michelle Soto",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-09-24",
+  "NAC" : "7.23 not schd submit once schd",
+  "Case" : "PT003",
+  "Effective Date" : "07-10-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "91114708A",
+  "Patient ID" : "0235545",
+  "ICD codes" : "K42.9",
+  "Auth#" : "OP0019419507",
+  "details" : "completed"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rachel Parker",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "08-05-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "05-18-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "08-04-26",
+  "effectDate" : null,
+  "Member ID" : "00185919504",
+  "Patient ID" : "0666181",
+  "Auth#" : "",
+  "details" : "Approved"
+}

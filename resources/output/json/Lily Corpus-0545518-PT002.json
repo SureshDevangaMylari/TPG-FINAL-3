@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lily Corpus",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-22-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "12-19-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00681538203",
+  "Patient ID" : "0545518",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Carolyn Clinton",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-10-24",
+  "NAC" : "9/6 Sent task asking if we are cont care -JD 9/4 chart notes are needed, faxed",
+  "Case" : "PT002",
+  "Effective Date" : "09-03-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-03-24",
+  "Member ID" : "00000138097",
+  "Patient ID" : "0377035",
+  "ICD codes" : "Z96.652",
+  "Auth#" : "20240910710270800005",
+  "details" : "completed"
+}

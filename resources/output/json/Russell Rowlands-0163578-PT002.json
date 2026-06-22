@@ -1,0 +1,19 @@
+{
+  "patientName" : "Russell Rowlands",
+  "bc" : "A",
+  "payor" : "Corvel WC",
+  "NAD" : "05-20-25",
+  "NAC" : "pn on 05/19",
+  "Case" : "PT002",
+  "Effective Date" : "05-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "05-14-25",
+  "effectDate" : "05-12-25",
+  "Member ID" : "0518-WC-25-0300841",
+  "Patient ID" : "0163578",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

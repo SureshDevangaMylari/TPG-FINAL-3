@@ -1,0 +1,19 @@
+{
+  "patientName" : "Joseph Villezcas",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "05-06-25",
+  "NAC" : "- F/U 2x12 (By TIFO) - Initial content: r/s 5/5 eval 4/28 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "05-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-05-25",
+  "Member ID" : "00003287649",
+  "Patient ID" : "0500611",
+  "Auth#" : "45251260354",
+  "details" : "Submit"
+}

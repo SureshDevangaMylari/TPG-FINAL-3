@@ -1,0 +1,19 @@
+{
+  "patientName" : "Roland Banks",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-04-25",
+  "NAC" : "08-04-25 - f/u 2X6 (By JAWU) 07-31-25 - Auth denied - PT needs to amend the I",
+  "Case" : "PT002",
+  "Effective Date" : "06-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-27-25",
+  "Member ID" : "00002630605",
+  "Patient ID" : "0460295",
+  "Auth#" : "45252160161",
+  "details" : "Submit"
+}

@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Anna Maldonado",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "09-03-24",
+  "NAC" : "F\\U 2X13",
+  "Case" : "PT001",
+  "Effective Date" : "08-28-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-27-24",
+  "R.Task" : "",
+  "effectDate" : "08-28-24",
+  "Member ID" : "95647337A",
+  "Patient ID" : "0386996",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

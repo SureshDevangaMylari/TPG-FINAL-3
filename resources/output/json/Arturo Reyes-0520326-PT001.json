@@ -1,0 +1,19 @@
+{
+  "patientName" : "Arturo Reyes",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "08-14-25",
+  "NAC" : "08-13-25 - f/u 2X3 (By JAWU) 08-12-25 - PN still not signed (By JAWU) - I",
+  "Case" : "PT001",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "09-04-25",
+  "effectDate" : "07-29-25",
+  "Member ID" : "W82889610001",
+  "Patient ID" : "0520326",
+  "ICD codes" : "[M54.42, ]",
+  "details" : "Completed.."
+}

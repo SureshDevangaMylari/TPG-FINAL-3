@@ -1,0 +1,19 @@
+{
+  "patientName" : "Francisco Cardenas",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "07-17-25",
+  "NAC" : "- Initial content: f/u 3x6 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "07-17-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "",
+  "effectDate" : "07-17-25",
+  "Member ID" : "3996361-1",
+  "Patient ID" : "0516957",
+  "ICD codes" : "[M79.605, M25.572, R26.89, ]",
+  "details" : "Completed.."
+}

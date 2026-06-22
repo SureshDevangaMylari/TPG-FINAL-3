@@ -1,0 +1,19 @@
+{
+  "patientName" : "Hector De La Rosa",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "03-26-25",
+  "NAC" : "- F/U 2x6 (By )",
+  "Case" : "PT005",
+  "Effective Date" : "03-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "04-10-25",
+  "effectDate" : "03-07-25",
+  "Member ID" : "00001323233",
+  "Patient ID" : "0193984",
+  "Auth#" : "45250930123",
+  "details" : "Submit"
+}

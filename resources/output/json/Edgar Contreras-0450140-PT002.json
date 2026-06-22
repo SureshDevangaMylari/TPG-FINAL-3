@@ -1,0 +1,19 @@
+{
+  "patientName" : "Edgar Contreras",
+  "bc" : "A",
+  "payor" : "Payers Direct WC",
+  "NAD" : "05-15-25",
+  "NAC" : "pn on 05/14",
+  "Case" : "PT002",
+  "Effective Date" : "05-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "05-14-25",
+  "effectDate" : "05-09-25",
+  "Member ID" : "ESP240231",
+  "Patient ID" : "0450140",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

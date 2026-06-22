@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maria Johnson",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-28-25",
+  "NAC" : "- F/U 2x5 (By TIFO) - Eval 4/21/25 (By TIFO) - Initial content: Automat",
+  "Case" : "PT002",
+  "Effective Date" : "04-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "04-29-25",
+  "effectDate" : "04-21-25",
+  "Member ID" : "00002264901",
+  "Patient ID" : "0260453",
+  "Auth#" : "45251180044",
+  "details" : "Submit"
+}

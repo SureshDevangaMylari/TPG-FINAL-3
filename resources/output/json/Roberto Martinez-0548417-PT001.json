@@ -1,0 +1,19 @@
+{
+  "patientName" : "Roberto Martinez",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-15-25",
+  "NAC" : "- F/U 2x10 (By CHZI) 08-22-25 - Eval on 9/12 (By JAWU) 08-22-25 - Pt no s",
+  "Case" : "PT001",
+  "Effective Date" : "08-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-11-25",
+  "Member ID" : "00003083913",
+  "Patient ID" : "0548417",
+  "Auth#" : "45252580340",
+  "details" : "Submit"
+}

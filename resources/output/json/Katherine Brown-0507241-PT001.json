@@ -1,0 +1,19 @@
+{
+  "patientName" : "Katherine Brown",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-01-25",
+  "NAC" : "- F/U 2x8 (By TIFO) - Initial content: Eval not scheduled - pushing out a w",
+  "Case" : "PT001",
+  "Effective Date" : "04-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-1",
+  "NextVisit" : "05-05-25",
+  "effectDate" : "04-28-25",
+  "Member ID" : "00002618722",
+  "Patient ID" : "0507241",
+  "Auth#" : "45251210210",
+  "details" : "Submit"
+}

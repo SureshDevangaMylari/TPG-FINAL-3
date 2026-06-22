@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michael Biscoe",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "05-13-25",
+  "NAC" : "05-12-25 - F/U 2x6 (By JEAR2) 05-06-25 - Last visit 5/09 (By JEAR2) - Ini",
+  "Case" : "PT002",
+  "Effective Date" : "04-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "05-16-25",
+  "effectDate" : "04-29-25",
+  "Member ID" : "4059697",
+  "Patient ID" : "0128996",
+  "ICD codes" : "[M25.512, M25.612, Adhesive CapsulitisAquaticsBursitisFractureImpairmentImpingementInstability/DislocationL1L2L3L4Labral TearLigament InjuryMassage TherapyOsteoarthritisPainRotator Cuff RepairRotator Cuff TearSprainTendonitisTenosynovitisTotal Shoulder Arthroplasty]",
+  "details" : "Completed.."
+}

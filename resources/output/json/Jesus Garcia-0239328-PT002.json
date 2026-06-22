@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jesus Garcia",
+  "bc" : "A",
+  "payor" : "Homelink WC",
+  "NAD" : "05-08-25",
+  "NAC" : "05-07-25 - F/U 2X4 (By JEAR2) - Initial content: pn on 05/06 (By _____)",
+  "Case" : "PT004",
+  "Effective Date" : "04-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "05-08-25",
+  "effectDate" : "05-01-25",
+  "Member ID" : "12908621",
+  "Patient ID" : "0239328",
+  "ICD codes" : "[M17.11, ACL ReconstructionACL TearAquaticsChondromalaciaContusionFractureImpairmentImpingementInstability/DislocationL1L2L3L4Ligament InjuryMassage TherapyMeniscus TearOsteoarthritisPainPatello-femoral painSprainTendonitisTotal Knee Arthoplasty]",
+  "details" : "Completed.."
+}

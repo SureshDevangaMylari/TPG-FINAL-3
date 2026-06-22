@@ -1,0 +1,21 @@
+{
+  "patientName" : "James Parks",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-17-25",
+  "NAC" : "submit or check if there's is an auth on file",
+  "Case" : "PT001",
+  "Effective Date" : "11-12-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "VA0052968824",
+  "Patient ID" : "0590103",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "pinNum" : "0590103",
+  "details" : "Wrong payor VA"
+}

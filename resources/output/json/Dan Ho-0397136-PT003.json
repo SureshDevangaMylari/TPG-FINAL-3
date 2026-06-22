@@ -1,0 +1,20 @@
+{
+  "patientName" : "Dan Ho",
+  "bc" : "A",
+  "payor" : "Cigna HMO (Hoag IPA)",
+  "NAD" : "09-30-25",
+  "NAC" : "no icd codes no icd codes no icd codes no icd codes no icd codes",
+  "Case" : "PT003",
+  "Effective Date" : "09-23-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "U6909855201",
+  "Patient ID" : "0397136",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

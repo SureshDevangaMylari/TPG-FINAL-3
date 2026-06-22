@@ -1,0 +1,20 @@
+{
+  "patientName" : "Manuel Benitez",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-16-24",
+  "NAC" : "fu 2x6",
+  "Case" : "PT001",
+  "Effective Date" : "10-15-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "10-28-24",
+  "effectDate" : null,
+  "Member ID" : "96120062A",
+  "Patient ID" : "0391509",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

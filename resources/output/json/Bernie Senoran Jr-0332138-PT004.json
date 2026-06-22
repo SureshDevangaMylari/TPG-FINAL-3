@@ -1,0 +1,19 @@
+{
+  "patientName" : "Bernie Senoran Jr",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "05-14-25",
+  "NAC" : "05-12-25 - pending PN (By JEAR2) - Initial content: pn on 05/09 (By _____)",
+  "Case" : "PT004",
+  "Effective Date" : "05-06-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-06-25",
+  "Member ID" : "Y3V28535C",
+  "Patient ID" : "0332138",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

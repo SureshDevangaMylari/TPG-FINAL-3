@@ -1,0 +1,20 @@
+{
+  "patientName" : "Guadalupe De La Rosa",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "11-20-24",
+  "NAC" : "11/19/24 AUTH# Submitted 200686490 Automatically created pending authorization",
+  "Case" : "PT001",
+  "Effective Date" : "11-17-24",
+  "Sub status" : "Pending with Insurance",
+  "Request Date" : "11-19-24",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H79336981",
+  "Patient ID" : "0450346",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

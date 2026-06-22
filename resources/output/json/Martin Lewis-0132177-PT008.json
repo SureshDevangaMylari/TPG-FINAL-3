@@ -1,0 +1,19 @@
+{
+  "patientName" : "Martin Lewis",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "07-30-25",
+  "NAC" : "07-29-25 - F/U 2x12 (By CHZI) - Initial content: Eval on 7/29 (By _____)",
+  "Case" : "PT008",
+  "Effective Date" : "07-08-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-08-25",
+  "Member ID" : "00002646004",
+  "Patient ID" : "0132177",
+  "Auth#" : "45252120369",
+  "details" : "Submit"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Rocio Torres",
+  "bc" : "A",
+  "payor" : "UHC HMO (Hoag IPA)",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "09-21-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "026669601",
+  "Patient ID" : "0566345",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no matched case number "
+}

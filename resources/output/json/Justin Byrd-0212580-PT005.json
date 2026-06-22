@@ -1,0 +1,19 @@
+{
+  "patientName" : "Justin Byrd",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-21-25",
+  "NAC" : "- F/U 2x4 (By TIFO) - Eval 8/20/25 (By TIFO) - Initial content: Automat",
+  "Case" : "PT005",
+  "Effective Date" : "08-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-20-25",
+  "Member ID" : "73111900011",
+  "Patient ID" : "0212580",
+  "Auth#" : "45252330226",
+  "details" : "Submit"
+}

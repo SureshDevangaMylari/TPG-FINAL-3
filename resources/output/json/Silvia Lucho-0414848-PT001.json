@@ -1,0 +1,20 @@
+{
+  "patientName" : "Silvia Lucho",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-14-24",
+  "NAC" : "F/u 2x6.. c v",
+  "Case" : "PT001",
+  "Effective Date" : "10-11-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "98184270H",
+  "Patient ID" : "0414848",
+  "ICD codes" : "M72.2",
+  "Auth#" : "6337478",
+  "details" : "completed"
+}

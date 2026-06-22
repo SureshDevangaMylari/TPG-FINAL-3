@@ -1,0 +1,19 @@
+{
+  "patientName" : "Shahbaz Khan",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-12-25",
+  "NAC" : "05-09-25 - f/u 3X6 (By JAWU) 05-07-25 - Auth request: f/u 3/2; 2/4 (By RODO1)",
+  "Case" : "PT001",
+  "Effective Date" : "05-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-02-25",
+  "Member ID" : "00002057189",
+  "Patient ID" : "0511619",
+  "Auth#" : "45251290256",
+  "details" : "Submit"
+}

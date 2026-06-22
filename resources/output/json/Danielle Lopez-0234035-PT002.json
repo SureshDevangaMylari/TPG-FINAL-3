@@ -1,0 +1,20 @@
+{
+  "Patient Name" : "Danielle Lopez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "07-26-24",
+  "NAC" : "Vent1 patient, not prosport",
+  "Case" : "PT002",
+  "Effective Date" : "07-08-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "97447761F",
+  "Patient ID" : "0234035",
+  "ICD codes" : "",
+  "details" : "no icd codes"
+}

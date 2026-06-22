@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Nancy Richards",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-20-24",
+  "NAC" : "F/U 2x4 AQUA please obtain auth",
+  "Case" : "PT001",
+  "Effective Date" : "09-19-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "6.00",
+  "Rem" : "6.00",
+  "Next Visit" : "09-20-24",
+  "Last Visit" : "09-18-24",
+  "R.Task" : "",
+  "effectDate" : "09-19-24",
+  "Member ID" : "961246601",
+  "Patient ID" : "0392323",
+  "ICD codes" : "R26.89",
+  "Auth#" : "20240920710270800001",
+  "details" : "completed"
+}

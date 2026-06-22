@@ -1,0 +1,18 @@
+{
+  "patientName" : "PHILLIP MEILBECK",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-02-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "08-29-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "09-08-25",
+  "effectDate" : null,
+  "Member ID" : "1085801666",
+  "Patient ID" : "0517616",
+  "details" : "Auth not on portal"
+}

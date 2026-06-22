@@ -1,0 +1,19 @@
+{
+  "patientName" : "Patrick Kelly",
+  "bc" : "A",
+  "payor" : "HOMELINK",
+  "NAD" : "07-24-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT003",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "22061384",
+  "Patient ID" : "0198639",
+  "ICD codes" : "[M25.572, Z47.89, ]",
+  "details" : "Completed.."
+}

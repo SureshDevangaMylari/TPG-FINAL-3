@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lina Tafesh",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-01-25",
+  "NAC" : "- F/U 2x12 (By TIFO) 04-29-25 - requesting auth: f/u 18 visits total -aestra",
+  "Case" : "PT001",
+  "Effective Date" : "04-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "05-01-25",
+  "effectDate" : "04-28-25",
+  "Member ID" : "00001067968",
+  "Patient ID" : "0505342",
+  "Auth#" : "45251210067",
+  "details" : "Submit"
+}

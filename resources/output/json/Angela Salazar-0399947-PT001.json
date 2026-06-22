@@ -1,0 +1,19 @@
+{
+  "patientName" : "Angela Salazar",
+  "bc" : "A",
+  "payor" : "Berkshire Hathaway WC",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "01-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "01-24-25",
+  "Member ID" : "33156278",
+  "Patient ID" : "0399947",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

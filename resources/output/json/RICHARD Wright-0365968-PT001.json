@@ -1,0 +1,20 @@
+{
+  "patientName" : "RICHARD Wright",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "11-13-24",
+  "NAC" : "please submit for more - frequency 2x6, thank you!",
+  "Case" : "PT001",
+  "Effective Date" : "11-06-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "12-11-24",
+  "effectDate" : null,
+  "Member ID" : "XEQ911667589",
+  "Patient ID" : "0365968",
+  "ICD codes" : "[M76.72, M79.662, M62.81]",
+  "Auth#" : " 3442977",
+  "details" : "submitApproval"
+}

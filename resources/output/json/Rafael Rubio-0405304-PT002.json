@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rafael Rubio",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-28-25",
+  "NAC" : "F/U 2x6 - RR",
+  "Case" : "PT002",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "1039330",
+  "Patient ID" : "0405304",
+  "ICD codes" : "[M25.562, ]",
+  "details" : "Completed.."
+}

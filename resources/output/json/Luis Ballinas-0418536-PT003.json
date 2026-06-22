@@ -1,0 +1,19 @@
+{
+  "patientName" : "Luis Ballinas",
+  "bc" : "A",
+  "payor" : "Associated Risk Management WC",
+  "NAD" : "02-20-25",
+  "NAC" : "F/U 3X4",
+  "Case" : "PT003",
+  "Effective Date" : "02-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-19-25",
+  "Member ID" : "5012153920241660",
+  "Patient ID" : "0418536",
+  "ICD codes" : "[M25.571, Z47.89]",
+  "details" : "Completed.."
+}

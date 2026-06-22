@@ -1,0 +1,19 @@
+{
+  "patientName" : "Miguel Morales",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "06-13-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "OT001",
+  "Effective Date" : "06-26-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "06-23-25",
+  "effectDate" : "06-26-25",
+  "Member ID" : "07022810",
+  "Patient ID" : "0511913",
+  "ICD codes" : "[S52.022A, S52.135A, M25.522, R53.1, BursitisContusionEpicondylitisFractureInstability/DislocationL1L2L3L4OsteoarthritisPainSprain]",
+  "details" : "Completed.."
+}

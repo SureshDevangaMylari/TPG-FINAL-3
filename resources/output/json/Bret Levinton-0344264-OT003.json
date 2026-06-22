@@ -1,0 +1,18 @@
+{
+  "patientName" : "Bret Levinton",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-24-25",
+  "NAC" : "03-19-25 - CIV changed payor in error, should be TriWest VACCN. Please check tha",
+  "Case" : "OT003",
+  "Effective Date" : "03-14-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1040200284V168902",
+  "Patient ID" : "0344264",
+  "details" : "Auth not on portal"
+}

@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Ronald Barrios",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-11-24",
+  "NAC" : "NP Please submit for auth.",
+  "Case" : "PT001",
+  "Effective Date" : "09-09-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-09-24",
+  "Member ID" : "XEO913290375",
+  "Patient ID" : "0423506",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

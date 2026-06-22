@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Maria Alberto",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-10-24",
+  "NAC" : "L3 submit auth",
+  "Case" : "PT001",
+  "Effective Date" : "09-09-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-09-24",
+  "Member ID" : "00000321231",
+  "Patient ID" : "0423255",
+  "ICD codes" : "m79.672",
+  "Auth#" : "20240910710270800011",
+  "details" : "completed"
+}

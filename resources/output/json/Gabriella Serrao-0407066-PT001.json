@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Gabriella Serrao",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "08-22-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-08-24",
+  "R.Task" : "",
+  "Member ID" : "94383358E",
+  "Patient ID" : "0407066",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No service line"
+}

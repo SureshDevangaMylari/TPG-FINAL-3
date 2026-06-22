@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rosemarie Esclamado",
+  "bc" : "A",
+  "payor" : "Allied Managed Care",
+  "NAD" : "07-21-25",
+  "NAC" : "F/U 2x8 pn on 07/18",
+  "Case" : "PT004",
+  "Effective Date" : "07-08-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-25-25",
+  "effectDate" : "07-08-25",
+  "Member ID" : "231739",
+  "Patient ID" : "0283373",
+  "ICD codes" : "[M25.531, M25.532, R53.1, ]",
+  "details" : "Completed.."
+}

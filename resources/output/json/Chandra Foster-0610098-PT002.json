@@ -1,0 +1,20 @@
+{
+  "patientName" : "Chandra Foster",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-23-26",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "02-23-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00892131205",
+  "Patient ID" : "0610098",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

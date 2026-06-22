@@ -1,0 +1,20 @@
+{
+  "patientName" : "Aaron Croft",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-11-26",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "02-10-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00869202200",
+  "Patient ID" : "0624303",
+  "ICD codes" : "M25.562",
+  "Auth#" : "0009784317",
+  "details" : "completed"
+}

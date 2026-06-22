@@ -1,0 +1,19 @@
+{
+  "patientName" : "Karen Lara Gutierrez",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-22-25",
+  "NAC" : "F/U 2x3 - RR",
+  "Case" : "PT001",
+  "Effective Date" : "07-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-21-25",
+  "effectDate" : "07-21-25",
+  "Member ID" : "2023016863",
+  "Patient ID" : "0509888",
+  "ICD codes" : "[M25.572, ]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Aaron Suel",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "09-06-24",
+  "NAC" : "F/U 1X6 08.23",
+  "Case" : "PT001",
+  "Effective Date" : "09-06-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "08-27-24",
+  "Last Visit" : "08-22-24",
+  "R.Task" : "",
+  "Member ID" : "94318161F",
+  "Patient ID" : "0391511",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

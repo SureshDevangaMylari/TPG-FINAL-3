@@ -1,0 +1,20 @@
+{
+  "patientName" : "Landon Grubb",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-12-26",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "02-10-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "015195496",
+  "Patient ID" : "0624838",
+  "ICD codes" : "M77.12",
+  "Auth#" : "0009784329",
+  "details" : "completed"
+}

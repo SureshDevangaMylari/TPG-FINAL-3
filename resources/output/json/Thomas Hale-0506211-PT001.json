@@ -1,0 +1,19 @@
+{
+  "patientName" : "Thomas Hale",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT001",
+  "Effective Date" : "05-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-01-25",
+  "Member ID" : "CA259638800001",
+  "Patient ID" : "0506211",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

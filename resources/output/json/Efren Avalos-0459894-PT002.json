@@ -1,0 +1,19 @@
+{
+  "patientName" : "Efren Avalos",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "06-27-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT002",
+  "Effective Date" : "06-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "06-26-25",
+  "effectDate" : "06-23-25",
+  "Member ID" : "06987362",
+  "Patient ID" : "0459894",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lucy Stephens",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-02-25",
+  "NAC" : "07-03-25 - f/u 3X6 (By JAWU) - Eval 2x8 (By TIFO) - Initial content: Eva",
+  "Case" : "PT005",
+  "Effective Date" : "06-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-30-25",
+  "Member ID" : "00001486201",
+  "Patient ID" : "0344485",
+  "Auth#" : "45251840150",
+  "details" : "Submit"
+}

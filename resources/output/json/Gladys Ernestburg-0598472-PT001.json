@@ -1,0 +1,20 @@
+{
+  "patientName" : "Gladys Ernestburg",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-08-25",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "12-04-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "576086102",
+  "Patient ID" : "0598472",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no records found after entering npi number"
+}

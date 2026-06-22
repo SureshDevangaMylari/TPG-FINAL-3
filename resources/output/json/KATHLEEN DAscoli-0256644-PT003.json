@@ -1,0 +1,20 @@
+{
+  "patientName" : "KATHLEEN DAscoli",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-22-25",
+  "NAC" : "no icd codes no icd codes no icd codes no icd codes Automatically cr",
+  "Case" : "PT003",
+  "Effective Date" : "09-19-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "40041484501",
+  "Patient ID" : "0256644",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

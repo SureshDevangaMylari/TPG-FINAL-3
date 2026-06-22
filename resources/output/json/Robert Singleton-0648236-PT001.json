@@ -1,0 +1,20 @@
+{
+  "patientName" : "Robert Singleton",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-13-26",
+  "NAC" : "No referral to submit for. Sent task to obtain referral",
+  "Case" : "PT001",
+  "Effective Date" : "04-07-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "04-14-26",
+  "effectDate" : null,
+  "Member ID" : "260577635",
+  "Patient ID" : "0648236",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

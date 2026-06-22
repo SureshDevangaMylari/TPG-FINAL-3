@@ -1,0 +1,21 @@
+{
+  "patientName" : "Aaron Morgan",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT005",
+  "Effective Date" : "09-30-24",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "93589318A",
+  "Patient ID" : "0031846",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

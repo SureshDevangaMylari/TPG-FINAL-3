@@ -1,0 +1,20 @@
+{
+  "patientName" : "Samyra Gallik",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-26-26",
+  "NAC" : "DME AUTH L3908",
+  "Case" : "OT001",
+  "Effective Date" : "01-23-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-8",
+  "NextVisit" : "01-30-26",
+  "effectDate" : null,
+  "Member ID" : "01874596000",
+  "Patient ID" : "0612529",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

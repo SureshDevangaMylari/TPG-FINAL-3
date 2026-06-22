@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cara Reynolds",
+  "bc" : "A",
+  "payor" : "Sedgwick CMS",
+  "NAD" : "08-28-25",
+  "NAC" : "Valid auth uploaded into pt's chart. Please review.",
+  "Case" : "PT004",
+  "Effective Date" : "07-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-18-25",
+  "Member ID" : "4A2309FGZBX0001",
+  "Patient ID" : "0304558",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

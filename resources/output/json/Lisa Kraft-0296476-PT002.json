@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lisa Kraft",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-17-25",
+  "NAC" : "07-16-25 - F/U 2X6 (By TIWA) - Initial content: Automatically created pendin",
+  "Case" : "PT002",
+  "Effective Date" : "07-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-15-25",
+  "Member ID" : "132273970",
+  "Patient ID" : "0296476",
+  "ICD codes" : "[M25.561, M25.661, M62.81, L1]",
+  "details" : "Completed.."
+}

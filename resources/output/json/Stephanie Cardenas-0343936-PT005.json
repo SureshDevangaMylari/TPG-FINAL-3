@@ -1,0 +1,19 @@
+{
+  "patientName" : "Stephanie Cardenas",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "08-26-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT005",
+  "Effective Date" : "08-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-30-25",
+  "Member ID" : "W81577000001",
+  "Patient ID" : "0343936",
+  "ICD codes" : "[M25.562, M62.81, Z47.89, R26.2, Pain]",
+  "details" : "Completed.."
+}

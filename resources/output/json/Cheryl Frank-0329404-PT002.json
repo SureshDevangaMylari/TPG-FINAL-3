@@ -1,0 +1,21 @@
+{
+  "patientName" : "Cheryl Frank",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "10-03-24",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "90253264C",
+  "Patient ID" : "0329404",
+  "ICD codes" : "M25.511",
+  "Auth#" : "6324298",
+  "details" : "completed"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Kyla Jimenez",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-07-26",
+  "NAC" : "See auth doc in chart. cpt codes are incorrect.",
+  "Case" : "PT002",
+  "Effective Date" : "05-01-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00893294601",
+  "Patient ID" : "0631406",
+  "ICD codes" : "M54.2",
+  "Auth#" : "0010872586",
+  "details" : "completed"
+}

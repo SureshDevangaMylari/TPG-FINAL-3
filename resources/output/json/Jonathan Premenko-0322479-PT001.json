@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jonathan Premenko",
+  "bc" : "A",
+  "payor" : "Innovative Claims Solutions",
+  "NAD" : "09-16-25",
+  "NAC" : "09-16-25 - no auth in chart: There is a note that auth is in chart, but there is",
+  "Case" : "PT001",
+  "Effective Date" : "09-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "10-06-25",
+  "effectDate" : "09-12-25",
+  "Member ID" : "DAL2400016",
+  "Patient ID" : "0322479",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Mason Radomski",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-24-24",
+  "NAC" : "8.21- Emailed therapist to updated POC, there is no freq/dur for continuation of",
+  "Case" : "ST002",
+  "Effective Date" : "08-21-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-14-24",
+  "R.Task" : "",
+  "Member ID" : "97052627F",
+  "Patient ID" : "0189929",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

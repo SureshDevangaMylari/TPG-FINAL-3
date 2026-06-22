@@ -1,0 +1,20 @@
+{
+  "patientName" : "Maria Aragon",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-25-25",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "11-21-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "765640916",
+  "Patient ID" : "0594142",
+  "ICD codes" : "M54.2",
+  "Auth#" : "0008824739",
+  "details" : "completed"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Sergio Lopez",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy -WC",
+  "NAD" : "08-27-25",
+  "NAC" : "- F/U 1x6 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "08-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-23-25",
+  "Member ID" : "07002930",
+  "Patient ID" : "0515448",
+  "ICD codes" : "[M25.562, M54.89, Massage Therapy]",
+  "details" : "Completed.."
+}

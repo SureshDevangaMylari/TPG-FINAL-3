@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ramiro Ramos",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "06-16-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "06-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "06-11-25",
+  "Member ID" : "01805000117WC01",
+  "Patient ID" : "0497847",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

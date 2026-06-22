@@ -1,0 +1,19 @@
+{
+  "patientName" : "Victoria Leavitt",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-25-25",
+  "NAC" : "06-24-25 - f/u 2X6 (By JAWU) 06-23-25 - Waiting for IE to be cosigned (By JAW",
+  "Case" : "PT003",
+  "Effective Date" : "06-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-18-25",
+  "Member ID" : "00000035301",
+  "Patient ID" : "0344835",
+  "Auth#" : "45251770166",
+  "details" : "Submit"
+}

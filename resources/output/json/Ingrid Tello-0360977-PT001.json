@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Ingrid Tello",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-29-24",
+  "NAC" : "F/U 1X5",
+  "Case" : "PT001",
+  "Effective Date" : "08-29-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-28-24",
+  "R.Task" : "",
+  "effectDate" : "08-29-24",
+  "Member ID" : "98949817G",
+  "Patient ID" : "0360977",
+  "ICD codes" : "M79.605",
+  "Auth#" : "OP0020094957",
+  "details" : "completed"
+}

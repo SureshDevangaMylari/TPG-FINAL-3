@@ -1,0 +1,20 @@
+{
+  "patientName" : "Charles Peterson",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-30-25",
+  "NAC" : "no icd codes no icd codes no icd codes Automatically created pending au",
+  "Case" : "PT001",
+  "Effective Date" : "09-26-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "906019329000",
+  "Patient ID" : "0568604",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jasper Buck",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-14-25",
+  "NAC" : "04-11-25 - f/u 2X6 (By JAWU) 04-11-25 - Auth denied - submitted incorrectly (",
+  "Case" : "OT001",
+  "Effective Date" : "03-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "03-01-25",
+  "Member ID" : "00002460847",
+  "Patient ID" : "0433046",
+  "Auth#" : "45251040308",
+  "details" : "Submit"
+}

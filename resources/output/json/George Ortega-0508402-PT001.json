@@ -1,0 +1,19 @@
+{
+  "patientName" : "George Ortega",
+  "bc" : "A",
+  "payor" : "Streamline",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT001",
+  "Effective Date" : "05-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-09-25",
+  "Member ID" : "1212916",
+  "Patient ID" : "0508402",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

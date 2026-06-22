@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lewis Reaves",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-29-25",
+  "NAC" : "07-22-25 - f/u 2x6 (By ABES1) - Initial content: Auth expires on 7/24, no PN",
+  "Case" : "PT001",
+  "Effective Date" : "07-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "07-21-25",
+  "Member ID" : "00001458255",
+  "Patient ID" : "0510526",
+  "Auth#" : "45252120291",
+  "details" : "Submit"
+}

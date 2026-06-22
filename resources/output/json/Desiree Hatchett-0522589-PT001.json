@@ -1,0 +1,19 @@
+{
+  "patientName" : "Desiree Hatchett",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-12-25",
+  "NAC" : "- F/U 1x7 (By TIFO) - Initial content: Eval on 6/10 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-10-25",
+  "Member ID" : "00003306790",
+  "Patient ID" : "0522589",
+  "Auth#" : "45251630086",
+  "details" : "Submit"
+}

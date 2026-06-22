@@ -1,0 +1,20 @@
+{
+  "patientName" : "THOMAS Borsuk",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-10-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT003",
+  "Effective Date" : "09-09-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEQ911379664",
+  "Patient ID" : "0331752",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

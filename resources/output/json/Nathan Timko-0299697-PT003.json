@@ -1,0 +1,19 @@
+{
+  "patientName" : "Nathan Timko",
+  "bc" : "A",
+  "payor" : "Homelink WC",
+  "NAD" : "07-09-25",
+  "NAC" : "F/U 2x4",
+  "Case" : "PT003",
+  "Effective Date" : "07-08-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-08-25",
+  "Member ID" : "12937356",
+  "Patient ID" : "0299697",
+  "ICD codes" : "[M25.561, R53.1, Sprain]",
+  "details" : "Completed.."
+}

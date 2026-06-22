@@ -1,0 +1,19 @@
+{
+  "patientName" : "Cleotilde Jacinto",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-01-25",
+  "NAC" : "- F/U 3x8 (By TIFO) - Initial content: 04.25.25 Waiting for IE to be compl",
+  "Case" : "PT002",
+  "Effective Date" : "04-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-6",
+  "NextVisit" : "05-02-25",
+  "effectDate" : "04-25-25",
+  "Member ID" : "00000509759",
+  "Patient ID" : "0312747",
+  "Auth#" : "45251210060",
+  "details" : "Submit"
+}

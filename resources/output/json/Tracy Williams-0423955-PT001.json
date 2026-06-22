@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Tracy Williams",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "09-10-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-10-24",
+  "Member ID" : "XEH902574624",
+  "Patient ID" : "0423955",
+  "ICD codes" : "M54.50",
+  "Auth#" : "20240911710270800003",
+  "details" : "completed"
+}

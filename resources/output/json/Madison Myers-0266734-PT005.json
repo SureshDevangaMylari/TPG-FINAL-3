@@ -1,0 +1,20 @@
+{
+  "patientName" : "Madison Myers",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-15-25",
+  "NAC" : "- IE 12/11 (By CRWE)",
+  "Case" : "PT005",
+  "Effective Date" : "12-10-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "010970887",
+  "Patient ID" : "0266734",
+  "ICD codes" : "S22.009A",
+  "Auth#" : "",
+  "details" : ""
+}

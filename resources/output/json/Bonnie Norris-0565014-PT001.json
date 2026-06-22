@@ -1,0 +1,20 @@
+{
+  "patientName" : "Bonnie Norris",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-29-25",
+  "NAC" : "- F/U 2x6 (By CHZI) - Initial content: Eval on 9/25 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-25-25",
+  "Member ID" : "00002551116",
+  "Patient ID" : "0565014",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Carmen Quezada",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-11-25",
+  "NAC" : "- F/U 2x6 (By TIFO) - Initial content: Eval on 6/10 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-3",
+  "NextVisit" : "06-18-25",
+  "effectDate" : "06-10-25",
+  "Member ID" : "00001685228",
+  "Patient ID" : "0526667",
+  "Auth#" : "45251620088",
+  "details" : "Submit"
+}

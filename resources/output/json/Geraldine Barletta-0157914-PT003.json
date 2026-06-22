@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Geraldine Barletta",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-11-24",
+  "NAC" : "09.06 task is pending -LE 09.05 notes have been received, but per portal patie",
+  "Case" : "PT003",
+  "Effective Date" : "08-23-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "08-23-24",
+  "Member ID" : "00000158593",
+  "Patient ID" : "0157914",
+  "ICD codes" : "M54.14",
+  "Auth#" : "",
+  "details" : "NotEligible"
+}

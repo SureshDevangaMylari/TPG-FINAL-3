@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Rosa Arellano",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-02-24",
+  "NAC" : "7.31 Not scheduled 7.16 SUBMIT ONCE SCHEDULED",
+  "Case" : "PT003",
+  "Effective Date" : "07-16-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "95196376A",
+  "Patient ID" : "0115115",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

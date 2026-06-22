@@ -1,0 +1,19 @@
+{
+  "patientName" : "Monica Buck",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-15-25",
+  "NAC" : "09-10-25 - Auth submitted (By JAWU) 09-05-25 - F/U 3x8 (By CHZI) 09-04-25",
+  "Case" : "PT001",
+  "Effective Date" : "08-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "09-10-25",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-22-25",
+  "Member ID" : "00001045418",
+  "Patient ID" : "0554713",
+  "Auth#" : "45252540138",
+  "details" : "Submit"
+}

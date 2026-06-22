@@ -1,0 +1,20 @@
+{
+  "patientName" : "Glenn Walker",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-17-25",
+  "NAC" : "submit or check if there is an auth",
+  "Case" : "PT001",
+  "Effective Date" : "11-12-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1354499661",
+  "Patient ID" : "0590111",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no records found after entering npi number"
+}

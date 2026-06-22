@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jerry Goodman",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-27-25",
+  "NAC" : "- F/U 2x3 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT003",
+  "Effective Date" : "08-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-27-25",
+  "Member ID" : "06796420",
+  "Patient ID" : "0407216",
+  "ICD codes" : "[M54.9, M25.561, M25.562, ]",
+  "details" : "Completed.."
+}

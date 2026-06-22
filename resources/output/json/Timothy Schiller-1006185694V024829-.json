@@ -1,0 +1,21 @@
+{
+  "patientName" : "Timothy Schiller",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-02-26",
+  "NAC" : "02-02-26 - VBEN is pending- (By JEKN) 02-02-26 - Submit (By JEAR2) - Init",
+  "Case" : "PT002",
+  "Effective Date" : "01-29-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "02-04-26",
+  "effectDate" : null,
+  "Member ID" : "1006185694V024829",
+  "Patient ID" : "0009580",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "pinNum" : "0009580",
+  "details" : "Wrong payor VA"
+}

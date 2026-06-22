@@ -1,0 +1,19 @@
+{
+  "patientName" : "Rebekah Smiley",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "02-02-26",
+  "NAC" : "submit or check for auth",
+  "Case" : "PT001",
+  "Effective Date" : "01-29-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "02-17-26",
+  "effectDate" : null,
+  "Member ID" : "015964518-01",
+  "Patient ID" : "0619577",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tracey Damron",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "08-04-25",
+  "NAC" : "f/u 2x6 pending pn",
+  "Case" : "PT002",
+  "Effective Date" : "08-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-01-25",
+  "Member ID" : "00003239773",
+  "Patient ID" : "0450878",
+  "Auth#" : "45252160177",
+  "details" : "Submit"
+}

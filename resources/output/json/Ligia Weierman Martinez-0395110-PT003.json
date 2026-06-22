@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ligia Weierman Martinez",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-07-25",
+  "NAC" : "07-03-25 - f/u 2X4 (By JAWU) 06-27-25 - Eval r/s to 7/2 (By JAWU) - Eval",
+  "Case" : "PT003",
+  "Effective Date" : "06-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-7",
+  "NextVisit" : "07-07-25",
+  "effectDate" : "06-25-25",
+  "Member ID" : "00002992769",
+  "Patient ID" : "0395110",
+  "Auth#" : "45251880205",
+  "details" : "Submit"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Young Kim",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "11-20-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "01-02-25",
+  "effectDate" : null,
+  "Member ID" : "H60876368",
+  "Patient ID" : "0264384",
+  "ICD codes" : "M54.9",
+  "Auth#" : "",
+  "details" : "MessageThank you for contacting Humana about this member. If this is Transplant related contact Humana at 866-421-5663. To complete this request call P3 Health Partners-Nevada, LLC at 702-570-5420 or fax to 702-570-5419."
+}

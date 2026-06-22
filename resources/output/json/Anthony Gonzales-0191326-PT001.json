@@ -1,0 +1,20 @@
+{
+  "patientName" : "Anthony Gonzales",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "00000",
+  "Effective Date" : "10-03-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "98019747D",
+  "Patient ID" : "0191326",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

@@ -1,0 +1,41 @@
+{
+	"checkAmount": "2130.59",
+	"status": 200,
+	"remmitInfo": {
+		"accountNumber": "152302017941",
+		"eft": "800638576"
+	},
+	"transactionDetails": [],
+	"patientLevelClaims": [
+		 
+		{
+			"GRP_RC_AMT": "232.65",
+			"patirntName": "LOPEZ ANNAMARIE M",
+			"allowed": 110.86,
+			"ACNT": "05262420860041652",
+			"billed": "240",
+			"providerPD": "7.35",
+			"patientResponsibleAmount": "",
+			"claimFilingType": "MB",
+			"ICN": "0924148195650",
+			"facilityCode": "11",
+			"claimFrequencyType": "1",
+			"serviceLines": [
+				{
+					"billed": "240",
+					"providerPd": "7.35",
+					"allowed": "110.86",
+					"code": "97530",
+					"dos": "20240510",
+					"grpRC": [
+						"CO-253 .15",
+						"OA-23 232.5"
+					],
+					"deduct": [],
+					"coins": []
+				}
+			]
+		}
+		  
+	]
+}

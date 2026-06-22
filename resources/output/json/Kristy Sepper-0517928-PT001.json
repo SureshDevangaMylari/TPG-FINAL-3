@@ -1,0 +1,20 @@
+{
+  "patientName" : "Kristy Sepper",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-19-25",
+  "NAC" : "09-17-25 - Auth submitted (By JAWU) 09-17-25 - Denied - need new rx with auth",
+  "Case" : "PT001",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "09-17-25",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-18-25",
+  "Member ID" : "00003007055",
+  "Patient ID" : "0517928",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No visit freq in comment box"
+}

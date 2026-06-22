@@ -1,0 +1,19 @@
+{
+  "patientName" : "Maria Vasquez",
+  "bc" : "A",
+  "payor" : "Amtrust North American",
+  "NAD" : "03-04-25",
+  "NAC" : "03-03-25 - f/u 2x3& 1x1 (By JAHE5) - Initial content: Automatically created",
+  "Case" : "PT003",
+  "Effective Date" : "03-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "03-02-25",
+  "Member ID" : "33559702",
+  "Patient ID" : "0364757",
+  "ICD codes" : "[M54.2, M62.81]",
+  "details" : "Completed.."
+}

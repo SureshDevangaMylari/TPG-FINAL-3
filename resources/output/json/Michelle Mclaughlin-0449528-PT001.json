@@ -1,0 +1,20 @@
+{
+  "patientName" : "Michelle Mclaughlin",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-14-24",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-03-24",
+  "effectDate" : null,
+  "Member ID" : "H75290774",
+  "Patient ID" : "0449528",
+  "ICD codes" : "m48.061",
+  "Auth#" : "",
+  "details" : "PENDED"
+}

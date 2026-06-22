@@ -1,0 +1,19 @@
+{
+  "patientName" : "Miguel Madrid",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "05-09-25",
+  "NAC" : "Please follow up with OneCall for additional auth. Uploaded in documents is auth",
+  "Case" : "PT001",
+  "Effective Date" : "05-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "05-07-25",
+  "Member ID" : "Y4HC28010",
+  "Patient ID" : "0467595",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

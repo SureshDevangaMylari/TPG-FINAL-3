@@ -1,0 +1,19 @@
+{
+  "patientName" : "Seth Uldall",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "08-18-25",
+  "NAC" : "08-07-25 - Auth: Faxed RFA to MD 08/07/25 (By TIGR2) 08-07-25 - F/U 3x2 (By J",
+  "Case" : "PT002",
+  "Effective Date" : "08-04-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-07-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-04-25",
+  "Member ID" : "2010183049001",
+  "Patient ID" : "0502907",
+  "ICD codes" : "[Z47.1, M25.561, M23.51, R53.1, L1]",
+  "details" : "Completed.."
+}

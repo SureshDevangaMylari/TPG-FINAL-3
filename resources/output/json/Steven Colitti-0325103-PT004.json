@@ -1,0 +1,19 @@
+{
+  "patientName" : "Steven Colitti",
+  "bc" : "A",
+  "payor" : "Corvel WC",
+  "NAD" : "09-22-25",
+  "NAC" : "09-18-25 - F/U 1X12 (By ERDU) - Initial content: Automatically created pendi",
+  "Case" : "PT004",
+  "Effective Date" : "09-26-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "09-23-25",
+  "effectDate" : "09-26-25",
+  "Member ID" : "23008386A",
+  "Patient ID" : "0325103",
+  "ICD codes" : "[M25.521, M62.81, ]",
+  "details" : "Completed.."
+}

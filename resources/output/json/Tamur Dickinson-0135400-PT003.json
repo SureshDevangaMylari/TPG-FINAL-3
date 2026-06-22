@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tamur Dickinson",
+  "bc" : "A",
+  "payor" : "Allied Managed Care ATTN CLAIMS",
+  "NAD" : "06-30-25",
+  "NAC" : "F/U 2x3. received RFA and new authorization",
+  "Case" : "PT003",
+  "Effective Date" : "06-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-30-25",
+  "Member ID" : "4A2206N73Z7-0001",
+  "Patient ID" : "0135400",
+  "ICD codes" : "[M25.512, M25.522, M79.642, G56.02, L2]",
+  "details" : "Completed.."
+}

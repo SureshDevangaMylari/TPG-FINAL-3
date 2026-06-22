@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ashley Williams",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "03-05-25",
+  "NAC" : "03-03-25 - Incorrect payor attached to case. Claims need to be sent to SEDGWICK",
+  "Case" : "PT001",
+  "Effective Date" : "03-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "03-03-25",
+  "Member ID" : "4A2502BTXYR0001",
+  "Patient ID" : "0486565",
+  "ICD codes" : "",
+  "details" : "no icd codes"
+}

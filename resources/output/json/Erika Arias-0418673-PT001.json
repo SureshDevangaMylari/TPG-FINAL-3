@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Erika Arias",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-19-24",
+  "NAC" : "9.5 Submitted mi 20240905710258200001 -mi 9/5 responded to email please submit",
+  "Case" : "PT001",
+  "Effective Date" : "08-27-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "09-04-24",
+  "R.Task" : "",
+  "effectDate" : "08-27-24",
+  "Member ID" : "044246501",
+  "Patient ID" : "0418673",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

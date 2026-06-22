@@ -1,0 +1,19 @@
+{
+  "patientName" : "Leo Alexander",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-02-25",
+  "NAC" : "07-03-25 - f/u 1X12 (By JAWU) - F/U 2x4 (By TIFO) - Eval 6/27/25 (By TIF",
+  "Case" : "PT007",
+  "Effective Date" : "06-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-27-25",
+  "Member ID" : "00002578912",
+  "Patient ID" : "0222218",
+  "Auth#" : "45251840155",
+  "details" : "Submit"
+}

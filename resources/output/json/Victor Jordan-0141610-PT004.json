@@ -1,0 +1,20 @@
+{
+  "patientName" : "Victor Jordan",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "08-21-25",
+  "NAC" : "no icd codes no icd codes no icd codes Automatically created pending au",
+  "Case" : "PT004",
+  "Effective Date" : "08-20-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "NCF860A23282",
+  "Patient ID" : "0141610",
+  "ICD codes" : "M25.569",
+  "Auth#" : " 4306950",
+  "details" : "approval"
+}

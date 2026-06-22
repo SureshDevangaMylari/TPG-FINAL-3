@@ -1,0 +1,19 @@
+{
+  "patientName" : "Robin Morgan",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-02-25",
+  "NAC" : "- F/U 3x12 (By TIFO) - Initial content: Eval on 6/30 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "06-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-30-25",
+  "Member ID" : "00003231322",
+  "Patient ID" : "0528527",
+  "Auth#" : "45251830321",
+  "details" : "Submit"
+}

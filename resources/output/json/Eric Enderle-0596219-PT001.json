@@ -1,0 +1,20 @@
+{
+  "patientName" : "Eric Enderle",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-02-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "11-30-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "626090940",
+  "Patient ID" : "0596219",
+  "ICD codes" : "M54.42",
+  "Auth#" : "",
+  "details" : ""
+}

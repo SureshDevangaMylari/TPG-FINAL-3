@@ -1,0 +1,19 @@
+{
+  "patientName" : "Pamela Baldwin",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-14-25",
+  "NAC" : "04-11-25 - f/u 2X6 (By JAWU) 04-02-25 - Auth: 04/02/25 RFA sent AUTH# Submi",
+  "Case" : "OT001",
+  "Effective Date" : "03-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "03-28-25",
+  "Member ID" : "00001412035 ",
+  "Patient ID" : "0494946",
+  "Auth#" : "45251040313",
+  "details" : "Submit"
+}

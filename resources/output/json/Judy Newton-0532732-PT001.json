@@ -1,0 +1,19 @@
+{
+  "patientName" : "Judy Newton",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-01-25",
+  "NAC" : "06-30-25 - f/u 2x10 (By ABME1) - Initial content: Eval on 6/30 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "06-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-24-25",
+  "Member ID" : "00002004926",
+  "Patient ID" : "0532732",
+  "Auth#" : "45251830313",
+  "details" : "Submit"
+}

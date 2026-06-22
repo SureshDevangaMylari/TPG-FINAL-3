@@ -1,0 +1,19 @@
+{
+  "patientName" : "Katie Villa",
+  "bc" : "A",
+  "payor" : "Gallagher Bassett WC",
+  "NAD" : "06-25-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "OT001",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "06-24-25",
+  "effectDate" : "06-10-25",
+  "Member ID" : "002156-001614",
+  "Patient ID" : "0516597",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

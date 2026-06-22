@@ -1,0 +1,18 @@
+{
+  "patientName" : "Shelby Harpole",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-23-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "09-22-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "11-03-25",
+  "effectDate" : null,
+  "Member ID" : "01347109401",
+  "Patient ID" : "0565536",
+  "details" : "Auth not on portal"
+}

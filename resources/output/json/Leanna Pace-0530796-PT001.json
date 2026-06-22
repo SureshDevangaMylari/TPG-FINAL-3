@@ -1,0 +1,19 @@
+{
+  "patientName" : "Leanna Pace",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "06-19-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "01633264901",
+  "Patient ID" : "0530796",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kurt Mcdowell",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-18-25",
+  "NAC" : "- F/U 3X6 (By CHZI) 08-13-25 - f/u 3x6w (By FRES) - Initial content: Eva",
+  "Case" : "PT002",
+  "Effective Date" : "08-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-01-25",
+  "Member ID" : "00001655923",
+  "Patient ID" : "0391985",
+  "Auth#" : "45252250323",
+  "details" : "Submit"
+}

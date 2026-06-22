@@ -1,0 +1,20 @@
+{
+  "patientName" : "Lance Chaplin",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-05-26",
+  "NAC" : "Hello, Is auth needed for this case?",
+  "Case" : "PT001",
+  "Effective Date" : "05-04-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00274273200",
+  "Patient ID" : "0659372",
+  "ICD codes" : "M75.41",
+  "Auth#" : "0010872531",
+  "details" : "completed"
+}

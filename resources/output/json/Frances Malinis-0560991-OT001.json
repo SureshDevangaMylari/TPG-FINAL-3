@@ -1,0 +1,19 @@
+{
+  "patientName" : "Frances Malinis",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-23-25",
+  "NAC" : "- F/U 2x6 (By CHZI) - Eval 9/19/25: 09/19 at 10:30 Authorization is requir",
+  "Case" : "OT001",
+  "Effective Date" : "09-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-18-25",
+  "Member ID" : "00000360102",
+  "Patient ID" : "0560991",
+  "Auth#" : "45252660280",
+  "details" : "Submit"
+}

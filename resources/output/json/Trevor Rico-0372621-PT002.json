@@ -1,0 +1,21 @@
+{
+  "patientName" : "Trevor Rico",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "09-29-24",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "98552641F",
+  "Patient ID" : "0372621",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

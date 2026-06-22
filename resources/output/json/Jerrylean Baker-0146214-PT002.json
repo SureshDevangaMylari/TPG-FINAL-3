@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jerrylean Baker",
+  "bc" : "A",
+  "payor" : "CIGA WC",
+  "NAD" : "09-22-25",
+  "NAC" : "09-19-25 - F/U 2x6 (By JAHE5) - Initial content: pn on 09/18 (By _____)",
+  "Case" : "PT002",
+  "Effective Date" : "09-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-15-25",
+  "Member ID" : "790056825700",
+  "Patient ID" : "0146214",
+  "ICD codes" : "[M54.9, R53.1, R26.81, R26.9, ]",
+  "details" : "Completed.."
+}

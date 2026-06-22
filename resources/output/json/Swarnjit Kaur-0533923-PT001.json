@@ -1,0 +1,19 @@
+{
+  "patientName" : "Swarnjit Kaur",
+  "bc" : "A",
+  "payor" : "Athens Administrators WC",
+  "NAD" : "08-06-25",
+  "NAC" : "08-05-25 - f/u 2X3 (By JAWU) - Initial content: 08.04 task sent to have pn s",
+  "Case" : "PT001",
+  "Effective Date" : "07-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-25-25",
+  "Member ID" : "25021596",
+  "Patient ID" : "0533923",
+  "ICD codes" : "[M54.50, M54.2, M25.562, M25.561, ]",
+  "details" : "Completed.."
+}

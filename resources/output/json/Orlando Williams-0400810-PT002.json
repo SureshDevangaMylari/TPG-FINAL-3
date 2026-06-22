@@ -1,0 +1,19 @@
+{
+  "patientName" : "Orlando Williams",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-14-25",
+  "NAC" : "07-11-25 - f/u 2x6 (By FRES) - Initial content: Eval 7/11/25 (By _____)",
+  "Case" : "PT002",
+  "Effective Date" : "06-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-10-25",
+  "Member ID" : "00000562829",
+  "Patient ID" : "0400810",
+  "Auth#" : "45251960152",
+  "details" : "Submit"
+}

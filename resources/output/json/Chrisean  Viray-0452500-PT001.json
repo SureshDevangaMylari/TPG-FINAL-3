@@ -1,0 +1,18 @@
+{
+  "patientName" : "Chrisean  Viray",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "11-26-24",
+  "NAC" : "11/25/24 AUTH# Submitted 200972696 Automatically created pending authorization",
+  "Case" : "PT001",
+  "Effective Date" : "11-21-24",
+  "Sub status" : "Pending with Insurance",
+  "Request Date" : "11-25-24",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "12-06-24",
+  "effectDate" : null,
+  "Member ID" : "H62948900 ",
+  "Patient ID" : "0452500",
+  "details" : "CERTIFIED IN TOTAL"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ismael Garcia Castro",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-29-25",
+  "NAC" : "f/u 2x4",
+  "Case" : "PT002",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "BB24305523",
+  "Patient ID" : "0366904",
+  "ICD codes" : "[G57.90, ]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jeanette Holman",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-15-25",
+  "NAC" : "- F/U 3x12 (By CHZI) - Initial content: Eval on 9/11 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "08-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-19-25",
+  "Member ID" : "00002915731",
+  "Patient ID" : "0553675",
+  "Auth#" : "45252580217",
+  "details" : "Submit"
+}

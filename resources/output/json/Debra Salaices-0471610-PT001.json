@@ -1,0 +1,19 @@
+{
+  "patientName" : "Debra Salaices",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "03-03-25",
+  "NAC" : "03-03-25 - 03-03-25 01:14p (vbojorquez) received auth via portal please add (By",
+  "Case" : "PT001",
+  "Effective Date" : "02-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "02-25-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-24-25",
+  "Member ID" : "24506136",
+  "Patient ID" : "0471610",
+  "ICD codes" : "[S33.5XXD]",
+  "details" : "Completed.."
+}

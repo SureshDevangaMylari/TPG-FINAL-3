@@ -1,0 +1,19 @@
+{
+  "patientName" : "Derek Robertson",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-02-25",
+  "NAC" : "- Initial content: 04/02/25 - F/U 2x4 weeks MS (By _____)",
+  "Case" : "OT001",
+  "Effective Date" : "04-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "04-09-25",
+  "Member ID" : "00001662252",
+  "Patient ID" : "0494141",
+  "Auth#" : "45250930144",
+  "details" : "Submit"
+}

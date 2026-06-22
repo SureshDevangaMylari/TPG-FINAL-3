@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jewelean Adams",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-30-25",
+  "NAC" : "07-28-25 - 2x3 (By VABO) - Initial content: Automatically created pending au",
+  "Case" : "PT004",
+  "Effective Date" : "07-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "07-28-25",
+  "Member ID" : "07002056",
+  "Patient ID" : "0354034",
+  "ICD codes" : "[S80.02XD, S80.01XD, S63.502D, ]",
+  "details" : "Completed.."
+}

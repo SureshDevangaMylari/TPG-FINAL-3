@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Tonya Doolin",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-08-24",
+  "NAC" : "submit once schd",
+  "Case" : "PT001",
+  "Effective Date" : "07-30-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "94423240E",
+  "Patient ID" : "0407260",
+  "ICD codes" : "M25.561",
+  "Auth#" : "OP0019419271",
+  "details" : "completed"
+}

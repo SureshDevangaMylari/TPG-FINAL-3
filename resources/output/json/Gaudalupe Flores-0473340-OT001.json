@@ -1,0 +1,19 @@
+{
+  "patientName" : "Gaudalupe Flores",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "03-06-25",
+  "NAC" : "F/U",
+  "Case" : "OT001",
+  "Effective Date" : "02-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-27-25",
+  "Member ID" : "009498-000068-WC-01",
+  "Patient ID" : "0473340",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

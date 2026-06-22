@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Erik Chavez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-08-24",
+  "NAC" : "7.31 Not scheduled 7.16 submit once scheduled",
+  "Case" : "PT001",
+  "Effective Date" : "07-16-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "93653946E",
+  "Patient ID" : "0401692",
+  "ICD codes" : "S99.912A",
+  "Auth#" : "OP0019418802",
+  "details" : "completed"
+}

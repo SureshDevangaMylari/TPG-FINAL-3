@@ -1,0 +1,19 @@
+{
+  "patientName" : "Julio Gasca",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-09-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT004",
+  "Effective Date" : "03-05-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "600880158",
+  "Patient ID" : "0220207",
+  "Auth#" : "",
+  "details" : "Approved"
+}

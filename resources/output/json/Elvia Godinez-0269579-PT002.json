@@ -1,0 +1,19 @@
+{
+  "patientName" : "Elvia Godinez",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-17-25",
+  "NAC" : "- F/U 2x4 (By TIFO) 07-03-25 - r/s to 7/16 (By JAWU) - Eval 7/2/25 (By T",
+  "Case" : "PT002",
+  "Effective Date" : "07-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "07-18-25",
+  "effectDate" : "07-16-25",
+  "Member ID" : "06603000001",
+  "Patient ID" : "0269579",
+  "Auth#" : "45251980095",
+  "details" : "Submit"
+}

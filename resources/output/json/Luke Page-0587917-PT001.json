@@ -1,0 +1,20 @@
+{
+  "patientName" : "Luke Page",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-10-25",
+  "NAC" : "Submit",
+  "Case" : "PT001",
+  "Effective Date" : "11-07-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "601022132",
+  "Patient ID" : "0587917",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No member record is displayed after entering date of birth"
+}

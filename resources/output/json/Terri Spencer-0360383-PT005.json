@@ -1,0 +1,19 @@
+{
+  "patientName" : "Terri Spencer",
+  "bc" : "A",
+  "payor" : "FRESNO UNIFIED SCHOOL DISTRICT",
+  "NAD" : "05-09-25",
+  "NAC" : "05-08-25 - please create RFA: F/U 2x6 (By JEAR2) 04-30-25 - no response from",
+  "Case" : "PT005",
+  "Effective Date" : "04-10-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "04-10-25",
+  "Member ID" : "WC24-0213-10922",
+  "Patient ID" : "0360383",
+  "ICD codes" : "[M25.562, M62.81, ACL ReconstructionACL TearAquaticsChondromalaciaContusionFractureImpairmentImpingementInstability/DislocationL1L2L3L4Ligament InjuryMassage TherapyMeniscus TearOsteoarthritisPainPatello-femoral painSprainTendonitisTotal Knee Arthoplasty]",
+  "details" : "Completed.."
+}

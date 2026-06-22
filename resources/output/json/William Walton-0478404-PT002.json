@@ -1,0 +1,19 @@
+{
+  "patientName" : "William Walton",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-06-25",
+  "NAC" : "F/u 1x6",
+  "Case" : "PT002",
+  "Effective Date" : "08-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-05-25",
+  "Member ID" : "06372958",
+  "Patient ID" : "0478404",
+  "ICD codes" : "[M25.561, R26.89, ]",
+  "details" : "Completed.."
+}

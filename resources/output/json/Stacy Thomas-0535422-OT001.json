@@ -1,0 +1,19 @@
+{
+  "patientName" : "Stacy Thomas",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-20-25",
+  "NAC" : "08-20-25 - f/u 2X10 (By JAWU) 08-19-25 - comment: nno document found - with c",
+  "Case" : "OT001",
+  "Effective Date" : "08-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "08-05-25",
+  "Member ID" : "00002989450",
+  "Patient ID" : "0535422",
+  "Auth#" : "45252320150",
+  "details" : "Submit"
+}

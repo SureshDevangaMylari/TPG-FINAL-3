@@ -1,0 +1,19 @@
+{
+  "patientName" : "James Woofter",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-31-25",
+  "NAC" : "08-01-25 - f/u 3X8 (By JAWU) 07-31-25 - comment: No Providers (By TAGA6)",
+  "Case" : "PT002",
+  "Effective Date" : "06-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-05-25",
+  "Member ID" : "00001581890",
+  "Patient ID" : "0406648",
+  "Auth#" : "45252130297",
+  "details" : "Submit"
+}

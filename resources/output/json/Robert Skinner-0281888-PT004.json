@@ -1,0 +1,19 @@
+{
+  "patientName" : "Robert Skinner",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-26-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT004",
+  "Effective Date" : "05-21-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00675637600",
+  "Patient ID" : "0281888",
+  "Auth#" : "",
+  "details" : "Approved"
+}

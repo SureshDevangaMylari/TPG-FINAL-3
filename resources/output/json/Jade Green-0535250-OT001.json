@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jade Green",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-25-25",
+  "NAC" : "08-21-25 - f/u 2X4 (By JAWU) - Initial content: pn on 08/20 (By _____)",
+  "Case" : "OT001",
+  "Effective Date" : "08-06-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "08-20-25",
+  "effectDate" : "08-06-25",
+  "Member ID" : "00000366612",
+  "Patient ID" : "0535250",
+  "Auth#" : "45252340139",
+  "details" : "Submit"
+}

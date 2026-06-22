@@ -1,0 +1,19 @@
+{
+  "patientName" : "Frank Laurel",
+  "bc" : "A",
+  "payor" : "Sedgwick",
+  "NAD" : "07-28-25",
+  "NAC" : "07-25-25 - MD signed RFA in chart, please submit to ins (By BRVI) 07-24-25 -",
+  "Case" : "PT008",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-28-25",
+  "effectDate" : "07-29-25",
+  "Member ID" : "23009205-c",
+  "Patient ID" : "0181275",
+  "ICD codes" : "[M54.50, M79.604, R53.1, ]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,18 @@
+{
+  "patientName" : "Isaiah Garcia",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "08-27-25",
+  "NAC" : "- Initial content: Automatically created pending authorization, created on savi",
+  "Case" : "OT001",
+  "Effective Date" : "08-26-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "1364830587",
+  "Patient ID" : "0556401",
+  "details" : "Auth not on portal"
+}

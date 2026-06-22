@@ -1,0 +1,19 @@
+{
+  "patientName" : "Marta Amezquita",
+  "bc" : "A",
+  "payor" : "HOMELINK WC",
+  "NAD" : "05-14-25",
+  "NAC" : "05-12-25 - PN 5/12 (By JEAR2) - Initial content: pn on 05/08 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "05-01-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-01-25",
+  "Member ID" : "12950461",
+  "Patient ID" : "0503430",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

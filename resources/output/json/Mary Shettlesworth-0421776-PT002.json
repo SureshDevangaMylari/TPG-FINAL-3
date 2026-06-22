@@ -1,0 +1,20 @@
+{
+  "patientName" : "Mary Shettlesworth",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-12-25",
+  "NAC" : "submit",
+  "Case" : "PT002",
+  "Effective Date" : "11-11-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "4NQ9TU8KH27",
+  "Patient ID" : "0421776",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DBN is a 11-digit number and the DODID is a 10-digit number"
+}

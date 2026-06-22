@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Isaiah Sherman",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-12-24",
+  "NAC" : "08.05 NOT SCHED 07.29 SUBMIT ONCE SCHED/ NOT CCS ELIG -JV",
+  "Case" : "PT001",
+  "Effective Date" : "07-29-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "93262335F",
+  "Patient ID" : "0406293",
+  "ICD codes" : "M92.60",
+  "Auth#" : "OP0019422133",
+  "details" : "completed"
+}

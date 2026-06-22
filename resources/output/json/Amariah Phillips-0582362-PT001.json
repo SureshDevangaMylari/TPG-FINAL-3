@@ -1,0 +1,19 @@
+{
+  "patientName" : "Amariah Phillips",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-03-25",
+  "NAC" : "10-30-25 - Request authorizaton rx on file (By MERE) - Initial content: Auto",
+  "Case" : "PT001",
+  "Effective Date" : "10-28-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "080681362",
+  "Patient ID" : "0582362",
+  "Auth#" : "",
+  "details" : "Approved"
+}

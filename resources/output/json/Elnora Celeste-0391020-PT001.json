@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Elnora Celeste",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-16-24",
+  "NAC" : "Submit for auth",
+  "Case" : "PT001",
+  "Effective Date" : "09-09-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "09-09-24",
+  "R.Task" : "",
+  "effectDate" : "09-09-24",
+  "Member ID" : "00019327001",
+  "Patient ID" : "0391020",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

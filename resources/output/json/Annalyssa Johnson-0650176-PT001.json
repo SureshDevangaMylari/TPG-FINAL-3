@@ -1,0 +1,20 @@
+{
+  "patientName" : "Annalyssa Johnson",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-20-26",
+  "NAC" : "04-17-26 - please obtain auth from MD (By JEAR2) 04-10-26 - tasked clinic to",
+  "Case" : "PT001",
+  "Effective Date" : "04-10-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "600667787",
+  "Patient ID" : "0650176",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

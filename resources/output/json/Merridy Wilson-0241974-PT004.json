@@ -1,0 +1,20 @@
+{
+  "patientName" : "Merridy Wilson",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-29-25",
+  "NAC" : "no icd codes no icd codes no icd codes no icd codes no icd codes",
+  "Case" : "PT004",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "40055669001",
+  "Patient ID" : "0241974",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

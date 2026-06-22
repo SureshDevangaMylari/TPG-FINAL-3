@@ -1,0 +1,19 @@
+{
+  "patientName" : "Gary Lindsay",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "06-25-25",
+  "NAC" : "f/u 2x3",
+  "Case" : "PT001",
+  "Effective Date" : "06-23-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-23-25",
+  "Member ID" : "TL177353",
+  "Patient ID" : "0517690",
+  "ICD codes" : "[Z96.651, L1]",
+  "details" : "Completed.."
+}

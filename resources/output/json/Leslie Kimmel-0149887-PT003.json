@@ -1,0 +1,20 @@
+{
+  "patientName" : "Leslie Kimmel",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "08-21-25",
+  "NAC" : "no icd codes no icd codes Automatically created pending authorization, cre",
+  "Case" : "PT003",
+  "Effective Date" : "08-20-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEE980504333",
+  "Patient ID" : "0149887",
+  "ICD codes" : "M25.569",
+  "Auth#" : "",
+  "details" : "IcdNotmatched"
+}

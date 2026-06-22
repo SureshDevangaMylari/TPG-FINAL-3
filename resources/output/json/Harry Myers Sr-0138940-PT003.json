@@ -1,0 +1,19 @@
+{
+  "patientName" : "Harry Myers Sr",
+  "bc" : "A",
+  "payor" : "PEGASUS RISK MANAGEMENT PTPN",
+  "NAD" : "08-05-25",
+  "NAC" : "f/u 2x6",
+  "Case" : "PT003",
+  "Effective Date" : "08-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-05-25",
+  "Allowed" : "0",
+  "Remaining" : "-2",
+  "NextVisit" : "08-06-25",
+  "effectDate" : "08-05-25",
+  "Member ID" : "COST013100SAX",
+  "Patient ID" : "0138940",
+  "ICD codes" : "[M54.9, M48.061, ]",
+  "details" : "Completed.."
+}

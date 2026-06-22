@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jesus Rubio",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "07-28-25",
+  "NAC" : "F/U 3x6 - CADO",
+  "Case" : "PT002",
+  "Effective Date" : "07-29-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-29-25",
+  "Member ID" : "00001176287",
+  "Patient ID" : "0168168",
+  "Auth#" : "45252120192",
+  "details" : "Submit"
+}

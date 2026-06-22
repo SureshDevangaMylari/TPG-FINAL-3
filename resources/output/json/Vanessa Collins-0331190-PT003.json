@@ -1,0 +1,20 @@
+{
+  "patientName" : "Vanessa Collins",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-18-26",
+  "NAC" : "SUBMIT",
+  "Case" : "PT003",
+  "Effective Date" : "05-14-26",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "016699611",
+  "Patient ID" : "0331190",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "DBN is a 11-digit number and the DODID is a 10-digit number"
+}

@@ -1,0 +1,20 @@
+{
+  "patientName" : "Gary Steele",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-22-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT002",
+  "Effective Date" : "01-21-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "01-28-26",
+  "effectDate" : null,
+  "Member ID" : "111111",
+  "Patient ID" : "0132509",
+  "ICD codes" : "G57.02",
+  "Auth#" : "0009482832",
+  "details" : "completed"
+}

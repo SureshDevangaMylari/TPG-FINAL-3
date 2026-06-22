@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ernesto Fregoso",
+  "bc" : "A",
+  "payor" : "Tribal First WC",
+  "NAD" : "08-26-25",
+  "NAC" : "F/U 2X6",
+  "Case" : "PT002",
+  "Effective Date" : "08-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-3",
+  "NextVisit" : "08-29-25",
+  "effectDate" : "08-25-25",
+  "Member ID" : "2023394344",
+  "Patient ID" : "0316667",
+  "ICD codes" : "[M75.21, M75.100, Z47.89, L2]",
+  "details" : "Completed.."
+}

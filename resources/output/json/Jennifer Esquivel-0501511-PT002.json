@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jennifer Esquivel",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "06-20-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00219697601",
+  "Patient ID" : "0501511",
+  "Auth#" : "",
+  "details" : "Approved"
+}

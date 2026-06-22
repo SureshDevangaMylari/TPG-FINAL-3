@@ -1,0 +1,20 @@
+{
+  "patientName" : "SAGAR Patel",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-08-25",
+  "NAC" : "no icd codes No auth in Hoag portal no icd codes no icd codes no auth",
+  "Case" : "PT004",
+  "Effective Date" : "09-03-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEO911329665",
+  "Patient ID" : "0141795",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

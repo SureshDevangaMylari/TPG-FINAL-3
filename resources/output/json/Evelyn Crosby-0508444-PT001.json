@@ -1,0 +1,19 @@
+{
+  "patientName" : "Evelyn Crosby",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-13-25",
+  "NAC" : "f/u 2x6",
+  "Case" : "PT001",
+  "Effective Date" : "05-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-12-25",
+  "Member ID" : "00003270298",
+  "Patient ID" : "0508444",
+  "Auth#" : "45251330230",
+  "details" : "Submit"
+}

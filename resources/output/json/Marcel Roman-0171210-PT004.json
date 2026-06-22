@@ -1,0 +1,20 @@
+{
+  "patientName" : "Marcel Roman",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "11-17-25",
+  "NAC" : "submit",
+  "Case" : "PT004",
+  "Effective Date" : "11-14-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00680832100",
+  "Patient ID" : "0171210",
+  "ICD codes" : "Z91.81",
+  "Auth#" : "",
+  "details" : ""
+}

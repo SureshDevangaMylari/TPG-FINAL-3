@@ -1,0 +1,19 @@
+{
+  "patientName" : "Joseph Edwards",
+  "bc" : "A",
+  "payor" : "HOMELINK WC",
+  "NAD" : "05-14-25",
+  "NAC" : "05-12-25 - PN 5/13 (By JEAR2) 05-07-25 - PN 5/8 (By JEAR2) 05-06-25 - visi",
+  "Case" : "PT001",
+  "Effective Date" : "05-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-02-25",
+  "Member ID" : "12896763",
+  "Patient ID" : "0486986",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

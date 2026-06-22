@@ -1,0 +1,19 @@
+{
+  "patientName" : "Francisco Herrera Vazquez",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-03-25",
+  "NAC" : "06-02-25 - f/u: 2x6 (By GRKL) - Initial content: eval 6/2 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "06-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-02-25",
+  "Member ID" : "00002219150",
+  "Patient ID" : "0515212",
+  "Auth#" : "45251560098",
+  "details" : "Submit"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Chana Bat-Gelber",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-27-25",
+  "NAC" : "06-26-25 - f/u 2X4 (By JAWU) 06-26-25 - f/u 2/4 (By RODO1) - Eval 6/24/25",
+  "Case" : "PT003",
+  "Effective Date" : "05-14-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-14-25",
+  "Member ID" : "00001181252 ",
+  "Patient ID" : "0516869",
+  "Auth#" : "45251780185",
+  "details" : "Submit"
+}

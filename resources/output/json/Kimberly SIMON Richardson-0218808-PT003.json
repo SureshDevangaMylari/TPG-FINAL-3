@@ -1,0 +1,20 @@
+{
+  "patientName" : "Kimberly SIMON Richardson",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "05-19-25",
+  "NAC" : "05-19-25 - update needed: Eval was 2 weeks ago. Please update about auth being s",
+  "Case" : "PT003",
+  "Effective Date" : "04-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "04-18-25",
+  "Member ID" : "00003023476",
+  "Patient ID" : "0218808",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No visit freq in comment box"
+}

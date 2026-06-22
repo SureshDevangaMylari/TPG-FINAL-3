@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michael Martin",
+  "bc" : "A",
+  "payor" : "Adminsure Inc",
+  "NAD" : "02-27-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT001",
+  "Effective Date" : "02-19-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-19-25",
+  "Member ID" : "15-124080",
+  "Patient ID" : "0436701",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

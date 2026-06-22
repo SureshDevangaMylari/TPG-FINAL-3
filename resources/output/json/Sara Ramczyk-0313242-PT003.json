@@ -1,0 +1,21 @@
+{
+  "patientName" : "Sara Ramczyk",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-02-24",
+  "NAC" : "Sent task",
+  "Case" : "PT003",
+  "Effective Date" : "09-30-24",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "91480339A",
+  "Patient ID" : "0313242",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "account using by someone"
+}

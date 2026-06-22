@@ -1,0 +1,20 @@
+{
+  "patientName" : "Cary Roberts",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "04-18-25",
+  "NAC" : "04.11.25 Still hasn't r/s - pushing out a week jw 04.08.25 NS his PN visit",
+  "Case" : "PT002",
+  "Effective Date" : "04-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "04-18-25",
+  "Member ID" : "00002565808",
+  "Patient ID" : "0401078",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No visit freq in comment box"
+}

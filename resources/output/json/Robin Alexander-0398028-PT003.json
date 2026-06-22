@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Robin Alexander",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT003",
+  "Effective Date" : "09-04-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-04-24",
+  "Member ID" : "ICA027484",
+  "Patient ID" : "0398028",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Daniel Kovar",
+  "bc" : "A",
+  "payor" : "Medrisk",
+  "NAD" : "03-04-25",
+  "NAC" : "03-05-25 - Auth Upload: Hello please review and upload auth (By JEHO) 02-18-2",
+  "Case" : "PT003",
+  "Effective Date" : "02-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "02-18-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-11-25",
+  "Member ID" : "018191004923WC01",
+  "Patient ID" : "0354036",
+  "ICD codes" : "[S46.011A, S43.101A, M25.511]",
+  "details" : "Completed.."
+}

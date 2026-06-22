@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jacinto Molohua",
+  "bc" : "A",
+  "payor" : "CCMSI WC",
+  "NAD" : "09-17-25",
+  "NAC" : "09-16-25 - 9/16/25 - f/u 2x6 - jgs (By JUGI) 09-15-25 - PN still not signed (",
+  "Case" : "PT001",
+  "Effective Date" : "08-26-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-26-25",
+  "Member ID" : "25F06M713530",
+  "Patient ID" : "0548635",
+  "ICD codes" : "[M54.59, M54.2, R29.3, ]",
+  "details" : "Completed.."
+}

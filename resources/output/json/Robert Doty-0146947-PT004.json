@@ -1,0 +1,19 @@
+{
+  "patientName" : "Robert Doty",
+  "bc" : "A",
+  "payor" : "Sedgwick",
+  "NAD" : "03-06-25",
+  "NAC" : "F/u 2x6",
+  "Case" : "PT004",
+  "Effective Date" : "02-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-25-25",
+  "Member ID" : "22009498A",
+  "Patient ID" : "0146947",
+  "ICD codes" : "[S83.242D, S46.012D]",
+  "details" : "Completed.."
+}

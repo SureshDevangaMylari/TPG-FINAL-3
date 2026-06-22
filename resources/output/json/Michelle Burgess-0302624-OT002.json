@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michelle Burgess",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-22-25",
+  "NAC" : "09-22-25 - auth before eval (By MIMO) - Initial content: Automatically creat",
+  "Case" : "OT002",
+  "Effective Date" : "09-19-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00221257302",
+  "Patient ID" : "0302624",
+  "Auth#" : "",
+  "details" : "Approved"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Benito Morales Orellana",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-12-25",
+  "NAC" : "F/U 2x8",
+  "Case" : "PT001",
+  "Effective Date" : "05-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-30-25",
+  "Member ID" : "00001225506",
+  "Patient ID" : "0516611",
+  "Auth#" : "45251680066",
+  "details" : "Submit"
+}

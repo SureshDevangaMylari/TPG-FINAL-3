@@ -1,0 +1,20 @@
+{
+  "patientName" : "Bralin Wilkinson",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "04-16-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "OT001",
+  "Effective Date" : "04-15-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "02198771200",
+  "Patient ID" : "0651894",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no dx codes"
+}

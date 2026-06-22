@@ -1,0 +1,19 @@
+{
+  "patientName" : "Paulita Ortiz",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "06-18-25",
+  "NAC" : "- F/U 2x10 (By TIFO) - Eval 6/16/25 (By TIFO) - Initial content: Automa",
+  "Case" : "PT002",
+  "Effective Date" : "06-16-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-5",
+  "NextVisit" : "06-20-25",
+  "effectDate" : "06-16-25",
+  "Member ID" : "00001720615",
+  "Patient ID" : "0493343",
+  "Auth#" : "45251690095",
+  "details" : "Submit"
+}

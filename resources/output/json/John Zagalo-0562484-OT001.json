@@ -1,0 +1,19 @@
+{
+  "patientName" : "John Zagalo",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "09-23-25",
+  "NAC" : "- F/U 1x8 (By CHZI) 09-22-25 - Awaiting signed IE (By CHZI) - Initial co",
+  "Case" : "OT001",
+  "Effective Date" : "09-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "10-09-25",
+  "effectDate" : "09-11-25",
+  "Member ID" : "00002075214",
+  "Patient ID" : "0562484",
+  "Auth#" : "45252660169",
+  "details" : "Submit"
+}

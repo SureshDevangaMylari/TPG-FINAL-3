@@ -1,0 +1,19 @@
+{
+  "patientName" : "Kristen Stevenson",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "07-14-25",
+  "NAC" : "07-10-25 - F/U 2X4 (By ERDU) - Initial content: pn on 07/11 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "07-02-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-18-25",
+  "effectDate" : "07-02-25",
+  "Member ID" : "656142",
+  "Patient ID" : "0530248",
+  "ICD codes" : "[M25.521, M62.81, S59.901A, ]",
+  "details" : "Completed.."
+}

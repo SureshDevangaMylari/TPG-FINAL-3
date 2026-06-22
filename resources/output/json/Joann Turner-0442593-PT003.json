@@ -1,0 +1,20 @@
+{
+  "patientName" : "Joann Turner",
+  "bc" : "A",
+  "payor" : "Hoag Clinic",
+  "NAD" : "11-07-24",
+  "NAC" : "same patient, new case. please add 12 hoag visits - ej",
+  "Case" : "PT003",
+  "Effective Date" : "11-06-24",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "12",
+  "Remaining" : "12",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "40032994401",
+  "Patient ID" : "0442593",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}

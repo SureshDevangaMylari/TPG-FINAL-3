@@ -1,0 +1,19 @@
+{
+  "patientName" : "Angelica Serrano",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "05-15-25",
+  "NAC" : "05-13-25 - pending last visit (By JEAR2) - Initial content: pn on 05/12 (By",
+  "Case" : "PT001",
+  "Effective Date" : "05-07-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "05-14-25",
+  "effectDate" : "05-07-25",
+  "Member ID" : "Y4K32909C",
+  "Patient ID" : "0471006",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Alena Parker",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-03-25",
+  "NAC" : "07-03-25 - f/u 2X10 (By JAWU) 07-02-25 - f/u 1/5 (By RODO1) - Initial con",
+  "Case" : "PT002",
+  "Effective Date" : "06-20-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-20-25",
+  "Member ID" : "57847800010",
+  "Patient ID" : "0373701",
+  "Auth#" : "45251840158",
+  "details" : "Submit"
+}

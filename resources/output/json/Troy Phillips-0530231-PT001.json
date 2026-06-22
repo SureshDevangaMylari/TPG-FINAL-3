@@ -1,0 +1,19 @@
+{
+  "patientName" : "Troy Phillips",
+  "bc" : "A",
+  "payor" : "Align Network/OneCall -WC",
+  "NAD" : "09-29-25",
+  "NAC" : "09-25-25 - f/u 1X4 (By JAWU) 09-16-25 - see misc doc in chart with PT denial.",
+  "Case" : "PT001",
+  "Effective Date" : "08-18-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "08-18-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-18-25",
+  "Member ID" : "WC648D60110",
+  "Patient ID" : "0530231",
+  "ICD codes" : "[M79.672, ]",
+  "details" : "Completed.."
+}

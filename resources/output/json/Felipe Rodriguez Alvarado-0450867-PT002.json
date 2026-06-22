@@ -1,0 +1,20 @@
+{
+  "patientName" : "Felipe Rodriguez Alvarado",
+  "bc" : "B",
+  "payor" : "Humana",
+  "NAD" : "",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT002",
+  "Effective Date" : "04-25-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H79977896",
+  "Patient ID" : "0450867",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

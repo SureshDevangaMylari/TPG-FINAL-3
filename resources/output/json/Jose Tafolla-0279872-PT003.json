@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jose Tafolla",
+  "bc" : "A",
+  "payor" : "Medrisk WC",
+  "NAD" : "07-10-25",
+  "NAC" : "submit",
+  "Case" : "PT003",
+  "Effective Date" : "07-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-09-25",
+  "Member ID" : "44094243",
+  "Patient ID" : "0279872",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

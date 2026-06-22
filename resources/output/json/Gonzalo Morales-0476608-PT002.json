@@ -1,0 +1,19 @@
+{
+  "patientName" : "Gonzalo Morales",
+  "bc" : "A",
+  "payor" : "MEDRISK",
+  "NAD" : "08-13-25",
+  "NAC" : "F/U 2X3",
+  "Case" : "PT002",
+  "Effective Date" : "08-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-11-25",
+  "Member ID" : "190477729001",
+  "Patient ID" : "0476608",
+  "ICD codes" : "[M25.571, L1]",
+  "details" : "Completed.."
+}

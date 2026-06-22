@@ -1,0 +1,19 @@
+{
+  "patientName" : "Tanesha Hart",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-23-25",
+  "NAC" : "05-22-25 - f/u: 3x4 (By GRKL) - Initial content: Eval on 5/22 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "05-22-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-22-25",
+  "Member ID" : "00003109897",
+  "Patient ID" : "0516539",
+  "Auth#" : "45251470243",
+  "details" : "Submit"
+}

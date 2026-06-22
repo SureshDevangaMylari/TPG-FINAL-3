@@ -1,0 +1,19 @@
+{
+  "patientName" : "Gustavo Garibay",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "07-23-25",
+  "NAC" : "07-22-25 - f/u 2X6 (By JAWU) 07-21-25 - NEED RFA UPDATED FOR UPDATED MD (By E",
+  "Case" : "PT001",
+  "Effective Date" : "06-27-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "07-06-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-27-25",
+  "Member ID" : "F6V3035",
+  "Patient ID" : "0467967",
+  "ICD codes" : "[M25.511, M62.81, Pain]",
+  "details" : "Completed.."
+}

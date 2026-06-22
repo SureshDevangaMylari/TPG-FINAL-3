@@ -1,0 +1,20 @@
+{
+  "patientName" : "Dawn Bowe",
+  "bc" : "A",
+  "payor" : "Aetna HMO (HOAG IPA)",
+  "NAD" : "09-29-25",
+  "NAC" : "no icd codes no icd codes no icd codes no icd codes Automatically cr",
+  "Case" : "PT001",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "W250609979-01",
+  "Patient ID" : "0568537",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

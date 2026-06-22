@@ -1,0 +1,19 @@
+{
+  "patientName" : "Yvonne Tobias",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "07-02-25",
+  "NAC" : "- F/U 2x12 (By TIFO) - Initial content: Eval 6/30/25 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "06-30-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-30-25",
+  "Member ID" : "00002257075",
+  "Patient ID" : "0402185",
+  "Auth#" : "45251830347",
+  "details" : "Submit"
+}

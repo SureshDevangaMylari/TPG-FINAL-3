@@ -1,0 +1,20 @@
+{
+  "patientName" : "Efrain Rosario",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "12-18-25",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "12-16-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "02045748101",
+  "Patient ID" : "0603342",
+  "ICD codes" : "M54.50",
+  "Auth#" : "0009123029",
+  "details" : "completed"
+}

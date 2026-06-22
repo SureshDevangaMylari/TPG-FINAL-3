@@ -1,0 +1,18 @@
+{
+  "patientName" : "Sylvia Martin",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "09-08-25",
+  "NAC" : "submit",
+  "Case" : "PT003",
+  "Effective Date" : "09-05-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00040861806",
+  "Patient ID" : "0257280",
+  "details" : "Auth not on portal"
+}

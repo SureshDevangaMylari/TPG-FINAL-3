@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Bonnie Tejeda",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-16-24",
+  "NAC" : "9/9 Spoke with Maria from outbound department, she is going to resubmit - AM 9",
+  "Case" : "PT003",
+  "Effective Date" : "08-28-24",
+  "Sub-Status" : "Created from payor adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "08-28-24",
+  "Member ID" : "H69140548",
+  "Patient ID" : "0189295",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

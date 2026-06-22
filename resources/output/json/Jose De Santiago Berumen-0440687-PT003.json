@@ -1,0 +1,19 @@
+{
+  "patientName" : "Jose De Santiago Berumen",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy",
+  "NAD" : "06-26-25",
+  "NAC" : "last visit 6/25",
+  "Case" : "PT003",
+  "Effective Date" : "06-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "06-25-25",
+  "effectDate" : "06-11-25",
+  "Member ID" : "2010446041",
+  "Patient ID" : "0440687",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

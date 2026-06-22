@@ -1,0 +1,20 @@
+{
+  "patientName" : "Fred Brice",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "05-14-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "05-13-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00637091900",
+  "Patient ID" : "0664027",
+  "ICD codes" : "M54.16",
+  "Auth#" : "0010986097",
+  "details" : "completed"
+}

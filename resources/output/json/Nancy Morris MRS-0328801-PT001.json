@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Nancy Morris MRS",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-17-24",
+  "NAC" : "L1 f/u 2x6 Please submit for auth",
+  "Case" : "PT001",
+  "Effective Date" : "09-16-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "08-23-24",
+  "R.Task" : "",
+  "effectDate" : "09-16-24",
+  "Member ID" : "4395963 01",
+  "Patient ID" : "0328801",
+  "ICD codes" : [ "R53.1", "R26.89", "", "" ],
+  "Auth#" : "20240919710270800001",
+  "details" : "completed"
+}

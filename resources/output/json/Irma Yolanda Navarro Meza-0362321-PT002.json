@@ -1,0 +1,19 @@
+{
+  "patientName" : "Irma Yolanda Navarro Meza",
+  "bc" : "A",
+  "payor" : "Medrisk",
+  "NAD" : "05-14-25",
+  "NAC" : "pn on 05/13",
+  "Case" : "PT002",
+  "Effective Date" : "05-06-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "05-06-25",
+  "Member ID" : "CA237672850001",
+  "Patient ID" : "0362321",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

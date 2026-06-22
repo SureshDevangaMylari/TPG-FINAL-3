@@ -1,0 +1,19 @@
+{
+  "patientName" : "Robert Laycock",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "07-31-25",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "07-30-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00606754900",
+  "Patient ID" : "0546169",
+  "Auth#" : "",
+  "details" : "Approved"
+}

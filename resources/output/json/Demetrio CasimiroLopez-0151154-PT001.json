@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Demetrio CasimiroLopez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "07-29-24",
+  "NAC" : "missing rx and clinicals, need new case to be created -jv",
+  "Case" : "00000",
+  "Effective Date" : "08-06-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "08-22-24",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "96595442A",
+  "Patient ID" : "0151154",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

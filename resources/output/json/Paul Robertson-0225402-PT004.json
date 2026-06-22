@@ -1,0 +1,20 @@
+{
+  "patientName" : "Paul Robertson",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "09-29-25",
+  "NAC" : "Automatically created pending authorization, created on adding a new case record",
+  "Case" : "PT004",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "H10750713",
+  "Patient ID" : "0225402",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

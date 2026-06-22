@@ -1,0 +1,19 @@
+{
+  "patientName" : "Karri Finley",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "05-07-25",
+  "NAC" : "- F/U 3x8 (By TIFO) 04-16-25 - IE not scheduled, pushing out 1wk (By TIFO)",
+  "Case" : "PT001",
+  "Effective Date" : "05-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "05-05-25",
+  "Member ID" : "00001808726",
+  "Patient ID" : "0502706",
+  "Auth#" : "45251270214",
+  "details" : "Submit"
+}

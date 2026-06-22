@@ -1,0 +1,19 @@
+{
+  "patientName" : "Luz Camarillo Acosta",
+  "bc" : "A",
+  "payor" : "CARE IQ",
+  "NAD" : "06-24-25",
+  "NAC" : "Automatically created pending authorization, requested by provider at signoff. T",
+  "Case" : "PT006",
+  "Effective Date" : "06-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "06-24-25",
+  "Member ID" : "ANKW55700",
+  "Patient ID" : "0298016",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

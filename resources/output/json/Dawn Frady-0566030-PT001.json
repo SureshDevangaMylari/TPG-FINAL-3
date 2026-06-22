@@ -1,0 +1,20 @@
+{
+  "patientName" : "Dawn Frady",
+  "bc" : "A",
+  "payor" : "Blue Shield HMO (Hoag IPA)",
+  "NAD" : "09-22-25",
+  "NAC" : "NoRecordsFound NoRecordsFound no icd codes Automatically created pendin",
+  "Case" : "PT001",
+  "Effective Date" : "09-19-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "XEE980471950",
+  "Patient ID" : "0566030",
+  "ICD codes" : "M25.561",
+  "Auth#" : "",
+  "details" : "NoRecordsFound"
+}

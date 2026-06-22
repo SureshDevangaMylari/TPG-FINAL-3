@@ -1,0 +1,19 @@
+{
+  "patientName" : "Mellisa Hillius",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "09-25-25",
+  "NAC" : "f/u 2X6",
+  "Case" : "PT002",
+  "Effective Date" : "09-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-24-25",
+  "Member ID" : "72440000012",
+  "Patient ID" : "0378777",
+  "Auth#" : "45252680065",
+  "details" : "Submit"
+}

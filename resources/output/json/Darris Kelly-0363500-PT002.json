@@ -1,0 +1,19 @@
+{
+  "patientName" : "Darris Kelly",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "04-28-25",
+  "NAC" : "F/U 2X8",
+  "Case" : "PT002",
+  "Effective Date" : "04-21-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "-3",
+  "NextVisit" : "04-28-25",
+  "effectDate" : "04-21-25",
+  "Member ID" : "00001722592",
+  "Patient ID" : "0363500",
+  "Auth#" : "45251180235",
+  "details" : "Submit"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Leticia Garcia",
+  "bc" : "A",
+  "payor" : "One Call Care Physical Therapy WC",
+  "NAD" : "08-06-25",
+  "NAC" : "08-05-25 - f/u 2X6 (By JAWU) 08-05-25 - PN signed for 8/1 DOS. (By DAMO)",
+  "Case" : "PT006",
+  "Effective Date" : "07-24-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "",
+  "effectDate" : "07-24-25",
+  "Member ID" : "4A221278CJ90001",
+  "Patient ID" : "0164684",
+  "ICD codes" : "[M79.671, Sprain]",
+  "details" : "Completed.."
+}

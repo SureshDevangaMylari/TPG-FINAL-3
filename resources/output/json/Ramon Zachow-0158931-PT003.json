@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ramon Zachow",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "06-05-25",
+  "NAC" : "- F/U 2x8 (By TIFO) - Initial content: Eval on 6/4 (By _____)",
+  "Case" : "PT003",
+  "Effective Date" : "06-04-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-04-25",
+  "Member ID" : "00000569061",
+  "Patient ID" : "0158931",
+  "Auth#" : "45251570101",
+  "details" : "Submit"
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Ranjeet Singh",
+  "bc" : "A",
+  "payor" : "Align Network/OneCall -WC",
+  "NAD" : "09-29-25",
+  "NAC" : "F/U 2X3",
+  "Case" : "PT001",
+  "Effective Date" : "09-25-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-25-25",
+  "Member ID" : "9422429",
+  "Patient ID" : "0527965",
+  "ICD codes" : "[M54.2, M25.512, Cervical Radiculopathy]",
+  "details" : "Completed.."
+}

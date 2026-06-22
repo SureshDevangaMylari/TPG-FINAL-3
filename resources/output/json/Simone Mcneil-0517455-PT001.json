@@ -1,0 +1,19 @@
+{
+  "patientName" : "Simone Mcneil",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "08-20-25",
+  "NAC" : "08-19-25 - f/u 2X6 (By JAWU) 08-19-25 - comment: No visit freq in comment box",
+  "Case" : "PT001",
+  "Effective Date" : "08-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-15-25",
+  "Member ID" : "00001913869",
+  "Patient ID" : "0517455",
+  "Auth#" : "45252320159",
+  "details" : "Submit"
+}

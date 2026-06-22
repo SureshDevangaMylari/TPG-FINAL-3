@@ -1,0 +1,20 @@
+{
+  "patientName" : "Lea Simon",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "01-15-26",
+  "NAC" : "submit",
+  "Case" : "PT001",
+  "Effective Date" : "01-13-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "00300058202",
+  "Patient ID" : "0612571",
+  "ICD codes" : "S51.135A",
+  "Auth#" : "0009402069",
+  "details" : "completed"
+}

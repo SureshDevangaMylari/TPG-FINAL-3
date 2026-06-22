@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Margaret Hernandez",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-29-24",
+  "NAC" : "F/U 1X13",
+  "Case" : "PT001",
+  "Effective Date" : "10-02-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "09-10-24",
+  "Last Visit" : "07-18-24",
+  "R.Task" : "",
+  "effectDate" : "10-02-24",
+  "Member ID" : "90932175A",
+  "Patient ID" : "0352178",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "no icd codes"
+}

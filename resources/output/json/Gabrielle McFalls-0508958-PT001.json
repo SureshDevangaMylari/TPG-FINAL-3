@@ -1,0 +1,19 @@
+{
+  "patientName" : "Gabrielle McFalls",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "06-09-25",
+  "NAC" : "f/u 2x10",
+  "Case" : "PT001",
+  "Effective Date" : "06-09-25",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "07-24-25",
+  "effectDate" : null,
+  "Member ID" : "257919215",
+  "Patient ID" : "0508958",
+  "Auth#" : "",
+  "details" : "Approved"
+}

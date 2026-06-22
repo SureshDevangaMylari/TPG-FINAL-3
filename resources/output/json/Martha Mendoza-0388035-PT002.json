@@ -1,0 +1,19 @@
+{
+  "patientName" : "Martha Mendoza",
+  "bc" : "A",
+  "payor" : "Payers Direct WC",
+  "NAD" : "10-01-25",
+  "NAC" : "09-24-25 - Check portal but patient is no: populating. Called Payers direct no a",
+  "Case" : "PT002",
+  "Effective Date" : "08-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "09-14-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "08-15-25",
+  "Member ID" : "TRI240083",
+  "Patient ID" : "0388035",
+  "ICD codes" : "[M75.110, S43.401D, Rotator Cuff Tear]",
+  "details" : "Completed.."
+}

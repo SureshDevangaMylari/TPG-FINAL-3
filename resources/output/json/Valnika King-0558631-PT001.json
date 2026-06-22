@@ -1,0 +1,19 @@
+{
+  "patientName" : "Valnika King",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "09-29-25",
+  "NAC" : "- F/U 1x4 (By CHZI) - Initial content: Eval on 9/25 (By _____)",
+  "Case" : "PT001",
+  "Effective Date" : "09-03-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "09-03-25",
+  "Member ID" : "00002259452",
+  "Patient ID" : "0558631",
+  "Auth#" : "45252720209",
+  "details" : "Submit"
+}

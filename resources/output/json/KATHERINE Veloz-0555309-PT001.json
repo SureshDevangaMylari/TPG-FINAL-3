@@ -1,0 +1,19 @@
+{
+  "patientName" : "KATHERINE Veloz",
+  "bc" : "A",
+  "payor" : "Broadspire WC",
+  "NAD" : "09-17-25",
+  "NAC" : "f/u 2x6",
+  "Case" : "PT001",
+  "Effective Date" : "09-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-15-25",
+  "Member ID" : "190648771001",
+  "Patient ID" : "0555309",
+  "ICD codes" : "[M54.59, M62.81, ]",
+  "details" : "Completed.."
+}

@@ -1,0 +1,19 @@
+{
+  "patientName" : "Johnnie Richardson",
+  "bc" : "A",
+  "payor" : "Nevada Medicaid Administration",
+  "NAD" : "06-20-25",
+  "NAC" : "06-19-25 - f/u 3X10 (By JAWU) 06-18-25 - Waiting for IE to be cosigned (By JA",
+  "Case" : "PT005",
+  "Effective Date" : "06-13-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "",
+  "effectDate" : "06-13-25",
+  "Member ID" : "56741700001",
+  "Patient ID" : "0132406",
+  "Auth#" : "45251710243",
+  "details" : "Submit"
+}

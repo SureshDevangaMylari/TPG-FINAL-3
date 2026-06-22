@@ -1,0 +1,21 @@
+{
+  "patientName" : "Jean Kahler",
+  "bc" : "A",
+  "payor" : "Sequoia Health IPA/Conifer Health",
+  "NAD" : "10-04-24",
+  "NAC" : "submit",
+  "Case" : "PT003",
+  "Effective Date" : "10-03-24",
+  "Sub status" : "Created from case adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "LastVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "95571434C",
+  "Patient ID" : "0031567",
+  "ICD codes" : "M51.369",
+  "Auth#" : "DxNotFound",
+  "details" : "completed"
+}

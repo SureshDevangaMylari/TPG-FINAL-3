@@ -1,0 +1,20 @@
+{
+  "patientName" : "Riley Pelfrey",
+  "bc" : "A",
+  "payor" : "Humana",
+  "NAD" : "09-29-25",
+  "NAC" : "09-24-25 - submit (By TIFO) 09-22-25 - Added a 1: Eval is 9/26, the MD is in",
+  "Case" : "PT001",
+  "Effective Date" : "09-08-25",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "0",
+  "NextVisit" : "09-26-25",
+  "effectDate" : null,
+  "Member ID" : "H7161230200",
+  "Patient ID" : "0559031",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "nno document found - with case and lead/rx"
+}

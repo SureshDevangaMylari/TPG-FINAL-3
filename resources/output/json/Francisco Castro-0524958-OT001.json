@@ -1,0 +1,19 @@
+{
+  "patientName" : "Francisco Castro",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "07-29-25",
+  "NAC" : "07-25-25 - F/U 2X4 (By ERDU) - Initial content: pending pn (By _____)",
+  "Case" : "OT001",
+  "Effective Date" : "07-15-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "07-15-25",
+  "Member ID" : "WCCW2500154301",
+  "Patient ID" : "0524958",
+  "ICD codes" : "[S62.358B, M25.60, L1]",
+  "details" : "Completed.."
+}

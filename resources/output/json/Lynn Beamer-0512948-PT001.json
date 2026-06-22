@@ -1,0 +1,19 @@
+{
+  "patientName" : "Lynn Beamer",
+  "bc" : "B",
+  "payor" : "Nevada Medicaid",
+  "NAD" : "06-13-25",
+  "NAC" : "- F/U 1x8 (By TIFO) - Initial content: Automatically created pending author",
+  "Case" : "PT001",
+  "Effective Date" : "06-11-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "1",
+  "Remaining" : "1",
+  "NextVisit" : "06-18-25",
+  "effectDate" : "06-11-25",
+  "Member ID" : "00002258934",
+  "Patient ID" : "0512948",
+  "Auth#" : "45251640122",
+  "details" : "Submit"
+}

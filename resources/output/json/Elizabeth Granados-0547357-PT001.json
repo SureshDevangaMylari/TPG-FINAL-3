@@ -1,0 +1,19 @@
+{
+  "patientName" : "Elizabeth Granados",
+  "bc" : "A",
+  "payor" : "Adminsure WC",
+  "NAD" : "09-10-25",
+  "NAC" : "F/U 2x6",
+  "Case" : "PT001",
+  "Effective Date" : "09-09-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-9",
+  "NextVisit" : "09-18-25",
+  "effectDate" : "09-09-25",
+  "Member ID" : "163160092",
+  "Patient ID" : "0547357",
+  "ICD codes" : "[M25.562, M25.662, R53.1, ]",
+  "details" : "Completed.."
+}

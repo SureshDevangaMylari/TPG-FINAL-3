@@ -1,0 +1,20 @@
+{
+  "patientName" : "Dane Griffin",
+  "bc" : "A",
+  "payor" : "Tricare West Region Eff 1-01-25",
+  "NAD" : "03-02-26",
+  "NAC" : "Automatically created pending authorization, created on saving or adding payor w",
+  "Case" : "PT001",
+  "Effective Date" : "02-26-26",
+  "Sub status" : "Created from payor adding",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : null,
+  "Member ID" : "539943338",
+  "Patient ID" : "0631733",
+  "ICD codes" : "M17.0",
+  "Auth#" : "0010015053",
+  "details" : "completed"
+}

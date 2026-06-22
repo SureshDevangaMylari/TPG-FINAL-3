@@ -1,0 +1,19 @@
+{
+  "patientName" : "Michael Johnson",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "02-21-25",
+  "NAC" : "F/U 2x3",
+  "Case" : "OT001",
+  "Effective Date" : "02-12-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "02-12-25",
+  "Member ID" : "WC608H48836",
+  "Patient ID" : "0468796",
+  "ICD codes" : "[S66.911A, M79.644, R20.2]",
+  "details" : "Completed.."
+}

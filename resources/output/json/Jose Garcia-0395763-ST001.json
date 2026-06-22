@@ -1,0 +1,21 @@
+{
+  "Patient Name" : "Jose Garcia",
+  "BC" : "A",
+  "Payor" : "Gold Coast Health Plan",
+  "NAD" : "08-05-24",
+  "NAC" : "7.24 not schd 7.12 Not scheduled 7.5 Submit once scheduled",
+  "Case" : "ST001",
+  "Effective Date" : "07-05-24",
+  "Sub-Status" : "Created from case adding",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "Member ID" : "99924133C",
+  "Patient ID" : "0395763",
+  "ICD codes" : "R13.10",
+  "Authorisation number" : "OP0019368496",
+  "details" : "completed"
+}

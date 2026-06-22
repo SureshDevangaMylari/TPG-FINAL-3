@@ -1,0 +1,19 @@
+{
+  "patientName" : "Bill Lopez",
+  "bc" : "A",
+  "payor" : "One Call Physical Therapy -WC",
+  "NAD" : "07-31-25",
+  "NAC" : "f/u 2x4 pn on 07/30",
+  "Case" : "PT002",
+  "Effective Date" : "07-28-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "-1",
+  "NextVisit" : "08-04-25",
+  "effectDate" : "07-28-25",
+  "Member ID" : "WC648C80649",
+  "Patient ID" : "0436998",
+  "ICD codes" : "[M54.59, M47.26, R26.2, R53.1, L1]",
+  "details" : "Completed.."
+}

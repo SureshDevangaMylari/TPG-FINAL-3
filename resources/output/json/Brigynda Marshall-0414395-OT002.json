@@ -1,0 +1,19 @@
+{
+  "patientName" : "Brigynda Marshall",
+  "bc" : "A",
+  "payor" : "Align/OneCall-WC",
+  "NAD" : "09-24-25",
+  "NAC" : "09-22-25 - Referral for splint is signed by MD (By JAWU) 09-17-25 - Sent task",
+  "Case" : "OT002",
+  "Effective Date" : "09-08-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-08-25",
+  "Member ID" : "4A25078F7LS0001",
+  "Patient ID" : "0414395",
+  "ICD codes" : "",
+  "details" : "No  visit freq in comment box"
+}

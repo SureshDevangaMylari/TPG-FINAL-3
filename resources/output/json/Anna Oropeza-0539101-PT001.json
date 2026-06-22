@@ -1,0 +1,19 @@
+{
+  "patientName" : "Anna Oropeza",
+  "bc" : "A",
+  "payor" : "Northbay School Ins Auth",
+  "NAD" : "09-25-25",
+  "NAC" : "09-23-25 - Northbay fax #707-428-1848 (By JAWU) 09-23-25 - need insu fax # (B",
+  "Case" : "PT001",
+  "Effective Date" : "09-05-25",
+  "Sub status" : "Created from Follow Up",
+  "Request Date" : "09-08-20",
+  "Allowed" : "0",
+  "Remaining" : "0",
+  "NextVisit" : "",
+  "effectDate" : "09-05-25",
+  "Member ID" : "250081641",
+  "Patient ID" : "0539101",
+  "ICD codes" : "[M54.2, Massage Therapy]",
+  "details" : "Completed.."
+}

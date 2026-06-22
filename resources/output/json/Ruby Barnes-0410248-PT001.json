@@ -1,0 +1,22 @@
+{
+  "Patient Name" : "Ruby Barnes",
+  "BC" : "A",
+  "Payor" : "Allcare",
+  "NAD" : "09-23-24",
+  "NAC" : "L1 Np please obtain new auth, her current one expires 10.8.24 and we are unable",
+  "Case" : "PT001",
+  "Effective Date" : "09-19-24",
+  "Sub-Status" : "Created from Follow Up",
+  "Req.Date" : "",
+  "Allow" : "0",
+  "Rem" : "0",
+  "Next Visit" : "",
+  "Last Visit" : "",
+  "R.Task" : "",
+  "effectDate" : "09-19-24",
+  "Member ID" : "00000119755",
+  "Patient ID" : "0410248",
+  "ICD codes" : "",
+  "Auth#" : "",
+  "details" : "No  visit freq in comment box"
+}
