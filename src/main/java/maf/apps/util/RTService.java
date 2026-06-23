@@ -6,7 +6,7 @@ import java.util.Map;
 import org.openqa.selenium.WebDriver;
 
 import base.DriverManager;
-import maf.apps.master.selenium.elementspath.RaintreeLocator;
+import selenium_elements_path.RaintreeLocator;
 
 public class RTService {
 
