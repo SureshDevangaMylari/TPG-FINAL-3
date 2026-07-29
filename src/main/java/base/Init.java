@@ -58,6 +58,14 @@ public class Init extends DriverManager {
 		Thread thread5 = new Thread(popupsHandler.threadtalertfun(driver));
 		Thread thread6 = new Thread(popupsHandler.threadtalertclosefun(driver));
 		logger.info("app");
+		
+		//BOT MONITOR 
+			BotMonitor botMonitor = new BotMonitor();
+			Thread monitorThread = new Thread(botMonitor);
+			monitorThread.setDaemon(true);
+			monitorThread.start();
+		//BOT MONITOR
+		
 		thread1.start();
 		thread2.start();
 

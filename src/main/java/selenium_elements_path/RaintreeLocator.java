@@ -12,6 +12,8 @@ public class RaintreeLocator {
 	public static String XinputDescription="//*[@id=\"id.TASK!!8.emrdesc\"]";
 	public static String XpnNumber="//*[@id=\"id.TASK!!8.EMRPNBTR\"]";
 	public static String XrecordCount="//*[@id=\"tabcontent\"]/div[8]/div/label[1]";
+	public static String XfreeformDescription="//label[@for='id.TASK!!8.freeform']";
+	public static String XpayerLabel="//label[normalize-space()='Primary Ins FC']//following::div[1]//div//label[1]";
 	
 
 	    public static String XgotoMenu="//div[text()='GoTo Menu']";
@@ -40,7 +42,7 @@ public class RaintreeLocator {
 		public static String XpendingWithInsurance = XsubStatus + "//option[@value='Pending with Insurance']";
 		public static String Xsubstatus = "//*[@name='penAuthSubStatus']";
 		public static String Xsubstatusinclude = "//*[@data-widgetname=\"btn_penauthsubstatus\"]";
-		public static String XapplyFilters = "//span[text()='pply Filters']";
+		public static String XapplyFilters = "//div[contains(@class,'textnode')]//span[contains(.,'pply Filters')]";
 		public static String Xnad = "//th[text()='NAD']";
 		public static String XinputRowsPath = "(//table[@class='w-listbox-table'])[1]/tbody[1]/tr";
 		public static String Xcontinue = "//div[text()='Continue']";
@@ -158,6 +160,12 @@ public class RaintreeLocator {
 	public static String XselectOption = "//div[@id='ToolbarButton.Select']/div[1]";
 
 	public static String Xtable = "//table/tbody/tr";
+
+	// Patient Name column header (click once to sort ascending)
+	public static String XpatientNameHeader = "//th[contains(normalize-space(.),'Patient Name')]";
+
+	// Patient Name cell within a task row (4th column: Created, By, Description, Patient Name)
+	public static String XpatientNameCellRelative = "./td[4]";
 
 	public static String XNAD = "//th[text()='NAD']";
 

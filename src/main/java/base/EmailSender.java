@@ -17,13 +17,13 @@ import javax.mail.internet.MimeMultipart;
 
 public class EmailSender {
 
-    public static void sendEmailWithAttachments(
+    public static void sendEmailWithAttachments (
             String[] toEmails,
             String[] ccEmails,
             String subject,
             String body,
             File[] attachments
-    )  throws Exception{
+    ) throws Exception{
     	
        final String fromEmail = DriverManager.getpropertyvalue("fromEmail");
        final String password =  DriverManager.getpropertyvalue("fromEmailPassword");
@@ -44,7 +44,7 @@ public class EmailSender {
             }
         });
 
-        try {
+       
             Message message = new MimeMessage(session);
             message.setFrom(new InternetAddress(fromEmail));
 
@@ -91,9 +91,6 @@ public class EmailSender {
             Transport.send(message);
             System.out.println("✅ Email sent successfully with multiple attachments.");
 
-        } catch (Exception e) {
-            System.err.println("❌ Failed to send email");
-            e.printStackTrace();
-        }
+       
     }
 }

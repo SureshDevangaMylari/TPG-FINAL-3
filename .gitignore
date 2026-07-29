@@ -5,3 +5,6 @@ logs/
 .idea/
 
 resources/output/Coding-To be coded/*.jar
+TPG_Output/
+TPG_Error_Folder/
+screenshots/
