@@ -6,19 +6,20 @@ logs/
 
 resources/output/Coding-To be coded/*.jar
 
-TPG_Output/*
-!TPG_Output/.gitkeep
+resources/TPG_Output/*
+!resources/TPG_Output/.gitkeep
 
-TPG_Error_Folder/*
-!TPG_Error_Folder/.gitkeep
+resources/TPG_Error_Folder/*
+!resources/TPG_Error_Folder/.gitkeep
 
-screenshots/*
-!screenshots/.gitkeep
+resources/screenshots/*
+!resources/screenshots/.gitkeep
 
-TPG_Input/*
-!TPG_Input/.gitkeep
+resources/TPG_Input/*
+!resources/TPG_Input/.gitkeep
 
-sikuli/
+resources/sikuli/*
+!resources/sikuli/.gitkeep
 
 #properties file
 env.properties
