@@ -4,7 +4,8 @@ public class ErrorReportRow {
 	    private String date;
 	    private String pnNumber;
 	    private String location;
-	    private String errorMessage; 
+	    private String errorMessage;
+		private String status;
 	    
 	    public ErrorReportRow() {
 			// TODO Auto-generated constructor stub
@@ -37,8 +38,17 @@ public class ErrorReportRow {
 	    public String getErrorMessage(){
 	    	return errorMessage;
 	    }
+
         public void setErrorMessage(String errorMessage) {
 	        this.errorMessage = errorMessage;
 	    }
+
+		public String getStatus(){
+			return status;
+		}
+
+		public void setStatus(String status) {
+			this.status = status;
+		}
 
 }

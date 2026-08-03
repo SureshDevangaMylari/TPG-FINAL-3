@@ -91,8 +91,7 @@ public class Flow implements Runnable {
 	private static List<ReportRow> reportRows = new ArrayList<>();
 	
 	//Set of processed errored on numbers
-	private static Set<String> processedErrorPnNumbers =
-	        new HashSet<>(); 
+	
 	
 	//Set of processed tasks
 	Set<String> processedTasks = new HashSet<>();
@@ -410,6 +409,7 @@ for(int i=0;i<locationIds.size();i++) {
 			int recordCountBefore=0;
 			String rowXpath=null;
 			boolean isDuplicatePatient = false;
+			String bgColor="";
 			try {
 
 				    Thread.sleep(2000);
@@ -467,14 +467,12 @@ for(int i=0;i<locationIds.size();i++) {
 				        isDuplicatePatient = true;
 				    }
 		
-				    String bgColor = row.getCssValue("background-color");
+				     bgColor = row.getCssValue("background-color");
 		
 				    System.out.println("Background Color = " + bgColor);
 		
 				    // Skip green rows only when not a duplicate (duplicates still open to capture PN#)
-				    if (!isDuplicatePatient
-				            && "rgba(189, 242, 164, 1)".contains(bgColor)) {
-		
+				    if (!isDuplicatePatient && "rgba(189, 242, 164, 1)".contains(bgColor)) {
 				        System.out.println(
 				                "Skipping Row : " + pos +
 				                " because background color is " + bgColor);
@@ -539,7 +537,7 @@ for(int i=0;i<locationIds.size();i++) {
 				    if (isDuplicatePatient) {
 				        // Opened only to capture PN# — do not process the duplicate account
 				        String pnNumber = capturePnNumberFromOpenTask();
-				        logDuplicatePatientToErrorReport(pnNumber);
+				        logDuplicatePatientToErrorReport(pnNumber, bgColor);
 				        System.out.println(
 				                "Duplicate record skipped after capturing PN#: " + pnNumber);
 				    } else {
@@ -1492,20 +1490,6 @@ for(int i=0;i<locationIds.size();i++) {
 		    // REMOVE EXTRA SPACES
 		    String pnNumber = currentPnNumber;
 
-		    // CHECK DUPLICATE
-		    if(processedErrorPnNumbers
-		            .contains(pnNumber)) {
-
-		        System.out.println(
-		                "Duplicate PN Number found: "
-		                + pnNumber);
-
-		        return;
-		    }
-
-		    // ADD TO SET
-		    processedErrorPnNumbers
-		            .add(pnNumber);
 
 		    // CREATE REPORT OBJECT
 		    ErrorReportRow errorReportRow =
@@ -1533,7 +1517,7 @@ for(int i=0;i<locationIds.size();i++) {
 		    
 		 // Error Message
 		    errorReportRow.setErrorMessage(errorMessage);
-
+		    
 		    // APPEND TO EXCEL
 		    appendErrorRowToExcel(errorReportRow);
 
@@ -1603,17 +1587,11 @@ for(int i=0;i<locationIds.size();i++) {
 	 }
 
 	 // Log skipped duplicate patient into Error Report using captured PN#
-	 public void logDuplicatePatientToErrorReport(String pnNumber) throws Exception {
+	 public void logDuplicatePatientToErrorReport(String pnNumber, String bgColor) throws Exception {
 		 if (pnNumber == null || pnNumber.isEmpty()) {
 			 System.out.println("PN Number is empty for duplicate skip. Skipping append.");
 			 return;
 		 }
-
-		 if (processedErrorPnNumbers.contains(pnNumber)) {
-			 System.out.println("Duplicate PN Number already logged: " + pnNumber);
-			 return;
-		 }
-		 processedErrorPnNumbers.add(pnNumber);
 
 		 ErrorReportRow errorReportRow = new ErrorReportRow();
 		 errorReportRow.setDate(
@@ -1622,6 +1600,12 @@ for(int i=0;i<locationIds.size();i++) {
 		 errorReportRow.setLocation(currentLocation);
 		 errorReportRow.setErrorMessage(
 		         "Exception, duplicate patient records found - patient skipped entirely");
+		 String status="";
+		 //If green put status as "Non-Workable" or else "Workable"
+		 if("rgba(189, 242, 164, 1)".contains(bgColor)){
+			 status="Non-Workable";
+		 }else  status="Workable";
+		 errorReportRow.setStatus(status);
 
 		 appendErrorRowToExcel(errorReportRow);
 		 System.out.println(
@@ -1764,7 +1748,8 @@ for(int i=0;i<locationIds.size();i++) {
 		            "Date",
 		            "PN#",
 		            "Location",
-		            "Error_Message"
+		            "Error_Message",
+		            "Status"
 		    };
 
 		    Row headerRow = sheet.createRow(0);
@@ -1832,6 +1817,7 @@ for(int i=0;i<locationIds.size();i++) {
 		    errorRow.createCell(1).setCellValue(errorReportRow.getPnNumber());
 		    errorRow.createCell(2).setCellValue(errorReportRow.getLocation());
 		    errorRow.createCell(3).setCellValue(errorReportRow.getErrorMessage());
+		    errorRow.createCell(4).setCellValue(errorReportRow.getStatus());
 		    
 		    fis.close();
 

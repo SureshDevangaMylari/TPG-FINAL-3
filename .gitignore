@@ -8,3 +8,14 @@ resources/output/Coding-To be coded/*.jar
 TPG_Output/
 TPG_Error_Folder/
 screenshots/
+TPG_Input/
+sikuli/
+
+#properties file
+env.properties
+
+
+#JVM crash logs and replay logs.
+*.log
+hs_err_pid*.log
+replay_pid*.log
