@@ -5,10 +5,19 @@ logs/
 .idea/
 
 resources/output/Coding-To be coded/*.jar
-TPG_Output/
-TPG_Error_Folder/
-screenshots/
-TPG_Input/
+
+TPG_Output/*
+!TPG_Output/.gitkeep
+
+TPG_Error_Folder/*
+!TPG_Error_Folder/.gitkeep
+
+screenshots/*
+!screenshots/.gitkeep
+
+TPG_Input/*
+!TPG_Input/.gitkeep
+
 sikuli/
 
 #properties file
