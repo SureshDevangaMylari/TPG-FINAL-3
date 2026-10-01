@@ -11,6 +11,7 @@ public class RaintreeLocator {
 	public static String XcommentSection="//*[@id='id.TASK!!8.comments']";
 	public static String XinputDescription="//*[@id=\"id.TASK!!8.emrdesc\"]";
 	public static String XpnNumber="//*[@id=\"id.TASK!!8.EMRPNBTR\"]";
+	public static String XsendFax="//*[@id=\"id.TASK!!8.send_fax\"]";
 	public static String XrecordCount="//*[@id=\"tabcontent\"]/div[8]/div/label[1]";
 	public static String XfreeformDescription="//label[@for='id.TASK!!8.freeform']";
 	public static String XpayerLabel="//label[normalize-space()='Primary Ins FC']//following::div[1]//div//label[1]";

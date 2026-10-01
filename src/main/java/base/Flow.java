@@ -88,13 +88,13 @@ public class Flow implements Runnable {
 	Flow(){
 		
 	}
-	private static List<ReportRow> reportRows = new ArrayList<>();
+	//private static List<ReportRow> reportRows = new ArrayList<>();
 	
 	//Set of processed errored on numbers
 	
 	
 	//Set of processed tasks
-	Set<String> processedTasks = new HashSet<>();
+	static Set<String> processedTasks = new HashSet<>();
 
 	static WebDriver driver;
 	List<Map<String, String>> exceldata;
@@ -139,7 +139,7 @@ public class Flow implements Runnable {
 	    
 	    //CC emails
 	    static String ccEmails[]=//null;
-	    	{"Adarsh.Sundarraj@waterlabs.ai","Pavan.Raj@waterlabs.ai","Yeshwanth.Nadavathiashoka@waterlabs.ai","Suresh.DevangaMylari@waterlabs.ai","Jaideep.Reddy@waterlabs.ai"};
+	    	{"Adarsh.Sundarraj@waterlabs.ai","Pavan.Raj@waterlabs.ai","Yeshwanth.Nadavathiashoka@waterlabs.ai","Suresh.DevangaMylari@waterlabs.ai","Jaideep.Reddy@waterlabs.ai","monish.reddy@waterlabs.ai"};
 	    
 	    //email body
 	    static String emailBody;
@@ -149,6 +149,9 @@ public class Flow implements Runnable {
 	    
 	    //Convert the reportFilePath into File Object, so we can send this output report in email
 	    static File outputReportFile;
+	    
+	  //Convert the masterReportFile into File Object, so we can send this output report in email
+	   // static File masterReportFile;
 	    
 	    static File errorOutputReportFile;
     
@@ -749,63 +752,70 @@ for(int i=0;i<locationIds.size();i++) {
 
 	
 	//Count number of attempts already completed
+	// Compares last 7 digits of history "Fax Sent to" numbers against send_fax field on the task screen
 	public static int countAttempts(String history) {
-		 
-        Pattern pattern = Pattern.compile(
-                "Successfully Sent\\s+.*?Fax Sent to\\s*:\\s*(\\d{8,15})",
-                Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
- 
-        Matcher matcher = pattern.matcher(history);
- 
-        List<String> faxNumbers = new ArrayList<>();
- 
-        while (matcher.find()) {
-            faxNumbers.add(matcher.group(1));
-        }
- 
-        if (faxNumbers.isEmpty()) {
-            return 0;
-        }
- 
-        System.out.println("Fax Numbers Found:");
-        for (String fax : faxNumbers) {
-            System.out.println(fax);
-        }
- 
-        String currentFax = faxNumbers.get(faxNumbers.size() - 1);
- 
-        int count = 0;
- 
-        System.out.println("\nTraversing from latest to oldest:");
- 
-        for (int i = faxNumbers.size() - 1; i >= 0; i--) {
- 
-            String fax = faxNumbers.get(i);
- 
-            if (fax.equals(currentFax)) {
- 
-                count++;
- 
-                System.out.println(
-                        fax + "  --> MATCH, Count = " + count);
- 
-            } else {
- 
-                System.out.println(
-                        fax + "  --> MISMATCH");
- 
-                // Start counting for new fax number
-                currentFax = fax;
-                count = 1;
- 
-                System.out.println(
-                        "New Fax Number = " + currentFax +
-                                ", Count Reset = " + count);
-            }
-        }
- 
-        return count;
-    }
+
+		String uiFaxRaw = "";
+		try {
+			WebElement faxField = driver.findElement(
+					By.xpath(RaintreeLocator.XsendFax));
+			uiFaxRaw = faxField.getAttribute("value");
+			if (uiFaxRaw == null) {
+				uiFaxRaw = "";
+			}
+		} catch (Exception e) {
+			System.out.println("Could not read send_fax field: " + e.getMessage());
+			return 1001;
+		}
+
+		// Remove spaces, (), -, and any other non-digits
+		String uiDigits = uiFaxRaw.replaceAll("[^0-9]", "");
+		System.out.println("UI send_fax raw = [" + uiFaxRaw + "], digits = [" + uiDigits + "]");
+
+		if (uiDigits.length() < 7) {
+			System.out.println("UI fax number empty/too short after cleaning — returning 1001");
+			return 1001;
+		}
+
+		String uiLast7 = uiDigits.substring(uiDigits.length() - 7);
+		System.out.println("UI fax last 7 digits = " + uiLast7);
+
+		Pattern pattern = Pattern.compile(
+				"Successfully Sent\\s+.*?Fax Sent to\\s*:\\s*(\\d{8,15})",
+				Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
+
+		Matcher matcher = pattern.matcher(history);
+
+		int count = 0;
+
+		System.out.println("\nMatching history fax numbers to UI fax (last 7 digits):");
+
+		while (matcher.find()) {
+			String historyFax = matcher.group(1);
+			String historyDigits = historyFax.replaceAll("[^0-9]", "");
+
+			if (historyDigits.length() < 7) {
+				System.out.println(historyFax + "  --> SKIP (too short)");
+				continue;
+			}
+
+			String historyLast7 = historyDigits.substring(historyDigits.length() - 7);
+
+			if (historyLast7.equals(uiLast7)) {
+				count++;
+				System.out.println(
+						historyFax + "  --> MATCH last7=" + historyLast7
+								+ ", Count = " + count);
+			} else {
+				System.out.println(
+						historyFax + "  --> MISMATCH last7=" + historyLast7
+								+ " vs UI " + uiLast7);
+			}
+		}
+
+		System.out.println("Attempt count for current UI fax = " + count);
+		return count;
+	}
 	
 	
 	//Process Each Task
@@ -840,6 +850,11 @@ for(int i=0;i<locationIds.size();i++) {
 	    		//Update currentPnNumber to include in BotMonitor email
 	    		
 	    		//=========== Get PN Number for current account ======//
+	    		
+	    		//Check if this account is processed today, if processed just skip it.
+	    		if(processedTasks.contains(pnNumber)) {
+	    			return;
+	    		}
  
 				for(int i=0;i<divs.size();i++) {
 				    System.out.println("Div " + i);
@@ -902,6 +917,9 @@ for(int i=0;i<locationIds.size();i++) {
 					    		successCount=-1;
 					    		createReportRow(pnNumber, softwareNotes, successCount);
 					    		 Thread.sleep(1000);
+					    		 
+					    		//Add current pnNumber to processedTasks set
+					    		 processedTasks.add(currentPnNumber);
 					    		 return;
 								
 							}
@@ -934,6 +952,9 @@ for(int i=0;i<locationIds.size();i++) {
 						    		successCount=-1;
 						    		createReportRow(pnNumber, softwareNotes, successCount);
 						    		 Thread.sleep(1000);
+						    		 
+						    		 //Add current pnNumber to processedTasks set
+						    		 processedTasks.add(currentPnNumber);
 						    		 return;
 						    	}
 						    }
@@ -947,6 +968,9 @@ for(int i=0;i<locationIds.size();i++) {
 					System.out.println("Account cannot be processed==============");
 					return;
 				}
+				
+				//Add the processed tasks into processedTasks Set.
+				processedTasks.add(pnNumber);
 	}
 	
 	
@@ -1099,6 +1123,10 @@ for(int i=0;i<locationIds.size();i++) {
 			 createReportRow(pnNumber, softwareNotes, successCount);
 			 //gobackToDashboard();
 			 Thread.sleep(1000);
+		 }else if(successCount==1001) {
+			 System.out.println("UI does not have fax number field, so skipping this account");
+			 softwareNotes="UI does not have fax number field, so skipping this account";
+			 createReportRow(pnNumber, softwareNotes, successCount);
 		 }
 		
 	 }
@@ -1468,7 +1496,12 @@ for(int i=0;i<locationIds.size();i++) {
 		    reportRow.setLocation(location_id);
 		 
 		 //Add reportRow to List
-		 reportRows.add(reportRow);
+		// reportRows.add(reportRow);
+		 
+		 // Update Master Report immediately
+		   // MasterReport.appendReportRow(reportRow);
+//		    logger.info(reportRow);
+//		    logger.info("Appending to master report");
 		 
 		// Immediately persist to report
 		    appendRowToExcel(reportRow);
@@ -1854,13 +1887,18 @@ for(int i=0;i<locationIds.size();i++) {
 		        emailSubject="TPG POC";
 		        emailBody="Hi Team,\r\n"
 		        		+ " \r\n"
-		        		+ "Agent TPG POC has been successfully completed. Please find the attachment\r\n"
+		        		+ "Agent TPG POC has been successfully completed. Please find the attached daily report\r\n"
 		        		+ " \r\n"
 		        		+ "Thanks,\r\n"
 		        		+ "RPA BOT Support";
 		        
+		        //Daily output Report file
 		        outputReportFile=new File(reportFilePath);
+		        //Master report file
+		        //File masterReportFile = new File(MasterReport.getMasterReportPath());
+		        
 		        File[] fileAttachments= {outputReportFile};
+		        
 		        System.out.println("Email sent from try block-----------");
 		        EmailSender.sendEmailWithAttachments(toEmails,ccEmails,emailSubject,emailBody,fileAttachments);
 	        //Send report email
@@ -1888,6 +1926,7 @@ for(int i=0;i<locationIds.size();i++) {
 		     //ATTACH OUTPUT REPORT
 		    outputReportFile=new File(reportFilePath);
 		    File[] fileAttachments= {outputReportFile, screenshotFile};
+		    
 	        EmailSender.sendEmailWithAttachments(toEmails, ccEmails, emailSubject,emailBody, fileAttachments);	
 	        
 			}catch(Exception mailException) {

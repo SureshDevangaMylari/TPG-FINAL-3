@@ -17,18 +17,54 @@ private static volatile long lastActivityTime = System.currentTimeMillis();
 
 private static volatile boolean alertSent = false;
 
+
 // 1 minute for testing
-private static final long TIMEOUT = 5 * 60 * 1000;
+private static final long TIMEOUT = 9 * 60 * 1000;
 
 public static void updateHeartbeat() {
 
     lastActivityTime = System.currentTimeMillis();
     //System.out.println("BOT last activity time: "+LocalTime.now());
 
-    // Reset alert if bot becomes active again
-    alertSent = false;
+    // If stuck alert was sent and bot is active again, notify recovery once
+    if (alertSent) {
+        System.out.println("BOT resumed after stuck — sending recovery email...");
+        sendRecoveryEmail();
+        alertSent = false;
+    }
 
 }
+
+public static void sendRecoveryEmail() {
+
+    try {
+
+        String subject = "TPG POC - BOT RECOVERY";
+
+        String body =
+                "Hi team,\n\n"
+                + "TPG Bot is resumed.\n\n"
+                + "Thanks & Regards\n"
+                + "RPA BOT Support";
+
+        EmailSender.sendEmailWithAttachments(
+                Flow.toEmails,
+                Flow.ccEmails,
+                subject,
+                body,
+                null);
+
+        System.out.println("BOT recovery email sent.");
+
+    } catch (Exception e) {
+
+        System.out.println("Failed to send BOT recovery email");
+        e.printStackTrace();
+
+    }
+
+}
+
 
 @Override
 public void run() {
@@ -47,8 +83,7 @@ public void run() {
                     "Monitor Check -> Inactivity: "
                     + inactivityTime/1000 + " seconds");
 
-            if (inactivityTime >= TIMEOUT
-                    && !alertSent) {
+            if (inactivityTime >= TIMEOUT && !alertSent) {
 
                 System.out.println(
                         "BOT STUCK DETECTED");

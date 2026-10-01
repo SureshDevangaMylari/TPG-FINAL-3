@@ -95,4 +95,14 @@ public class ReportRow {
     public void setSoftwareNotes(String softwareNotes) {
         this.softwareNotes = softwareNotes;
     }
+
+	@Override
+	public String toString() {
+		return "ReportRow [date=" + date + ", pnNumber=" + pnNumber + ", dob=" + dob + ", patientName=" + patientName
+				+ ", location=" + location + ", noOfAttempts=" + noOfAttempts + ", noridianLetter=" + noridianLetter
+				+ ", inLieuForm=" + inLieuForm + ", claimStatus=" + claimStatus + ", softwareNotes=" + softwareNotes
+				+ "]";
+	}
+    
+    
 }
